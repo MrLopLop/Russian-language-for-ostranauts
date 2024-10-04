@@ -1,0 +1,1131 @@
+[
+    {
+        "strName" : "ItmAirPump01Dmg",
+        "strNameFriendly" : "Воздушный насос с турбонаддувом (Damaged)",
+        "strDesc" : "Газовый насос серии «Sokol T» представляет собой устройство, предназначенное для использования на судах в качестве элемента системы жизнеобеспечения. Он осуществляет забор газа из любого герметичного контейнера или помещения и обеспечивает его подачу в требуемую зону. Насос может быть подключён к соответствующим системам сигнализации, что позволяет поддерживать безопасное давление.",
+        "strImg" : "ItmAirPump01Dmg02",
+        "strImgNorm" : "ItmAirPump01Dmg02n",
+        "strPortraitImg" : "ItmAirPump01Dmg02",
+        "strCOBase"    : "ItmAirPump02Dmg",
+        "strCondLoot"    : "CNDOLAirPump01",
+        "mapModeSwitches"    : [
+            "ItmAirPump02Dmg", "ItmAirPump01Dmg",
+            "ItmAirPump02DmgLoose", "ItmAirPump01DmgLoose",
+            "ItmAirPump02Off", "ItmAirPump01Off",
+            "ItmAirPump02OnG", "ItmAirPump01OnG",
+            "ItmAirPump02OffLoose", "ItmAirPump01OffLoose"
+        ]
+    },
+    {
+        "strName" : "ItmAirPump01DmgLoose",
+        "strNameFriendly" : "Воздушный насос с турбонаддувом (Damaged, Loose)",
+        "strDesc" : "Газовый насос серии «Sokol T» представляет собой устройство, предназначенное для использования на судах в качестве элемента системы жизнеобеспечения. Он осуществляет забор газа из любого герметичного контейнера или помещения и обеспечивает его подачу в требуемую зону. Насос может быть подключён к соответствующим системам сигнализации, что позволяет поддерживать безопасное давление.",
+        "strImg" : "ItmAirPump01Dmg02Loose",
+        "strImgNorm" : "ItmAirPump01Dmg02Loosen",
+        "strPortraitImg" : "ItmAirPump01Dmg02Loose",
+        "strCOBase"    : "ItmAirPump02DmgLoose",
+        "strCondLoot"    : "CNDOLAirPump01",
+        "mapSlotEffects" : [
+        "drag", "Blank"
+        ],
+        "mapModeSwitches"    : [
+            "ItmAirPump02Dmg", "ItmAirPump01Dmg",
+            "ItmAirPump02DmgLoose", "ItmAirPump01DmgLoose",
+            "ItmAirPump02Off", "ItmAirPump01Off",
+            "ItmAirPump02OnG", "ItmAirPump01OnG",
+            "ItmAirPump02OffLoose", "ItmAirPump01OffLoose"
+        ]
+    },
+    {
+        "strName" : "ItmAirPump01Off",
+        "strNameFriendly" : "Воздушный насос с турбонаддувом (Off)",
+        "strDesc" : "Газовый насос серии «Sokol T» представляет собой устройство, предназначенное для использования на судах в качестве элемента системы жизнеобеспечения. Он осуществляет забор газа из любого герметичного контейнера или помещения и обеспечивает его подачу в требуемую зону. Насос может быть подключён к соответствующим системам сигнализации, что позволяет поддерживать безопасное давление.",
+        "strImg" : "ItmAirPump01Off",
+        "strImgNorm" : "ItmAirPump01Offn",
+        "strImgDamaged" : "ItmAirPump01Dmg01",
+        "strPortraitImg" : "ItmAirPump01Off",
+        "strCOBase"    : "ItmAirPump02Off",
+        "strCondLoot"    : "CNDOLAirPump01",
+        "mapModeSwitches"    : [
+            "ItmAirPump02Dmg", "ItmAirPump01Dmg",
+            "ItmAirPump02DmgLoose", "ItmAirPump01DmgLoose",
+            "ItmAirPump02Off", "ItmAirPump01Off",
+            "ItmAirPump02OnG", "ItmAirPump01OnG",
+            "ItmAirPump02OffLoose", "ItmAirPump01OffLoose"
+        ]
+    },
+    {
+        "strName" : "ItmAirPump01OffLoose",
+        "strNameFriendly" : "Воздушный насос с турбонаддувом (Loose)",
+        "strDesc" : "Газовый насос серии «Sokol T» представляет собой устройство, предназначенное для использования на судах в качестве элемента системы жизнеобеспечения. Он осуществляет забор газа из любого герметичного контейнера или помещения и обеспечивает его подачу в требуемую зону. Насос может быть подключён к соответствующим системам сигнализации, что позволяет поддерживать безопасное давление.",
+        "strImg" : "ItmAirPump01OffLoose",
+        "strImgNorm" : "ItmAirPump01OffLoosen",
+        "strImgDamaged" : "ItmAirPump01Dmg01Loose",
+        "strPortraitImg" : "ItmAirPump01OffLoose",
+        "strCOBase"    : "ItmAirPump02OffLoose",
+        "strCondLoot"    : "CNDOLAirPump01",
+        "mapSlotEffects" : [
+        "drag", "Blank"
+        ],
+        "mapModeSwitches"    : [
+            "ItmAirPump02Dmg", "ItmAirPump01Dmg",
+            "ItmAirPump02DmgLoose", "ItmAirPump01DmgLoose",
+            "ItmAirPump02Off", "ItmAirPump01Off",
+            "ItmAirPump02OnG", "ItmAirPump01OnG",
+            "ItmAirPump02OffLoose", "ItmAirPump01OffLoose"
+        ]
+    },
+    {
+        "strName" : "ItmAirPump01OnG",
+        "strNameFriendly" : "Воздушный насос с турбонаддувом (OnG)",
+        "strDesc" : "Газовый насос серии «Sokol T» представляет собой устройство, предназначенное для использования на судах в качестве элемента системы жизнеобеспечения. Он осуществляет забор газа из любого герметичного контейнера или помещения и обеспечивает его подачу в требуемую зону. Насос может быть подключён к соответствующим системам сигнализации, что позволяет поддерживать безопасное давление.",
+        "strImg" : "ItmAirPump01Off",
+        "strImgNorm" : "ItmAirPump01Offn",
+        "strImgDamaged" : "ItmAirPump01Dmg01",
+        "strPortraitImg" : "ItmAirPump01Off",
+        "strCOBase"    : "ItmAirPump02OnG",
+        "strCondLoot"    : "CNDOLAirPump01",
+        "mapModeSwitches"    : [
+            "ItmAirPump02Dmg", "ItmAirPump01Dmg",
+            "ItmAirPump02DmgLoose", "ItmAirPump01DmgLoose",
+            "ItmAirPump02Off", "ItmAirPump01Off",
+            "ItmAirPump02OnG", "ItmAirPump01OnG",
+            "ItmAirPump02OffLoose", "ItmAirPump01OffLoose"
+        ]
+    },
+    {
+        "strName" : "ItmAirPump03Dmg",
+        "strNameFriendly" : "Воздушный насос (Damaged)",
+        "strImg" : "ItmAirPump02Dmg02",
+        "strImgNorm" : "ItmAirPump02Dmg02n",
+        "strImgDamaged" : "",
+        "strPortraitImg" : "ItmAirPump02Dmg02",
+        "strCOBase"    : "ItmAirPump02Dmg",
+        "strCondLoot"    : "CNDOLAirPump03",
+        "mapModeSwitches"    : [
+            "ItmAirPump02Dmg", "ItmAirPump03Dmg",
+            "ItmAirPump02DmgLoose", "ItmAirPump03DmgLoose",
+            "ItmAirPump02Off", "ItmAirPump03Off",
+            "ItmAirPump02OnG", "ItmAirPump03OnG",
+            "ItmAirPump02OffLoose", "ItmAirPump03OffLoose"
+        ]
+    },
+    {
+        "strName" : "ItmAirPump03DmgLoose",
+        "strNameFriendly" : "Воздушный насос (Damaged, Loose)",
+        "strImg" : "ItmAirPump02Dmg02Loose",
+        "strImgNorm" : "ItmAirPump02Dmg02Loosen",
+        "strImgDamaged" : "ItmAirPump02Dmg01Loose",
+        "strPortraitImg" : "ItmAirPump02Dmg02Loose",
+        "strCOBase"    : "ItmAirPump02DmgLoose",
+        "strCondLoot"    : "CNDOLAirPump03",
+        "mapSlotEffects" : [
+        "drag", "Blank"
+        ],
+        "mapModeSwitches"    : [
+            "ItmAirPump02Dmg", "ItmAirPump03Dmg",
+            "ItmAirPump02DmgLoose", "ItmAirPump03DmgLoose",
+            "ItmAirPump02Off", "ItmAirPump03Off",
+            "ItmAirPump02OnG", "ItmAirPump03OnG",
+            "ItmAirPump02OffLoose", "ItmAirPump03OffLoose"
+        ]
+    },
+    {
+        "strName" : "ItmAirPump03Off",
+        "strNameFriendly" : "Воздушный насос (Off)",
+        "strImg" : "ItmAirPump02Off",
+        "strImgNorm" : "ItmAirPump02Offn",
+        "strImgDamaged" : "ItmAirPump02Dmg01",
+        "strPortraitImg" : "ItmAirPump02Off",
+        "strCOBase"    : "ItmAirPump02Off",
+        "strCondLoot"    : "CNDOLAirPump03",
+        "mapModeSwitches"    : [
+            "ItmAirPump02Dmg", "ItmAirPump03Dmg",
+            "ItmAirPump02DmgLoose", "ItmAirPump03DmgLoose",
+            "ItmAirPump02Off", "ItmAirPump03Off",
+            "ItmAirPump02OnG", "ItmAirPump03OnG",
+            "ItmAirPump02OffLoose", "ItmAirPump03OffLoose"
+        ]
+    },
+    {
+        "strName" : "ItmAirPump03OffLoose",
+        "strNameFriendly" : "Воздушный насос (Loose)",
+        "strImg" : "ItmAirPump02OffLoose",
+        "strImgNorm" : "ItmAirPump02OffLoosen",
+        "strImgDamaged" : "ItmAirPump02Dmg01Loose",
+        "strPortraitImg" : "ItmAirPump02OffLoose",
+        "strCOBase"    : "ItmAirPump02OffLoose",
+        "strCondLoot"    : "CNDOLAirPump03",
+        "mapSlotEffects" : [
+            "drag", "Blank"
+        ],
+        "mapModeSwitches"    : [
+            "ItmAirPump02Dmg", "ItmAirPump03Dmg",
+            "ItmAirPump02DmgLoose", "ItmAirPump03DmgLoose",
+            "ItmAirPump02Off", "ItmAirPump03Off",
+            "ItmAirPump02OnG", "ItmAirPump03OnG",
+            "ItmAirPump02OffLoose", "ItmAirPump03OffLoose"
+        ]
+    },
+    {
+        "strName" : "ItmAirPump03OnG",
+        "strNameFriendly" : "Воздушный насос (OnG)",
+        "strImg" : "ItmAirPump02Off",
+        "strImgNorm" : "ItmAirPump02Offn",
+        "strImgDamaged" : "ItmAirPump02Dmg01",
+        "strPortraitImg" : "ItmAirPump02Off",
+        "strCOBase"    : "ItmAirPump02OnG",
+        "strCondLoot"    : "CNDOLAirPump03",
+        "mapModeSwitches"    : [
+            "ItmAirPump02Dmg", "ItmAirPump03Dmg",
+            "ItmAirPump02DmgLoose", "ItmAirPump03DmgLoose",
+            "ItmAirPump02Off", "ItmAirPump03Off",
+            "ItmAirPump02OnG", "ItmAirPump03OnG",
+            "ItmAirPump02OffLoose", "ItmAirPump03OffLoose"
+        ]
+    },
+    {
+        "strName" : "ItmBattery02LowPower",
+        "strNameFriendly" : "Батарея",
+        "strImg" : "ItmBattery02",
+        "strImgNorm" : "ItmBattery02n",
+        "strImgDamaged" : "ItmBattery02Dmg02",
+        "strPortraitImg" : "ItmBattery02",
+        "strCOBase"    : "ItmBattery02",
+        "strCondLoot"    : "CNDOLBatt02LowPower"
+    },
+    {
+        "strName" : "ItmBattery02LowPowerLoose",
+        "strNameFriendly" : "Battery (Loose)",
+        "strImg" : "ItmBattery02Loose",
+        "strImgDamaged" : "ItmBattery02Dmg02Loose",
+        "strImgNorm" : "ItmBattery02Loosen",
+        "strPortraitImg" : "ItmBattery02Loose",
+        "strCOBase"    : "ItmBattery02Loose",
+        "strCondLoot"    : "CNDOLBatt02LowPower",
+        "mapSlotEffects" : [
+            "drag", "Blank"
+          ]
+    },
+    {
+        "strName" : "ItmBattery02bLowPower",
+        "strNameFriendly" : "Батарея",
+        "strImg" : "ItmBattery02b",
+        "strImgNorm" : "ItmBattery02bn",
+        "strImgDamaged" : "ItmBattery02bDmg",
+        "strPortraitImg" : "ItmBattery02b",
+        "strCOBase"    : "ItmBattery02b",
+        "strCondLoot"    : "CNDOLBatt02bLowPower"
+    },
+    {
+        "strName" : "ItmBattery02bLowPowerLoose",
+        "strNameFriendly" : "Battery (Loose)",
+        "strImg" : "ItmBattery02bLoose",
+        "strImgDamaged" : "ItmBattery02bDmgLoose",
+        "strImgNorm" : "ItmBattery02bLoosen",
+        "strPortraitImg" : "ItmBattery02bLoose",
+        "strCOBase"    : "ItmBattery02bLoose",
+        "strCondLoot"    : "CNDOLBatt02bLowPower",
+        "mapSlotEffects" : [
+            "drag", "Blank"
+          ]
+    },
+    {
+        "strName" : "ItmBattery02cLowPower",
+        "strNameFriendly" : "Батарея",
+        "strImg" : "ItmBattery02c",
+        "strImgNorm" : "ItmBattery02cn",
+        "strImgDamaged" : "ItmBattery02cDmg",
+        "strPortraitImg" : "ItmBattery02c",
+        "strCOBase"    : "ItmBattery02c",
+        "strCondLoot"    : "CNDOLBatt02cLowPower"
+    },
+    {
+        "strName" : "ItmBattery02cLowPowerLoose",
+        "strNameFriendly" : "Батарея (Loose)",
+        "strImg" : "ItmBattery02cLoose",
+        "strImgDamaged" : "ItmBattery02cDmgLoose",
+        "strImgNorm" : "ItmBattery02cLoosen",
+        "strPortraitImg" : "ItmBattery02cLoose",
+        "strCOBase"    : "ItmBattery02cLoose",
+        "strCondLoot"    : "CNDOLBatt02cLowPower",
+        "mapSlotEffects" : [
+            "drag", "Blank"
+          ]
+    },   
+    {
+        "strName" : "ItmBookStudyEngConstruction01",
+        "strNameShort" : "Учебник по строительству",
+        "strNameFriendly" : "Учебник: Строительная инженерия",
+        "strDesc" : "Интерактивное учебное пособие, помогающее читателям развивать навыки в области строительной инженерии.\n\nFFWD ACTIVE BENEFIT: Study Construction Engineering.",
+        "strCOBase"    : "ItmBookStudyEngElectronic01",
+        "strCondLoot"    : "CNDOLBookStudyEngConstruction01",
+        "aInteractionsReplace" : [
+            "ACTStudySkillEngElectronic", "ACTStudySkillEngConstruction"
+        ],
+        "mapSlotEffects" : [
+            "heldL","HeldItmDefaultL",
+            "heldR","HeldItmDefaultR"
+        ]
+    }, 
+    {
+        "strName" : "ItmBookStudyEngCivil01",
+        "strNameShort" : "гражданское строительство учебник",
+        "strNameFriendly" : "Учебник: гражданское строительство",
+        "strDesc" : "Интерактивный учебник, помогающий читателям развивать навыки в области гражданского строительства.\n\nFFWD ACTIVE BENEFIT: Study Civil Engineering.",
+        "strCOBase"    : "ItmBookStudyEngElectronic01",
+        "strCondLoot"    : "CNDOLBookStudyEngCivil01",
+        "aInteractionsReplace" : [
+            "ACTStudySkillEngElectronic", "ACTStudySkillEngCivil"
+        ],
+        "mapSlotEffects" : [
+            "heldL","HeldItmDefaultL",
+            "heldR","HeldItmDefaultR"
+        ]
+    }, 
+    {
+        "strName" : "ItmBookStudyEngCombat01",
+        "strNameShort" : "Учебник: Боевая инженерия",
+        "strNameFriendly" : "Учебник: Боевая инженерия",
+        "strDesc" : "Интерактивный учебник, изданный издательством Brave New World и помогающий читателям развивать навыки в области боевой инженерии.\n\nFFWD ACTIVE BENEFIT: Study Combat Engineering.",
+        "strCOBase"    : "ItmBookStudyEngElectronic01",
+        "strCondLoot"    : "CNDOLBookStudyEngCombat01",
+        "aInteractionsReplace" : [
+            "ACTStudySkillEngElectronic", "ACTStudySkillEngCombat"
+        ],
+        "mapSlotEffects" : [
+            "heldL","HeldItmDefaultL",
+            "heldR","HeldItmDefaultR"
+        ]
+    }, 
+    {
+        "strName" : "ItmBookStudyEngMechanical01",
+        "strNameShort" : "Учебник: Машиностроение",
+        "strNameFriendly" : "Учебник: Машиностроение",
+        "strDesc" : "Интерактивный учебник, помогающий читателям развивать навыки в области машиностроения.\n\nFFWD ACTIVE BENEFIT: Study Mechanical Engineering.",
+        "strCOBase"    : "ItmBookStudyEngElectronic01",
+        "strCondLoot"    : "CNDOLBookStudyEngMechanical01",
+        "aInteractionsReplace" : [
+            "ACTStudySkillEngElectronic", "ACTStudySkillEngMechanical"
+        ],
+        "mapSlotEffects" : [
+            "heldL","HeldItmDefaultL",
+            "heldR","HeldItmDefaultR"
+        ]
+    }, 
+    {
+        "strName" : "ItmBookStudyEngRobotics01",
+        "strNameShort" : "Учебник: робототехники",
+        "strNameFriendly" : "Учебник: Робототехническая инженерия",
+        "strDesc" : "Интерактивный учебник, помогающий читателям развивать навыки в области робототехники.\n\nFFWD ACTIVE BENEFIT: Study Robotics Engineering.",
+        "strCOBase"    : "ItmBookStudyEngElectronic01",
+        "strCondLoot"    : "CNDOLBookStudyEngRobotics01",
+        "aInteractionsReplace" : [
+            "ACTStudySkillEngElectronic", "ACTStudySkillEngRobotics"
+        ],
+        "mapSlotEffects" : [
+            "heldL","HeldItmDefaultL",
+            "heldR","HeldItmDefaultR"
+        ]
+    }, 
+    {
+        "strName" : "ItmBookStudyEngSoftware01",
+        "strNameShort" : "Учебник: Програмирование",
+        "strNameFriendly" : "Учебник: Разработка программного обеспечения",
+        "strDesc" : "Интерактивный учебник, помогающий читателям развивать навыки разработки программного обеспечения.\n\nFFWD ACTIVE BENEFIT: Study Software Engineering.",
+        "strCOBase"    : "ItmBookStudyEngElectronic01",
+        "strCondLoot"    : "CNDOLBookStudyEngSoftware01",
+        "aInteractionsReplace" : [
+            "ACTStudySkillEngElectronic", "ACTStudySkillEngSoftware"
+        ],
+        "mapSlotEffects" : [
+            "heldL","HeldItmDefaultL",
+            "heldR","HeldItmDefaultR"
+        ]
+    },
+    {
+        "strName" : "ItmBookStudyEngSpaceship01",
+        "strNameShort" : "Учебник: Проектирование космических кораблей",
+        "strNameFriendly" : "Учебник: Проектирование космических кораблей",
+        "strDesc" : "Интерактивный учебник, помогающий читателям развивать навыки в области конструирования космических аппаратов.\n\nFFWD ACTIVE BENEFIT: Study Spaceship Engineering.",
+        "strCOBase"    : "ItmBookStudyEngElectronic01",
+        "strCondLoot"    : "CNDOLBookStudyEngSpaceship01",
+        "aInteractionsReplace" : [
+            "ACTStudySkillEngElectronic", "ACTStudySkillEngSpaceship"
+        ],
+        "mapSlotEffects" : [
+            "heldL","HeldItmDefaultL",
+            "heldR","HeldItmDefaultR"
+        ]
+    }, 
+    {
+        "strName" : "ItmBookStudyHacking01",
+        "strNameShort" : "Учебник по хакерству",
+        "strNameFriendly" : "Учебник: Взлом",
+        "strDesc" : "Интерактивное учебное пособие, помогающее читателям развить навыки в области методов компьютерного вторжения и эксплуатации компьютеров.\n\nFFWD ACTIVE BENEFIT: Study Hacking Engineering.",
+        "strCOBase"    : "ItmBookStudyEngElectronic01",
+        "strCondLoot"    : "CNDOLBookStudyHacking01",
+        "aInteractionsReplace" : [
+            "ACTStudySkillEngElectronic", "ACTStudySkillHacking"
+        ],
+        "mapSlotEffects" : [
+            "heldL","HeldItmDefaultL",
+            "heldR","HeldItmDefaultR"
+        ]
+    },
+    {
+        "strName" : "ItmConduit01",
+        "strNameFriendly" : "Провода: Collective Electric \"Albrite\" EMT",
+        "strImg" : "ItmConduit02Sheet",
+        "strImgNorm" : "ItmConduit02Sheetn",
+        "strPortraitImg" : "ItmConduit02",
+        "strCOBase"    : "ItmConduit00",
+        "strCondLoot"    : "CNDOLConduit01",
+        "mapModeSwitches"    : [
+            "ItmConduit00", "ItmConduit01",
+            "ItmConduit00Dmg", "ItmConduit01Dmg",
+            "ItmConduit00Loose", "ItmConduit01Loose",
+            "ItmConduit00DmgLoose", "ItmConduit01DmgLoose"
+        ]
+    },
+    {
+        "strName" : "ItmConduit01Dmg",
+        "strNameFriendly" : "Провода (Damaged): Collective Electric \"Albrite\" EMT",
+        "strImg" : "ItmConduit02SheetDmg",
+        "strImgNorm" : "ItmConduit02Sheetn",
+        "strPortraitImg" : "ItmConduit02SheetDmg",
+        "strCOBase"    : "ItmConduit00Dmg",
+        "strCondLoot"    : "CNDOLConduit01Dmg",
+        "mapModeSwitches"    : [
+            "ItmConduit00", "ItmConduit01",
+            "ItmConduit00Dmg", "ItmConduit01Dmg",
+            "ItmConduit00Loose", "ItmConduit01Loose",
+            "ItmConduit00DmgLoose", "ItmConduit01DmgLoose"
+        ]
+    },
+    {
+        "strName" : "ItmConduit01Loose",
+        "strNameFriendly" : "Провода (Loose): Collective Electric \"Albrite\" EMT",
+        "strImg" : "ItmConduit02Loose",
+        "strImgNorm" : "ItmConduit02Loosen",
+        "strPortraitImg" : "ItmConduit02Loose",
+        "strCOBase"    : "ItmConduit00Loose",
+        "strCondLoot"    : "CNDOLConduit01",
+        "mapSlotEffects" : [
+            "heldL","HeldItmDefaultSoftL",
+            "heldR","HeldItmDefaultSoftR"
+        ],
+        "mapModeSwitches"    : [
+            "ItmConduit00", "ItmConduit01",
+            "ItmConduit00Dmg", "ItmConduit01Dmg",
+            "ItmConduit00Loose", "ItmConduit01Loose",
+            "ItmConduit00DmgLoose", "ItmConduit01DmgLoose"
+        ]
+    },
+    {
+        "strName" : "ItmConduit01DmgLoose",
+        "strNameFriendly" : "Провода (Loose, Damaged): Collective Electric \"Albrite\" EMT",
+        "strImg" : "ItmConduit02Dmg02Loose",
+        "strImgNorm" : "ItmConduit02Loosen",
+        "strPortraitImg" : "ItmConduit02Dmg02Loose",
+        "strCOBase"    : "ItmConduit00DmgLoose",
+        "strCondLoot"    : "CNDOLConduit01Dmg",
+        "mapSlotEffects" : [
+            "heldL","HeldItmDefaultSoftL",
+            "heldR","HeldItmDefaultSoftR"
+        ],
+        "mapModeSwitches"    : [
+            "ItmConduit00", "ItmConduit01",
+            "ItmConduit00Dmg", "ItmConduit01Dmg",
+            "ItmConduit00Loose", "ItmConduit01Loose",
+            "ItmConduit00DmgLoose", "ItmConduit01DmgLoose"
+        ]
+    },
+    {
+        "strName" : "ItmConduit04",
+        "strNameFriendly" : "Провода: Jumper-Jack Emergency Cabling",
+        "strImg" : "ItmConduit04Sheet",
+        "strImgNorm" : "ItmConduit04Sheetn",
+        "strPortraitImg" : "ItmConduit04",
+        "strCOBase"    : "ItmConduit00",
+        "strCondLoot"    : "CNDOLConduit04",
+        "mapModeSwitches"    : [
+            "ItmConduit00", "ItmConduit04",
+            "ItmConduit00Dmg", "ItmConduit04Dmg",
+            "ItmConduit00Loose", "ItmConduit04Loose",
+            "ItmConduit00DmgLoose", "ItmConduit04DmgLoose"
+        ],
+        "aInteractionsReplace" : [
+            "ACTConduit00Uninstall", "ACTConduit04Uninstall",
+            "ACTConduit00UninstallNoSkill", "ACTConduit04UninstallNoSkill"
+        ]
+    },
+    {
+        "strName" : "ItmConduit04Dmg",
+        "strNameFriendly" : "Провода (Damaged): Jumper-Jack Emergency Cabling",
+        "strImg" : "ItmConduit04SheetDmg",
+        "strImgNorm" : "ItmConduit04Sheetn",
+        "strPortraitImg" : "ItmConduit04SheetDmg",
+        "strCOBase"    : "ItmConduit00Dmg",
+        "strCondLoot"    : "CNDOLConduit04Dmg",
+        "mapModeSwitches"    : [
+            "ItmConduit00", "ItmConduit04",
+            "ItmConduit00Dmg", "ItmConduit04Dmg",
+            "ItmConduit00Loose", "ItmConduit04Loose",
+            "ItmConduit00DmgLoose", "ItmConduit04DmgLoose"
+        ]
+    },
+    {
+        "strName" : "ItmConduit04Loose",
+        "strNameFriendly" : "Провода (Loose): Jumper-Jack Emergency Cabling",
+        "strImg" : "ItmConduit04Loose",
+        "strImgNorm" : "ItmConduit04Loosen",
+        "strPortraitImg" : "ItmConduit04Loose",
+        "strCOBase"    : "ItmConduit00Loose",
+        "strCondLoot"    : "CNDOLConduit04",
+        "mapSlotEffects" : [
+            "heldL","HeldItmDefaultSoftL",
+            "heldR","HeldItmDefaultSoftR"
+        ],
+        "mapModeSwitches"    : [
+            "ItmConduit00", "ItmConduit04",
+            "ItmConduit00Dmg", "ItmConduit04Dmg",
+            "ItmConduit00Loose", "ItmConduit04Loose",
+            "ItmConduit00DmgLoose", "ItmConduit04DmgLoose"
+        ]
+    },
+    {
+        "strName" : "ItmConduit04DmgLoose",
+        "strNameFriendly" : "Провода (Loose): Jumper-Jack Emergency Cabling",
+        "strImg" : "ItmConduit04DmgLoose",
+        "strImgNorm" : "ItmConduit04Loosen",
+        "strPortraitImg" : "ItmConduit04DmgLoose",
+        "strCOBase"    : "ItmConduit00DmgLoose",
+        "strCondLoot"    : "CNDOLConduit04Dmg",
+        "mapSlotEffects" : [
+            "heldL","HeldItmDefaultSoftL",
+            "heldR","HeldItmDefaultSoftR"
+        ],
+        "mapModeSwitches"    : [
+            "ItmConduit00", "ItmConduit04",
+            "ItmConduit00Dmg", "ItmConduit04Dmg",
+            "ItmConduit00Loose", "ItmConduit04Loose",
+            "ItmConduit00DmgLoose", "ItmConduit04DmgLoose"
+        ]
+    },
+    {
+        "strName" : "ItmDecorPoster02",
+        "strNameFriendly" : "Плакат: Путешествие на Тарсис Лэндинг",
+        "strDesc" : "Туристический плакат, посвященный высадке Тарсиса на Марс.",
+        "strImg"  : "manuals/DecorPosters/PASS_TharsisLanding-pst",
+        "strImgNorm"  : "ItmPoster01n",
+        "strPortraitImg"  : "manuals/DecorPosters/PASS_TharsisLanding",
+        "strCOBase"    : "ItmDecorPoster01",
+        "strCondLoot"    : "CNDOLDecorPoster02",
+        "mapGUIPropMaps"  : [
+            "Panel OneSheet",
+            "OneSheetDecorPoster02"
+          ],
+        "mapModeSwitches"    : [
+            "ItmDecorPoster01", "ItmDecorPoster02",
+            "ItmDecorPoster01Loose", "ItmDecorPoster02Loose"
+        ]
+    },
+    {
+        "strName" : "ItmDecorPoster02Loose",
+        "strNameFriendly" : "Плакат: Путешествие на Тарсис Лэндинг (Loose)",
+        "strDesc" : "Туристический плакат, посвященный высадке Тарсиса на Марс.",
+        "strImg"  : "manuals/DecorPosters/PASS_TharsisLanding-sm",
+        "strImgNorm"  : "ItmPaper01n",
+        "strPortraitImg"  : "manuals/DecorPosters/PASS_TharsisLanding",
+        "strCOBase"    : "ItmDecorPoster01Loose",
+        "strCondLoot"    : "CNDOLDecorPoster02",
+        "mapSlotEffects" : [
+            "heldL","HeldItmDefaultSoftL",
+            "heldR","HeldItmDefaultSoftR"
+        ],
+        "mapGUIPropMaps"  : [
+            "Panel OneSheet",
+            "OneSheetDecorPoster02"
+          ],
+        "mapModeSwitches"    : [
+            "ItmDecorPoster01", "ItmDecorPoster02",
+            "ItmDecorPoster01Loose", "ItmDecorPoster02Loose"
+        ]
+    },
+    {
+        "strName" : "ItmDecorPoster03",
+        "strNameFriendly" : "Плакат: Путешествие в Атлантиду",
+        "strDesc" : "Туристический плакат PASS, посвященный Атлантиде на Европе, Юпитер.",
+        "strImg"  : "manuals/DecorPosters/PASS_Atlantis-pst",
+        "strImgNorm"  : "ItmPoster01n",
+        "strPortraitImg"  : "manuals/DecorPosters/PASS_Atlantis",
+        "strCOBase"    : "ItmDecorPoster01",
+        "strCondLoot"    : "CNDOLDecorPoster03",
+        "mapGUIPropMaps"  : [
+            "Panel OneSheet",
+            "OneSheetDecorPoster03"
+          ],
+        "mapModeSwitches"    : [
+            "ItmDecorPoster01", "ItmDecorPoster03",
+            "ItmDecorPoster01Loose", "ItmDecorPoster03Loose"
+        ]
+    },
+    {
+        "strName" : "ItmDecorPoster03Loose",
+        "strNameFriendly" : "Плакат: Путешествие в Атлантиду (Loose)",
+        "strDesc" : "Туристический плакат PASS, посвященный Атлантиде на Европе, Юпитер.",
+        "strImg"  : "manuals/DecorPosters/PASS_Atlantis-sm",
+        "strImgNorm"  : "ItmPaper01n",
+        "strPortraitImg"  : "manuals/DecorPosters/PASS_Atlantis",
+        "strCOBase"    : "ItmDecorPoster01Loose",
+        "strCondLoot"    : "CNDOLDecorPoster03",
+        "mapSlotEffects" : [
+            "heldL","HeldItmDefaultSoftL",
+            "heldR","HeldItmDefaultSoftR"
+        ],
+        "mapGUIPropMaps"  : [
+            "Panel OneSheet",
+            "OneSheetDecorPoster03"
+          ],
+        "mapModeSwitches"    : [
+            "ItmDecorPoster01", "ItmDecorPoster03",
+            "ItmDecorPoster01Loose", "ItmDecorPoster03Loose"
+        ]
+    },
+    {
+        "strName" : "ItmDecorPoster04",
+        "strNameFriendly" : "Плакат: Реклама вице-короля",
+        "strDesc" : "Рекламный плакат с изображением фирменного красного кролика, талисмана сигарет Sungura Viceroys.\n\"Перекур! Приказ вице-короля.\"",
+        "strImg"  : "manuals/DecorPosters/ViceroysAdvert-pst",
+        "strImgNorm"  : "ItmPoster01n",
+        "strPortraitImg"  : "manuals/DecorPosters/ViceroysAdvert",
+        "strCOBase"    : "ItmDecorPoster01",
+        "strCondLoot"    : "CNDOLDecorPoster04",
+        "mapGUIPropMaps"  : [
+            "Panel OneSheet",
+            "OneSheetDecorPoster04"
+          ],
+        "mapModeSwitches"    : [
+            "ItmDecorPoster01", "ItmDecorPoster04",
+            "ItmDecorPoster01Loose", "ItmDecorPoster04Loose"
+        ]
+    },
+    {
+        "strName" : "ItmDecorPoster04Loose",
+        "strNameFriendly" : "Плакат: Реклама вице-короля (Loose)",
+        "strDesc" : "Рекламный плакат с изображением фирменного красного кролика, талисмана сигарет Sungura Viceroys.\n\"Перекур! Приказ вице-короля.\"",
+        "strImg"  : "manuals/DecorPosters/ViceroysAdvert-sm",
+        "strImgNorm"  : "ItmPaper01n",
+        "strPortraitImg"  : "manuals/DecorPosters/ViceroysAdvert",
+        "strCOBase"    : "ItmDecorPoster01Loose",
+        "strCondLoot"    : "CNDOLDecorPoster04",
+        "mapSlotEffects" : [
+            "heldL","HeldItmDefaultSoftL",
+            "heldR","HeldItmDefaultSoftR"
+        ],
+        "mapGUIPropMaps"  : [
+            "Panel OneSheet",
+            "OneSheetDecorPoster04"
+          ],
+        "mapModeSwitches"    : [
+            "ItmDecorPoster01", "ItmDecorPoster04",
+            "ItmDecorPoster01Loose", "ItmDecorPoster04Loose"
+        ]
+    },
+    {
+        "strName" : "ItmDecorPoster05",
+        "strNameFriendly" : "Плакат: Лаки говорит, что ПАНИКУЕТ",
+        "strDesc" : "Плакат Ayotimiwa PSA с изображением всеми любимого Lucky the Lusca: это аббревиатура шагов по реагированию на нарушение атмосферы на корабле.",
+        "strImg"  : "manuals/DecorPosters/LUCKY_SAYS_PANIC-pst",
+        "strImgNorm"  : "ItmPoster01n",
+        "strPortraitImg"  : "manuals/DecorPosters/LUCKY_SAYS_PANIC",
+        "strCOBase"    : "ItmDecorPoster01",
+        "strCondLoot"    : "CNDOLDecorPoster05",
+        "mapGUIPropMaps"  : [
+            "Panel OneSheet",
+            "OneSheetDecorPoster05"
+          ],
+        "mapModeSwitches"    : [
+            "ItmDecorPoster01", "ItmDecorPoster05",
+            "ItmDecorPoster01Loose", "ItmDecorPoster05Loose"
+        ]
+    },
+    {
+        "strName" : "ItmDecorPoster05Loose",
+        "strNameFriendly" : "Плакат: Лаки говорит, что ПАНИКУЕТ (Loose)",
+        "strDesc" : "Плакат Ayotimiwa PSA с изображением всеми любимого Lucky the Lusca: это аббревиатура шагов по реагированию на нарушение атмосферы на корабле.",
+        "strImg"  : "manuals/DecorPosters/LUCKY_SAYS_PANIC-sm",
+        "strImgNorm"  : "ItmPaper01n",
+        "strPortraitImg"  : "manuals/DecorPosters/LUCKY_SAYS_PANIC",
+        "strCOBase"    : "ItmDecorPoster01Loose",
+        "strCondLoot"    : "CNDOLDecorPoster05",
+        "mapSlotEffects" : [
+            "heldL","HeldItmDefaultSoftL",
+            "heldR","HeldItmDefaultSoftR"
+        ],
+        "mapGUIPropMaps"  : [
+            "Panel OneSheet",
+            "OneSheetDecorPoster05"
+          ],
+        "mapModeSwitches"    : [
+            "ItmDecorPoster01", "ItmDecorPoster05",
+            "ItmDecorPoster01Loose", "ItmDecorPoster05Loose"
+        ]
+    },
+    {
+        "strName" : "ItmDecorPoster06",
+        "strNameFriendly" : "Плакат: Лаки говорит СДАВАЙСЯ",
+        "strDesc" : "Плакат авиакомпании Ayotimiwa PSA с изображением всеми любимого Lucky the Lusca: это аббревиатура от Советов по пилотированию в воздушном пространстве K-Leg.",
+        "strImg"  : "manuals/DecorPosters/LUCKY_SAYS_YIELD-pst",
+        "strImgNorm"  : "ItmPoster01n",
+        "strPortraitImg"  : "manuals/DecorPosters/LUCKY_SAYS_YIELD",
+        "strCOBase"    : "ItmDecorPoster01",
+        "strCondLoot"    : "CNDOLDecorPoster06",
+        "mapGUIPropMaps"  : [
+            "Panel OneSheet",
+            "OneSheetDecorPoster06"
+          ],
+        "mapModeSwitches"    : [
+            "ItmDecorPoster01", "ItmDecorPoster06",
+            "ItmDecorPoster01Loose", "ItmDecorPoster06Loose"
+        ]
+    },
+    {
+        "strName" : "ItmDecorPoster06Loose",
+        "strNameFriendly" : "Плакат: Лаки говорит СДАВАЙСЯ (Loose)",
+        "strDesc" : "Плакат авиакомпании Ayotimiwa PSA с изображением всеми любимого Lucky the Lusca: это аббревиатура от Советов по пилотированию в воздушном пространстве K-Leg.",
+        "strImg"  : "manuals/DecorPosters/LUCKY_SAYS_YIELD-sm",
+        "strImgNorm"  : "ItmPaper01n",
+        "strPortraitImg"  : "manuals/DecorPosters/LUCKY_SAYS_YIELD",
+        "strCOBase"    : "ItmDecorPoster01Loose",
+        "strCondLoot"    : "CNDOLDecorPoster06",
+        "mapSlotEffects" : [
+            "heldL","HeldItmDefaultSoftL",
+            "heldR","HeldItmDefaultSoftR"
+        ],
+        "mapGUIPropMaps"  : [
+            "Panel OneSheet",
+            "OneSheetDecorPoster06"
+          ],
+        "mapModeSwitches"    : [
+            "ItmDecorPoster01", "ItmDecorPoster06",
+            "ItmDecorPoster01Loose", "ItmDecorPoster06Loose"
+        ]
+    },
+    {
+        "strName" : "ItmDecorPoster09",
+        "strNameFriendly" : "Плакат: Черный Бык Кейп",
+        "strDesc" : "Рекламный плакат, демонстрирующий агрессивную насыщенность только 100%-ного Капенг Барако, приготовленного компанией system, с ярко выраженным дымчатым вкусом и цветочным ароматом кофейных зерен Pinoy Liberica. \"От этого напитка black bull kick вы будете в восторге\".",
+        "strImg"  : "manuals/DecorPosters/BlackBullKape-pst",
+        "strImgNorm"  : "ItmPoster01n",
+        "strPortraitImg"  : "manuals/DecorPosters/BlackBullKape",
+        "strCOBase"    : "ItmDecorPoster01",
+        "strCondLoot"    : "CNDOLDecorPoster09",
+        "mapGUIPropMaps"  : [
+            "Panel OneSheet",
+            "OneSheetDecorPoster09"
+          ],
+        "mapModeSwitches"    : [
+            "ItmDecorPoster01", "ItmDecorPoster09",
+            "ItmDecorPoster01Loose", "ItmDecorPoster09Loose"
+        ]
+    },
+    {
+        "strName" : "ItmDecorPoster09Loose",
+        "strNameFriendly" : "Плакат: Черный Бык Кейп (Loose)",
+        "strDesc" : "Рекламный плакат, демонстрирующий агрессивную насыщенность только 100%-ного Капенг Барако, приготовленного компанией system, с ярко выраженным дымчатым вкусом и цветочным ароматом кофейных зерен Pinoy Liberica. \"От этого напитка black bull kick вы будете в восторге\".",
+        "strImg"  : "manuals/DecorPosters/BlackBullKape-sm",
+        "strImgNorm"  : "ItmPaper01n",
+        "strPortraitImg"  : "manuals/DecorPosters/BlackBullKape",
+        "strCOBase"    : "ItmDecorPoster01Loose",
+        "strCondLoot"    : "CNDOLDecorPoster09",
+        "mapSlotEffects" : [
+            "heldL","HeldItmDefaultSoftL",
+            "heldR","HeldItmDefaultSoftR"
+        ],
+        "mapGUIPropMaps"  : [
+            "Panel OneSheet",
+            "OneSheetDecorPoster09"
+          ],
+        "mapModeSwitches"    : [
+            "ItmDecorPoster01", "ItmDecorPoster09",
+            "ItmDecorPoster01Loose", "ItmDecorPoster09Loose"
+        ]
+    },
+    {
+        "strName" : "ItmDecorPoster10",
+        "strNameFriendly" : "Плакат: Дамасская роза",
+        "strDesc" : "Рекламный плакат с изображением самого известного продукта компании Green Energy - общесистемных курений чистого сорта сативы, отличающихся высоким качеством и маркетинговым дизайном.",
+        "strImg"  : "manuals/DecorPosters/DamaskRose-pst",
+        "strImgNorm"  : "ItmPoster01n",
+        "strPortraitImg"  : "manuals/DecorPosters/DamaskRose",
+        "strCOBase"    : "ItmDecorPoster01",
+        "strCondLoot"    : "CNDOLDecorPoster10",
+        "mapGUIPropMaps"  : [
+            "Panel OneSheet",
+            "OneSheetDecorPoster10"
+          ],
+        "mapModeSwitches"    : [
+            "ItmDecorPoster01", "ItmDecorPoster10",
+            "ItmDecorPoster01Loose", "ItmDecorPoster10Loose"
+        ]
+    },
+    {
+        "strName" : "ItmDecorPoster10Loose",
+        "strNameFriendly" : "Плакат: Дамасская роза (Loose)",
+        "strDesc" : "Рекламный плакат с изображением самого известного продукта компании Green Energy - общесистемных курений чистого сорта сативы, отличающихся высоким качеством и маркетинговым дизайном.",
+        "strImg"  : "manuals/DecorPosters/DamaskRose-sm",
+        "strImgNorm"  : "ItmPaper01n",
+        "strPortraitImg"  : "manuals/DecorPosters/DamaskRose",
+        "strCOBase"    : "ItmDecorPoster01Loose",
+        "strCondLoot"    : "CNDOLDecorPoster10",
+        "mapSlotEffects" : [
+            "heldL","HeldItmDefaultSoftL",
+            "heldR","HeldItmDefaultSoftR"
+        ],
+        "mapGUIPropMaps"  : [
+            "Panel OneSheet",
+            "OneSheetDecorPoster10"
+          ],
+        "mapModeSwitches"    : [
+            "ItmDecorPoster01", "ItmDecorPoster10",
+            "ItmDecorPoster01Loose", "ItmDecorPoster10Loose"
+        ]
+    },
+    {
+        "strName" : "ItmDecorPoster11",
+        "strNameFriendly" : "Плакат: Классическая водка \"Бессмертная\"",
+        "strDesc" : "Рекламный плакат с изображением классического черепа sunrise, представляющего любимый напиток спейсеров, любезно предоставлен нефтяной компанией Союзнефть. В поисках бессмертного вкуса доверьтесь Висмертной.",
+        "strImg"  : "manuals/DecorPosters/Bismertnaya-pst",
+        "strImgNorm"  : "ItmPoster01n",
+        "strPortraitImg"  : "manuals/DecorPosters/Bismertnaya",
+        "strCOBase"    : "ItmDecorPoster01",
+        "strCondLoot"    : "CNDOLDecorPoster11",
+        "mapGUIPropMaps"  : [
+            "Panel OneSheet",
+            "OneSheetDecorPoster11"
+          ],
+        "mapModeSwitches"    : [
+            "ItmDecorPoster01", "ItmDecorPoster11",
+            "ItmDecorPoster01Loose", "ItmDecorPoster11Loose"
+        ]
+    },
+    {
+        "strName" : "ItmDecorPoster11Loose",
+        "strNameFriendly" : "Плакат: Классическая водка \"Бессмертная\" (Loose)",
+        "strDesc" : "Рекламный плакат с изображением классического черепа sunrise, представляющего любимый напиток спейсеров, любезно предоставлен нефтяной компанией Союзнефть. В поисках бессмертного вкуса доверьтесь Висмертной.",
+        "strImg"  : "manuals/DecorPosters/Bismertnaya-sm",
+        "strImgNorm"  : "ItmPaper01n",
+        "strPortraitImg"  : "manuals/DecorPosters/Bismertnaya",
+        "strCOBase"    : "ItmDecorPoster01Loose",
+        "strCondLoot"    : "CNDOLDecorPoster11",
+        "mapSlotEffects" : [
+            "heldL","HeldItmDefaultSoftL",
+            "heldR","HeldItmDefaultSoftR"
+        ],
+        "mapGUIPropMaps"  : [
+            "Panel OneSheet",
+            "OneSheetDecorPoster11"
+          ],
+        "mapModeSwitches"    : [
+            "ItmDecorPoster01", "ItmDecorPoster11",
+            "ItmDecorPoster01Loose", "ItmDecorPoster11Loose"
+        ]
+    },
+    {
+        "strName" : "ItmDecorPoster12",
+        "strNameFriendly" : "Плакат: Водка \"Бессмертная психея\"",
+        "strDesc" : "Рекламный плакат с дизайном ограниченной серии \"Закат психеи\", посвященный нефтяной компании \"Союзнефть\" в честь предполагаемого железного гиганта среди астероидов, олицетворяющего жизнерадостное, сильно пьющее человечество в масштабах всей системы.\n\n\"На каждое бессмертное, незапоминающееся мгновение приходится Бессмертная\".",
+        "strImg"  : "manuals/DecorPosters/BismertnayaPsyche-pst",
+        "strImgNorm"  : "ItmPoster01n",
+        "strPortraitImg"  : "manuals/DecorPosters/BismertnayaPsyche",
+        "strCOBase"    : "ItmDecorPoster01",
+        "strCondLoot"    : "CNDOLDecorPoster12",
+        "mapGUIPropMaps"  : [
+            "Panel OneSheet",
+            "OneSheetDecorPoster12"
+          ],
+        "mapModeSwitches"    : [
+            "ItmDecorPoster01", "ItmDecorPoster12",
+            "ItmDecorPoster01Loose", "ItmDecorPoster12Loose"
+        ]
+    },
+    {
+        "strName" : "ItmDecorPoster12Loose",
+        "strNameFriendly" : "Плакат: Водка \"Бессмертная психея\" (Loose)",
+        "strDesc" : "Рекламный плакат с дизайном ограниченной серии \"Закат психеи\", посвященный нефтяной компании \"Союзнефть\" в честь предполагаемого железного гиганта среди астероидов, олицетворяющего жизнерадостное, сильно пьющее человечество в масштабах всей системы.\n\n\"На каждое бессмертное, незапоминающееся мгновение приходится Бессмертная\".",
+        "strImg"  : "manuals/DecorPosters/BismertnayaPsyche-sm",
+        "strImgNorm"  : "ItmPaper01n",
+        "strPortraitImg"  : "manuals/DecorPosters/BismertnayaPsyche",
+        "strCOBase"    : "ItmDecorPoster01Loose",
+        "strCondLoot"    : "CNDOLDecorPoster12",
+        "mapSlotEffects" : [
+            "heldL","HeldItmDefaultSoftL",
+            "heldR","HeldItmDefaultSoftR"
+        ],
+        "mapGUIPropMaps"  : [
+            "Panel OneSheet",
+            "OneSheetDecorPoster12"
+          ],
+        "mapModeSwitches"    : [
+            "ItmDecorPoster01", "ItmDecorPoster12",
+            "ItmDecorPoster01Loose", "ItmDecorPoster12Loose"
+        ]
+    },
+    {
+        "strName" : "ItmDocumentPermitOKLG01Used",
+        "strNameFriendly" : "Permit: Ayotimiwa Salvage Permit",
+        "strImg"  : "ItmPaper02",
+        "strImgNorm"  : "ItmPaper01n",
+        "strPortraitImg"  : "ItmPaper02",
+        "strCOBase"    : "ItmDocumentPermitOKLG01",
+        "strCondLoot"    : "CNDOLDocumentPermitOKLG01Used",
+        "mapSlotEffects" : [
+            "heldL","HeldItmDefaultSoftL",
+            "heldR","HeldItmDefaultSoftR"
+        ]
+    },
+    
+    {
+        "strName" : "ItmToothbrush02",
+        "strNameFriendly" : "Testudo \"AstroBristle UltraSoft\"",
+        "strDesc" : "Testudo's AstroBristle UltraSoft: \"Gentle care for sensitive teeth and gums\"\n\nA brush with a gentle soothing color palette and ten times the filaments per square milimeter.",
+        "strImg"  : "ItmToothbrush02",
+        "strPortraitImg"  : "ItmToothbrush02",
+        "strCOBase"    : "ItmToothbrush01",
+        "strCondLoot"    : "CNDOLToothbrush",
+        "mapSlotEffects" : [
+            "heldL","HeldItmDefaultSoftL",
+            "heldR","HeldItmDefaultSoftR"
+          ]
+    },
+    {
+        "strName" : "ItmToothbrush03",
+        "strNameFriendly" : "Testudo \"AstroBristle MaxClean\"",
+        "strDesc" : "Testudo's AstroBristle MaxClean: \"Deep cleaning for interstellar freshness\"\n\nA no-nonsense design with advanced bristle technology for superior plaque removal.",
+        "strImg"  : "ItmToothbrush03",
+        "strPortraitImg"  : "ItmToothbrush03",
+        "strCOBase"    : "ItmToothbrush01",
+        "strCondLoot"    : "CNDOLToothbrush",
+        "mapSlotEffects" : [
+            "heldL","HeldItmDefaultSoftL",
+            "heldR","HeldItmDefaultSoftR"
+          ]
+    },
+    {
+        "strName" : "ItmToothbrush04",
+        "strNameFriendly" : "Testudo \"AstroBristle Photon\"",
+        "strDesc" : "Testudo's AstroBristle Photon: \"Illuminate your smile with the power of light\"\n\nA radiant yellow toothbrush with advanced whitening bristles.",
+        "strImg"  : "ItmToothbrush04",
+        "strPortraitImg"  : "ItmToothbrush04",
+        "strCOBase"    : "ItmToothbrush01",
+        "strCondLoot"    : "CNDOLToothbrush",
+        "mapSlotEffects" : [
+            "heldL","HeldItmDefaultSoftL",
+            "heldR","HeldItmDefaultSoftR"
+          ]
+    },
+    {
+        "strName" : "ItmToothbrush05",
+        "strNameFriendly" : "Testudo \"AstroBristle Active\"",
+        "strDesc" : "Testudo's AstroBristle Active: \"Flouride-fortified, for active lifestyles on the float\"\n\nA sporty, vibrant toothbrush with competitively texturied, ergonomic grip.",
+        "strImg"  : "ItmToothbrush05",
+        "strPortraitImg"  : "ItmToothbrush05",
+        "strCOBase"    : "ItmToothbrush01",
+        "strCondLoot"    : "CNDOLToothbrush",
+        "mapSlotEffects" : [
+            "heldL","HeldItmDefaultSoftL",
+            "heldR","HeldItmDefaultSoftR"
+          ]
+    },
+    {
+        "strName" : "ItmToothbrush06",
+        "strNameFriendly" : "Testudo \"AstroBristle Kids\"",
+        "strDesc" : "Testudo's AstroBristle Kids: \"Galactic fun for little space explorers\"\n\nA chunky brush ideal for small hands featuring playful designs and child-friendly bristles.",
+        "strImg"  : "ItmToothbrush06",
+        "strPortraitImg"  : "ItmToothbrush06",
+        "strCOBase"    : "ItmToothbrush01",
+        "strCondLoot"    : "CNDOLToothbrush",
+        "mapSlotEffects" : [
+            "heldL","HeldItmDefaultSoftL",
+            "heldR","HeldItmDefaultSoftR"
+          ]
+    },
+
+    {
+        "strName" : "ItmSink01Station",
+        "strNameFriendly" : "Раковина",
+        "strImg"  : "ItmSink01",
+        "strImgNorm"  : "ItmSink01n",
+        "strPortraitImg"  : "ItmSink01",
+        "strCOBase"    : "ItmSink01",
+        "strCondLoot"    : "CNDOLSink01Station",
+        "mapGUIPropMaps"    : [
+            "Trader", "Sink01StationRestock"
+        ]
+    },
+    {
+        "strName" : "ItmSwitch01OffTutorial",
+        "strNameFriendly" : "Выключатель питания: В общежитии (Off)",
+        "strImg"  : "ItmSwitch01Off",
+        "strImgNorm"  : "ItmSwitch01Offn",
+        "strPortraitImg"  : "ItmSwitch01Off",
+        "strCOBase"    : "ItmSwitch01Off",
+        "strCondLoot"    : "CNDOLSwitch01OffTutorial",
+        "mapGUIPropMaps"    : [
+        ]
+    },
+    {
+        "strName" : "ItmTable01Reserved",
+        "strNameFriendly" : "Столик в баре (зарезервирован)",
+        "strImg" : "ItmTable01",
+        "strImgNorm" : "ItmTable01n",
+        "strPortraitImg" : "ItmTable01",
+        "strCOBase"    : "ItmTable01",
+        "strCondLoot"    : "CNDOLTable01Reserved",
+        "mapModeSwitches"    : [
+        ]
+    },
+    {
+        "strName" : "LiquidBloodMeat",
+        "strNameShort" : "Густая кровь",
+        "strNameFriendly" : "Густая кровь",
+        "strDesc" : "Кровь с розовыми вкраплениями и более темной, вязкой консистенцией, из которой торчат волоски. Когда она рядом, чувствуется привкус меди.",
+        "strImg"  : "tiles/Meat01/ItmLiquidBloodMeat",
+        "strPortraitImg"  : "tiles/Meat01/ItmLiquidBloodMeat",
+        "strImgNorm"  : "ItmLiquidRedn",
+        "strCOBase"    : "LiquidBlood",
+        "strCondLoot"    : "CNDOLLiquidBloodMeat"
+    },
+    {
+        "strName" : "SysLootSpawnerProvisions",
+        "strNameFriendly" : "LootSpawner: Обеспечение",
+        "strImg" : "IcoLoot",
+        "strImgNorm" : "blank",
+        "strPortraitImg" : "blank",
+        "strCOBase"    : "SysLootSpawner",
+        "strCondLoot"    : null,
+        "mapGUIPropMaps"    : [
+            "Panel A",
+            "LootSpawnProvisions"
+        ]
+    },
+    {
+        "strName" : "SysLootSpawnerCrewPersonal ",
+        "strNameFriendly" : "LootSpawner: Crew Personal",
+        "strImg" : "IcoLoot",
+        "strImgNorm" : "blank",
+        "strPortraitImg" : "blank",
+        "strCOBase"    : "SysLootSpawner",
+        "strCondLoot"    : null,
+        "mapGUIPropMaps"    : [
+            "Panel A",
+            "LootSpawnCrewPersonal"
+        ]
+    },
+    {
+        "strName" : "SysLootSpawnerCrewRec",
+        "strNameFriendly" : "LootSpawner: Crew Rec",
+        "strImg" : "IcoLoot",
+        "strImgNorm" : "blank",
+        "strPortraitImg" : "blank",
+        "strCOBase"    : "SysLootSpawner",
+        "strCondLoot"    : null,
+        "mapGUIPropMaps"    : [
+            "Panel A",
+            "LootSpawnCrewRec"
+        ]
+    },
+    {
+        "strName" : "SysLootSpawnerMedical",
+        "strNameFriendly" : "LootSpawner: Medical",
+        "strImg" : "IcoLoot",
+        "strImgNorm" : "blank",
+        "strPortraitImg" : "blank",
+        "strCOBase"    : "SysLootSpawner",
+        "strCondLoot"    : null,
+        "mapGUIPropMaps"    : [
+            "Panel A",
+            "LootSpawnMedical"
+        ]
+    },
+    {
+        "strName" : "SysLootSpawnerEngineering",
+        "strNameFriendly" : "LootSpawner: Engineering",
+        "strImg" : "IcoLoot",
+        "strImgNorm" : "blank",
+        "strPortraitImg" : "blank",
+        "strCOBase"    : "SysLootSpawner",
+        "strCondLoot"    : null,
+        "mapGUIPropMaps"    : [
+            "Panel A",
+            "LootSpawnEngineering"
+        ]
+    },
+    {
+        "strName" : "SysLootSpawnerAirlock",
+        "strNameFriendly" : "LootSpawner: Airlock",
+        "strImg" : "IcoLoot",
+        "strImgNorm" : "blank",
+        "strPortraitImg" : "blank",
+        "strCOBase"    : "SysLootSpawner",
+        "strCondLoot"    : null,
+        "mapGUIPropMaps"    : [
+            "Panel A",
+            "LootSpawnAirlock"
+        ]
+    },
+    {
+        "strName" : "SysLootSpawnerBulkCargo",
+        "strNameFriendly" : "LootSpawner: Bulk Cargo",
+        "strImg" : "IcoLoot",
+        "strImgNorm" : "blank",
+        "strPortraitImg" : "blank",
+        "strCOBase"    : "SysLootSpawner",
+        "strCondLoot"    : null,
+        "mapGUIPropMaps"    : [
+            "Panel A",
+            "LootSpawnBulkCargo"
+        ]
+    },
+    {
+        "strName" : "SysLootSpawnerRandomFloor",
+        "strNameFriendly" : "LootSpawner: Random Floor",
+        "strImg" : "IcoLoot",
+        "strImgNorm" : "blank",
+        "strPortraitImg" : "blank",
+        "strCOBase"    : "SysLootSpawner",
+        "strCondLoot"    : null,
+        "mapGUIPropMaps"    : [
+            "Panel A",
+            "LootSpawnRandomFloor"
+        ]
+    },
+    {
+        "strName" : "SysLootSpawnerRandomWall",
+        "strNameFriendly" : "LootSpawner: Random Wall",
+        "strImg" : "IcoLoot",
+        "strImgNorm" : "blank",
+        "strPortraitImg" : "blank",
+        "strCOBase"    : "SysLootSpawner",
+        "strCondLoot"    : null,
+        "mapGUIPropMaps"    : [
+            "Panel A",
+            "LootSpawnRandomWall"
+        ]
+    },
+    {
+        "strName" : "SysLootSpawnerRandomPartsScrap",
+        "strNameFriendly" : "LootSpawner: Random Parts Scrap",
+        "strImg" : "IcoLoot",
+        "strImgNorm" : "blank",
+        "strPortraitImg" : "blank",
+        "strCOBase"    : "SysLootSpawner",
+        "strCondLoot"    : null,
+        "mapGUIPropMaps"    : [
+            "Panel A",
+            "LootSpawnPartsScrap"
+        ]
+    }
+]  

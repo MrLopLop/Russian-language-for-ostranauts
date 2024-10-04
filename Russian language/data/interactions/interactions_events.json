@@ -1,0 +1,162 @@
+[
+  {
+    "strName" : "EVTBark_None", "strTitle" : "Большой испуг: Ничего", "strDesc" : "[us] молчит.", "bRandomInverse" : true,
+    "aInverse" : [ ],
+    "fDuration" : 0.0, "strThemType" : "Self", "nLogging" : 0, "LootCTsUs" : null, "LootCTsThem" : null, "CTTestUs"  : null, "CTTestThem" : null
+  },
+  {
+    "strName" : "EVTBark_AhCrap", "strTitle" : "Большой испуг: Ой, фигня", "strDesc" : "[us] говорит \"Ой, фигня\".", "bRandomInverse" : true,
+    "aInverse" : [ ],
+    "fDuration" : 0.0, "strThemType" : "Self", "nLogging" : 2, "LootCTsUs" : null, "LootCTsThem" : null, "CTTestUs"  : null, "CTTestThem" : null
+  },
+  {
+    "strName" : "EVTBark_AllDie", "strTitle" : "Большой испуг: Все умрем", "strDesc" : "[us] говорит \"Мы все умрем!\"", "bRandomInverse" : true,
+    "aInverse" : [ ],
+    "fDuration" : 0.0, "strThemType" : "Self", "nLogging" : 2, "LootCTsUs" : null, "LootCTsThem" : null, "CTTestUs"  : null, "CTTestThem" : null
+  },
+  {
+    "strName" : "EVTBark_CantDoThis", "strTitle" : "Большой испуг: Не могу этого сделать", "strDesc" : "[us] говорит \"Я не могу этого сделать!\"", "bRandomInverse" : true,
+    "aInverse" : [ ],
+    "fDuration" : 0.0, "strThemType" : "Self", "nLogging" : 2, "LootCTsUs" : null, "LootCTsThem" : null, "CTTestUs"  : null, "CTTestThem" : null
+  },
+  {
+    "strName" : "EVTBark_Exciting", "strTitle" : "Большой испуг: Увлекательно", "strDesc" : "[us] говорит \"Уу! Увлекательно!\"", "bRandomInverse" : true,
+    "aInverse" : [ ],
+    "fDuration" : 0.0, "strThemType" : "Self", "nLogging" : 2, "LootCTsUs" : null, "LootCTsThem" : null, "CTTestUs"  : null, "CTTestThem" : null
+  },
+  {
+    "strName" : "EVTBark_Meh", "strTitle" : "Большой испуг: Фигня", "strDesc" : "[us] говорит \"Фигня.\"", "bRandomInverse" : true,
+    "aInverse" : [ ],
+    "fDuration" : 0.0, "strThemType" : "Self", "nLogging" : 2, "LootCTsUs" : null, "LootCTsThem" : null, "CTTestUs"  : null, "CTTestThem" : null
+  },
+  {
+    "strName" : "EVTBark_Nice", "strTitle" : "Большой испуг: Хорошо", "strDesc" : "[us] говорит \"Хорошо.\"", "bRandomInverse" : true,
+    "aInverse" : [ ],
+    "fDuration" : 0.0, "strThemType" : "Self", "nLogging" : 2, "LootCTsUs" : null, "LootCTsThem" : null, "CTTestUs"  : null, "CTTestThem" : null
+  },
+  {
+    "strName" : "EVTBark_NotThatBad", "strTitle" : "Большой испуг: Не так плохо", "strDesc" : "[us] говорит \"Уверен, не так плохо\".", "bRandomInverse" : true,
+    "aInverse" : [ ],
+    "fDuration" : 0.0, "strThemType" : "Self", "nLogging" : 2, "LootCTsUs" : null, "LootCTsThem" : null, "CTTestUs"  : null, "CTTestThem" : null
+  },
+  {
+    "strName" : "EVTBark_OhGod", "strTitle" : "Большой испуг: Ой, Боже", "strDesc" : "[us] говорит \"Ой, Боже!\"", "bRandomInverse" : true,
+    "aInverse" : [ ],
+    "fDuration" : 0.0, "strThemType" : "Self", "nLogging" : 2, "LootCTsUs" : null, "LootCTsThem" : null, "CTTestUs"  : null, "CTTestThem" : null
+  },
+  {
+    "strName" : "EVTBark_OhNo", "strTitle" : "Большой испуг: Ой, нет", "strDesc" : "[us] говорит \"Ой, нет!\"", "bRandomInverse" : true,
+    "aInverse" : [ ],
+    "fDuration" : 0.0, "strThemType" : "Self", "nLogging" : 2, "LootCTsUs" : null, "LootCTsThem" : null, "CTTestUs"  : null, "CTTestThem" : null
+  },
+  {
+    "strName" : "EVTBark_PrettyBad", "strTitle" : "Большой испуг: Плохо", "strDesc" : "[us] говорит \"Наверное, это довольно плохо\".", "bRandomInverse" : true,
+    "aInverse" : [ ],
+    "fDuration" : 0.0, "strThemType" : "Self", "nLogging" : 2, "LootCTsUs" : null, "LootCTsThem" : null, "CTTestUs"  : null, "CTTestThem" : null
+  },
+  {
+    "strName" : "EVTBark_SaveOthers", "strTitle" : "Большой испуг: Спасти других", "strDesc" : "[us] говорит \"Мне следует проверить, как у других все.\".", "bRandomInverse" : true,
+    "aInverse" : [ ],
+    "fDuration" : 0.0, "strThemType" : "Self", "nLogging" : 2, "LootCTsUs" : null, "LootCTsThem" : null, "CTTestUs"  : null, "CTTestThem" : null
+  },
+  {
+    "strName" : "EVTBark_SaveSelf", "strTitle" : "Большой испуг: Спаси себя", "strDesc" : "[us] говорит: \"Каждый за себя!\"", "bRandomInverse" : true,
+    "aInverse" : [ ],
+    "fDuration" : 0.0, "strThemType" : "Self", "nLogging" : 2, "LootCTsUs" : null, "LootCTsThem" : null, "CTTestUs"  : null, "CTTestThem" : null
+  },
+  {
+    "strName" : "EVTBark_Yay", "strTitle" : "Большой испуг: Ура", "strDesc" : "[us] говорит: \"Ура!\"", "bRandomInverse" : true,
+    "aInverse" : [ ],
+    "fDuration" : 0.0, "strThemType" : "Self", "nLogging" : 2, "LootCTsUs" : null, "LootCTsThem" : null, "CTTestUs"  : null, "CTTestThem" : null
+  },
+
+  {
+    "strName" : "EVTCollisionBig", "strTitle" : "Введение в событие столкновения", "strDesc" : "[us] внезапно столкнулся.", "bRandomInverse" : true, "bIgnoreFeelings" : true,
+    "aInverse" : [ "EVTScareBig" ],
+    "fDuration" : 0.0, "strThemType" : "Self", "nLogging" : 0, "LootCTsUs" : "CTEVTCollisionBig", "CTTestUs" : "TIsNotCrashCooldown"
+  },
+  {
+    "strName" : "EVTExposeVoid", "strTitle" : "Введение в событие экспозиции пустоты", "strDesc" : "[us] только что подвергся действию пустоты.", "bRandomInverse" : true, "bIgnoreFeelings" : true,
+    "aInverse" : [ "EVTScareBig" ],
+    "fDuration" : 0.0, "strThemType" : "Self", "nLogging" : 0, "LootCTsUs" : "CTEVTVoid", "CTTestUs" : "TIsNotVoidCooldown"
+  },
+
+
+  {
+    "strName" : "EVTScareBig", "strTitle" : "Введение в большое событие испуга", "strDesc" : "[us] только что испытал большой испуг.", "bRandomInverse" : true, "bIgnoreFeelings" : true,
+    "aInverse" : [ "EVTScareBigAgliophobic", "EVTScareBigApathetic", "EVTScareBigBrave", "EVTScareBigComedian", "EVTScareBigCraven", "EVTScareBigOptimist", "EVTScareBigPessimist", "EVTScareBigQuitter", "EVTScareBigSelfish", "EVTScareBigSelfless", "EVTScareBigBasic" ],
+    "fDuration" : 0.0, "strThemType" : "Self", "nLogging" : 0, "LootCTsUs" : null, "CTTestUs" : "TIsHumanAwake"
+  },
+  {
+    "strName" : "EVTScareBigBasic", "strTitle" : "Эффекты большого испуга (базовые)", "strDesc" : "[us] обрабатывает большой испуг.", "bRandomInverse" : true, "bIgnoreFeelings" : true,
+    "aInverse" : [ "EVTBark_None", "EVTBark_OhNo" ],
+    "fDuration" : 0.0, "strThemType" : "Self", "nLogging" : 0, "LootCTsUs" : "CTEVTScareBigBasic", "LootCTsThem" : null, "CTTestUs"  : null, "CTTestThem" : null,
+    "aLootItms"  : [ "addus,SocialScareBigBasic" ]
+  },
+  {
+    "strName" : "EVTScareBigAgliophobic", "strTitle" : "Эффекты большого испуга (аглиофоб)", "strDesc" : "[us] обрабатывает большой испуг.", "bRandomInverse" : true, "bIgnoreFeelings" : true,
+    "aInverse" : [ "EVTBark_None", "EVTBark_AllDie" ],
+    "fDuration" : 0.0, "strThemType" : "Self", "nLogging" : 0, "LootCTsUs" : "CTEVTScareBigAgliophobic", "LootCTsThem" : null, "CTTestUs"  : "TIsAgliophobic", "CTTestThem"   : null,
+    "aLootItms"  : [ "addus,SocialScareBigBasic" ]
+  },
+  {
+    "strName" : "EVTScareBigApathetic", "strTitle" : "Эффекты большого испуга (апатичный)", "strDesc" : "[us] обрабатывает большой испуг.", "bRandomInverse" : true, "bIgnoreFeelings" : true,
+    "aInverse" : [ "EVTBark_None", "EVTBark_Meh" ],
+    "fDuration" : 0.0, "strThemType" : "Self", "nLogging" : 0, "LootCTsUs" : "CTEVTScareBigApathetic", "LootCTsThem" : null, "CTTestUs"  : "TIsApathetic", "CTTestThem"   : null,
+    "aLootItms"  : [ ]
+  },
+  {
+    "strName" : "EVTScareBigBrave", "strTitle" : "Эффекты большого испуга (смелый)", "strDesc" : "[us] обрабатывает большой испуг.", "bRandomInverse" : true, "bIgnoreFeelings" : true,
+    "aInverse" : [ "EVTBark_None", "EVTBark_AhCrap" ],
+    "fDuration" : 0.0, "strThemType" : "Self", "nLogging" : 0, "LootCTsUs" : "CTEVTScareBigBrave", "LootCTsThem" : null, "CTTestUs"  : "TIsBrave", "CTTestThem"   : null,
+    "aLootItms"  : [ "addus,SocialScareBigBrave" ]
+  },
+  {
+    "strName" : "EVTScareBigComedian", "strTitle" : "Эффекты большого испуга (комик)", "strDesc" : "[us] обрабатывает большой испуг.", "bRandomInverse" : true, "bIgnoreFeelings" : true,
+    "aInverse" : [ "EVTBark_None", "EVTBark_Nice" ],
+    "fDuration" : 0.0, "strThemType" : "Self", "nLogging" : 0, "LootCTsUs" : "CTEVTScareBigComedian", "LootCTsThem" : null, "CTTestUs"  : "TIsComedian", "CTTestThem" : null,
+    "aLootItms"  : [ "addus,SocialScareBigComedian" ]
+  },
+  {
+    "strName" : "EVTScareBigCraven", "strTitle" : "Эффекты большого испуга (трусливый)", "strDesc" : "[us] обрабатывает большой испуг.", "bRandomInverse" : true, "bIgnoreFeelings" : true,
+    "aInverse" : [ "EVTBark_None", "EVTBark_OhGod" ],
+    "fDuration" : 0.0, "strThemType" : "Self", "nLogging" : 0, "LootCTsUs" : "CTEVTScareBigCraven", "LootCTsThem" : null, "CTTestUs"  : "TIsCraven", "CTTestThem" : null,
+    "aLootItms"  : [ "addus,SocialScareBigBasic" ]
+  },
+  {
+    "strName" : "EVTScareBigMasochist", "strTitle" : "Эффекты большого испуга (мазохист)", "strDesc" : "[us] обрабатывает большой испуг.", "bRandomInverse" : true, "bIgnoreFeelings" : true,
+    "aInverse" : [ "EVTBark_None", "EVTBark_Exciting", "EVTBark_Yay" ],
+    "fDuration" : 0.0, "strThemType" : "Self", "nLogging" : 0, "LootCTsUs" : "CTEVTScareBigMasochist", "LootCTsThem" : null, "CTTestUs"  : "TIsMasochist", "CTTestThem"   : null,
+    "aLootItms"  : [ "addus,SocialScareBigBasic" ]
+  },
+  {
+    "strName" : "EVTScareBigOptimist", "strTitle" : "Эффекты большого испуга (оптимист)", "strDesc" : "[us] обрабатывает большой испуг.", "bRandomInverse" : true, "bIgnoreFeelings" : true,
+    "aInverse" : [ "EVTBark_None", "EVTBark_NotThatBad" ],
+    "fDuration" : 0.0, "strThemType" : "Self", "nLogging" : 0, "LootCTsUs" : "CTEVTScareBigOptimist", "LootCTsThem" : null, "CTTestUs"  : "TIsOptimist", "CTTestThem"   : null,
+    "aLootItms"  : [ "addus,SocialScareBigBrave" ]
+  },
+  {
+    "strName" : "EVTScareBigPessimist", "strTitle" : "Эффекты большого испуга (пессимист)", "strDesc" : "[us] обрабатывает большой испуг.", "bRandomInverse" : true, "bIgnoreFeelings" : true,
+    "aInverse" : [ "EVTBark_None", "EVTBark_PrettyBad" ],
+    "fDuration" : 0.0, "strThemType" : "Self", "nLogging" : 0, "LootCTsUs" : "CTEVTScareBigPessimist", "LootCTsThem" : null, "CTTestUs"  : "TIsPessimist", "CTTestThem"   : null,
+    "aLootItms"  : [ "addus,SocialScareBigBasic" ]
+  },
+  {
+    "strName" : "EVTScareBigQuitter", "strTitle" : "Эффекты большого испуга (сдающийся)", "strDesc" : "[us] обрабатывает большой испуг.", "bRandomInverse" : true, "bIgnoreFeelings" : true,
+    "aInverse" : [ "EVTBark_None", "EVTBark_CantDoThis" ],
+    "fDuration" : 0.0, "strThemType" : "Self", "nLogging" : 0, "LootCTsUs" : "CTEVTScareBigQuitter", "LootCTsThem" : null, "CTTestUs"  : "TIsQuitter", "CTTestThem"   : null,
+    "aLootItms"  : [ ]
+  },
+  {
+    "strName" : "EVTScareBigSelfish", "strTitle" : "Эффекты большого испуга (эгоистичный)", "strDesc" : "[us] обрабатывает большой испуг.", "bRandomInverse" : true, "bIgnoreFeelings" : true,
+    "aInverse" : [ "EVTBark_None", "EVTBark_SaveSelf" ],
+    "fDuration" : 0.0, "strThemType" : "Self", "nLogging" : 0, "LootCTsUs" : "CTEVTScareBigSelfish", "LootCTsThem" : null, "CTTestUs"  : "TIsSelfish", "CTTestThem"   : null,
+    "aLootItms"  : [ "addus,SocialScareBigBasic" ]
+  },
+  {
+    "strName" : "EVTScareBigSelfless", "strTitle" : "Эффекты большого испуга (бескорыстный)", "strDesc" : "[us] обрабатывает большой испуг.", "bRandomInverse" : true, "bIgnoreFeelings" : true,
+    "aInverse" : [ "EVTBark_None", "EVTBark_SaveOthers" ],
+    "fDuration" : 0.0, "strThemType" : "Self", "nLogging" : 0, "LootCTsUs" : "CTEVTScareBigSelfless", "LootCTsThem" : null, "CTTestUs"  : "TIsSelfless", "CTTestThem"   : null,
+    "aLootItms"  : [ "addus,SocialScareBigBasic" ]
+  }
+]

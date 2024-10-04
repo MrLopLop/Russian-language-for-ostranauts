@@ -1,0 +1,1819 @@
+[
+    
+  {
+    "strName" : "ItmAmmo12Gauge",
+    "strNameShort" : "Боеприпасы: Shotshell",
+    "strNameFriendly" : "Боеприпасы: 12-gauge Shotshell",
+    "strItemDef" : "ItmAmmo12Gauge",
+    "strType"    : "Item",
+    "nStackLimit"    : 6,
+    "aInteractions" : [
+      "DropItem",
+      "DropItemStack",
+      "PickupItem",
+      "PickupItemStack"
+    ],
+    "aStartingConds" : [
+      "IsSolid=1.0x1.0",
+      "IsAmmo=1.0x1",
+      "IsAmmo12Gauge=1.0x1",
+      "IsPartsSmall=1.0x1",
+      "StatBasePrice=1.0x5",
+      "StatMass=1.0x0.0319",
+      "StatDamageMax=1.0x3",
+      "IsNotForSale=1.0x1",
+      "IsCategoryWeapons=1.0x1"
+    ],
+    "mapChargeProfiles"  : [
+      "Melee","MeleeAttackDefaultExtraFragile"
+    ],
+    "aUpdateCommands" : [
+      "Destructable,StatDamage,ACTDefaultDestroy,StatDamageMax,1.0"
+    ],
+    "strPortraitImg"  : "ItmAmmo12Gauge",
+    "mapSlotEffects" : [
+      "heldL","Blank",
+      "heldR","Blank"
+    ],
+    "strAudioEmitter" : "ItmAmmoSound"
+  },
+  {
+    "strName" : "ItmAmmo12Gauge02",
+    "strNameShort" : "Боеприпасы: Shotshell",
+    "strNameFriendly" : "Боеприпасы: Special 12-gauge Shotshell",
+    "strItemDef" : "ItmAmmo12Gauge02",
+    "strType"    : "Item",
+    "nStackLimit"    : 6,
+    "aInteractions" : [
+      "DropItem",
+      "DropItemStack",
+      "PickupItem",
+      "PickupItemStack"
+    ],
+    "aStartingConds" : [
+      "IsSolid=1.0x1.0",
+      "IsAmmo=1.0x1",
+      "IsAmmo12Gauge02=1.0x1",
+      "IsPartsSmall=1.0x1",
+      "StatBasePrice=1.0x5",
+      "StatMass=1.0x0.0319",
+      "StatDamageMax=1.0x3",
+      "IsNotForSale=1.0x1",
+      "IsCategoryWeapons=1.0x1"
+    ],
+    "mapChargeProfiles"  : [
+      "Melee","MeleeAttackDefaultExtraFragile"
+    ],
+    "aUpdateCommands" : [
+      "Destructable,StatDamage,ACTDefaultDestroy,StatDamageMax,1.0"
+    ],
+    "strPortraitImg"  : "ItmAmmo12Gauge02",
+    "mapSlotEffects" : [
+      "heldL","Blank",
+      "heldR","Blank"
+    ],
+    "strAudioEmitter" : "ItmAmmoSound"
+  },
+  {
+    "strName" : "ItmAmmo38",
+    "strNameShort" : "Боеприпасы: .38",
+    "strNameFriendly" : "Боеприпасы: .38 Special",
+    "strDesc" : "Патроны Старой Земли, которые ранее отличались низкой отдачей и высокой точностью, как у стрелков времён Дикого Запада, в условиях космоса могут привести к быстрой незапланированной декомпрессии при стрельбе.",
+    "strItemDef" : "ItmAmmo38",
+    "strType"    : "Item",
+    "nStackLimit"    : 6,
+    "aInteractions" : [
+      "DropItem",
+      "DropItemStack",
+      "PickupItem",
+      "PickupItemStack"
+    ],
+    "aStartingConds" : [
+      "IsSolid=1.0x1.0",
+      "IsAmmo=1.0x1",
+      "IsAmmo38=1.0x1",
+      "IsPartsSmall=1.0x1",
+      "StatBasePrice=1.0x35.0",
+      "StatMass=1.0x0.0164",
+      "StatDamageMax=1.0x3",
+      "IsCategoryWeapons=1.0x1"
+    ],
+    "mapChargeProfiles"  : [
+      "Melee","MeleeAttackDefaultExtraFragile"
+    ],
+    "aUpdateCommands" : [
+      "Destructable,StatDamage,ACTDefaultDestroy,StatDamageMax,1.0"
+    ],
+    "strPortraitImg"  : "ItmAmmo38",
+    "mapSlotEffects" : [
+      "heldL","Blank",
+      "heldR","Blank"
+    ],
+    "strAudioEmitter" : "ItmAmmoSound"
+  },
+  {
+    "strName" : "ItmAmmo45",
+    "strNameShort" : "Боеприпасы: .45",
+    "strNameFriendly" : "Боеприпасы: .45 APC",
+    "strDesc" : "Боеприпас, разработанный на Старой Земле, обладает значительной убойной силой и способен пробивать как тела, так и переборки.",
+    "strItemDef" : "ItmAmmo45",
+    "strType"    : "Item",
+    "nStackLimit"    : 8,
+    "aInteractions" : [
+      "DropItem",
+      "DropItemStack",
+      "PickupItem",
+      "PickupItemStack"
+    ],
+    "aStartingConds" : [
+      "IsSolid=1.0x1.0",
+      "IsAmmo=1.0x1",
+      "IsAmmo45=1.0x1",
+      "IsPartsSmall=1.0x1",
+      "StatBasePrice=1.0x50",
+      "StatMass=1.0x0.015",
+      "StatDamageMax=1.0x3",
+      "IsCategoryWeapons=1.0x1"
+    ],
+    "mapChargeProfiles"  : [
+      "Melee","MeleeAttackDefaultExtraFragile"
+    ],
+    "aUpdateCommands" : [
+      "Destructable,StatDamage,ACTDefaultDestroy,StatDamageMax,1.0"
+    ],
+    "strPortraitImg"  : "ItmAmmo45",
+    "mapSlotEffects" : [
+      "heldL","Blank",
+      "heldR","Blank"
+    ],
+    "strAudioEmitter" : "ItmAmmoSound"
+  },
+  {
+    "strName" : "ItmAmmo556",
+    "strNameShort" : "Боеприпасы: 5.56",
+    "strNameFriendly" : "Боеприпасы: 5.56",
+    "strItemDef" : "ItmAmmo556",
+    "strType"    : "Item",
+    "nStackLimit"    : 10,
+    "aInteractions" : [
+      "DropItem",
+      "DropItemStack",
+      "PickupItem",
+      "PickupItemStack"
+    ],
+    "aStartingConds" : [
+      "IsSolid=1.0x1.0",
+      "IsAmmo=1.0x1",
+      "IsAmmo556=1.0x1",
+      "IsPartsSmall=1.0x1",
+      "StatBasePrice=1.0x5",
+      "StatMass=1.0x0.01231",
+      "StatDamageMax=1.0x3",
+      "IsNotForSale=1.0x1",
+      "IsCategoryWeapons=1.0x1"
+    ],
+    "aUpdateCommands" : [
+      "Destructable,StatDamage,ACTDefaultDestroy,StatDamageMax,1.0"
+    ],
+    "strPortraitImg"  : "ItmAmmo556",
+    "mapSlotEffects" : [
+      "heldL","Blank",
+      "heldR","Blank"
+    ],
+    "strAudioEmitter" : "ItmAmmoSound"
+  },
+  {
+    "strName" : "ItmAmmo55602",
+    "strNameShort" : "Боеприпасы: 5.56",
+    "strNameFriendly" : "Боеприпасы: Special 5.56",
+    "strItemDef" : "ItmAmmo55602",
+    "strType"    : "Item",
+    "nStackLimit"    : 10,
+    "aInteractions" : [
+      "DropItem",
+      "DropItemStack",
+      "PickupItem",
+      "PickupItemStack"
+    ],
+    "aStartingConds" : [
+      "IsSolid=1.0x1.0",
+      "IsAmmo=1.0x1",
+      "IsAmmo55602=1.0x1",
+      "IsPartsSmall=1.0x1",
+      "StatBasePrice=1.0x5",
+      "StatMass=1.0x0.01231",
+      "StatDamageMax=1.0x3",
+      "IsNotForSale=1.0x1",
+      "IsCategoryWeapons=1.0x1"
+    ],
+    "mapChargeProfiles"  : [
+      "Melee","MeleeAttackDefaultExtraFragile"
+    ],
+    "aUpdateCommands" : [
+      "Destructable,StatDamage,ACTDefaultDestroy,StatDamageMax,1.0"
+    ],
+    "strPortraitImg"  : "ItmAmmo55602",
+    "mapSlotEffects" : [
+      "heldL","Blank",
+      "heldR","Blank"
+    ],
+    "strAudioEmitter" : "ItmAmmoSound"
+  },
+  {
+    "strName" : "ItmAmmo55603",
+    "strNameShort" : "Боеприпасы: 5.56",
+    "strNameFriendly" : "Боеприпасы: Extra Special 5.56",
+    "strItemDef" : "ItmAmmo55603",
+    "strType"    : "Item",
+    "nStackLimit"    : 10,
+    "aInteractions" : [
+      "DropItem",
+      "DropItemStack",
+      "PickupItem",
+      "PickupItemStack"
+    ],
+    "aStartingConds" : [
+      "IsSolid=1.0x1.0",
+      "IsAmmo=1.0x1",
+      "IsAmmo55603=1.0x1",
+      "IsPartsSmall=1.0x1",
+      "StatBasePrice=1.0x5",
+      "StatMass=1.0x0.01231",
+      "StatDamageMax=1.0x3",
+      "IsNotForSale=1.0x1",
+      "IsCategoryWeapons=1.0x1"
+    ],
+    "mapChargeProfiles"  : [
+      "Melee","MeleeAttackDefaultExtraFragile"
+    ],
+    "aUpdateCommands" : [
+      "Destructable,StatDamage,ACTDefaultDestroy,StatDamageMax,1.0"
+    ],
+    "strPortraitImg"  : "ItmAmmo55603",
+    "mapSlotEffects" : [
+      "heldL","Blank",
+      "heldR","Blank"
+    ],
+    "strAudioEmitter" : "ItmAmmoSound"
+  },
+  {
+    "strName" : "ItmAmmo9mm",
+    "strNameShort" : "Боеприпасы: 9mm",
+    "strNameFriendly" : "Боеприпасы: 9mm",
+    "strDesc" : "Ранее широко использовавшийся боеприпас, который все еще способен разрушить герметичный отсек, несмотря на меньшие размеры и мощность по сравнению с другими патронами Старой Земли.",
+    "strItemDef" : "ItmAmmo9mm",
+    "strType"    : "Item",
+    "nStackLimit"    : 17,
+    "aInteractions" : [
+      "DropItem",
+      "DropItemStack",
+      "PickupItem",
+      "PickupItemStack"
+    ],
+    "aStartingConds" : [
+      "IsSolid=1.0x1.0",
+      "IsAmmo=1.0x1",
+      "IsAmmo9mm=1.0x1",
+      "IsPartsSmall=1.0x1",
+      "StatBasePrice=1.0x25",
+      "StatMass=1.0x0.01",
+      "StatDamageMax=1.0x3",
+      "IsCategoryWeapons=1.0x1"
+    ],
+    "mapChargeProfiles"  : [
+      "Melee","MeleeAttackDefaultExtraFragile"
+    ],
+    "aUpdateCommands" : [
+      "Destructable,StatDamage,ACTDefaultDestroy,StatDamageMax,1.0"
+    ],
+    "strPortraitImg"  : "ItmAmmo9mm",
+    "mapSlotEffects" : [
+      "heldL","Blank",
+      "heldR","Blank"
+    ],
+    "strAudioEmitter" : "ItmAmmoSound"
+  },
+  {
+    "strName" : "ItmAmmoHullsafe",
+    "strNameShort" : "Боеприпасы: HG",
+    "strNameFriendly" : "Боеприпасы: HG",
+    "strDesc" : "Противопехотные боеприпасы стандартного калибра, изготовленные по технологии hollowgel, которая при ударе разбрасывает гранулы силикагеля, чтобы свести к минимуму риск декомпрессии корпуса.",
+    "strItemDef" : "ItmAmmoHullsafe",
+    "strType"    : "Item",
+    "nStackLimit"    : 20,
+    "aInteractions" : [
+      "DropItem",
+      "DropItemStack",
+      "PickupItem",
+      "PickupItemStack"
+    ],
+    "aStartingConds" : [
+      "IsSolid=1.0x1.0",
+      "IsAmmo=1.0x1",
+      "IsAmmoHullsafe=1.0x1",
+      "IsPartsSmall=1.0x1",
+      "StatBasePrice=1.0x5",
+      "StatMass=1.0x0.01",
+      "StatDamageMax=1.0x3",
+      "IsCategoryWeapons=1.0x1"
+    ],
+    "mapChargeProfiles"  : [
+      "Melee","MeleeAttackDefaultExtraFragile"
+    ],
+    "aUpdateCommands" : [
+      "Destructable,StatDamage,ACTDefaultDestroy,StatDamageMax,1.0"
+    ],
+    "strPortraitImg"  : "ItmAmmoHullsafe",
+    "mapSlotEffects" : [
+      "heldL","Blank",
+      "heldR","Blank"
+    ],
+    "strAudioEmitter" : "ItmAmmoSound"
+  },
+  {
+    "strName" : "ItmAmmoBolt",
+    "strNameShort" : "Боеприпасы: Bolt",
+    "strNameFriendly" : "Боеприпасы: Crossbow Bolt",
+    "strItemDef" : "ItmAmmoBolt",
+    "strType"    : "Item",
+    "nStackLimit"    : 10,
+    "aInteractions" : [
+      "DropItem",
+      "DropItemStack",
+      "PickupItem",
+      "PickupItemStack"
+    ],
+    "aStartingConds" : [
+      "IsSolid=1.0x1.0",
+      "IsRigid=1.0x1",
+      "IsBrittle=1.0x1",
+      "IsAmmo=1.0x1",
+      "IsAmmoBolt=1.0x1",
+      "IsSharpPoint=1.0x1",      
+      "IsShaft=1.0x1",
+      "StatBasePrice=1.0x5",
+      "StatMass=1.0x0.01",
+      "StatDamageMax=1.0x3",
+      "IsNotForSale=1.0x1",
+      "IsCategoryWeapons=1.0x1"
+    ],
+    "mapChargeProfiles"  : [
+      "Melee","MeleeAttackDefaultFragile"
+    ],
+    "aUpdateCommands" : [
+      "Destructable,StatDamage,ACTDefaultDestroy,StatDamageMax,1.0"
+    ],
+    "strPortraitImg"  : "ItmAmmoBolt",
+    "mapSlotEffects" : [
+      "heldL","Blank",
+      "heldR","Blank"
+    ],
+    "strAudioEmitter" : "ItmArrowSound"
+  },
+  {
+    "strName" : "ItmAmmoCasings01",
+    "strNameShort" : "Ammo Casings",
+    "strNameFriendly" : "Ammo Casings",
+    "strItemDef" : "ItmAmmoCasings01",
+    "strType"    : "Item",
+    "nStackLimit"    : 10,
+    "aInteractions" : [
+      "DropItem",
+      "DropItemStack",
+      "PickupItem",
+      "PickupItemStack"
+    ],
+    "aStartingConds" : [
+      "IsSolid=1.0x1.0",
+      "IsAmmoCasings=1.0x1",
+      "IsPartsSmall=1.0x1",
+      "StatBasePrice=1.0x1",
+      "StatMass=1.0x0.004",
+      "StatDamageMax=1.0x10",
+      "IsCategoryWeapons=1.0x1"
+    ],
+    "mapChargeProfiles"  : [
+      "Melee","MeleeAttackDefaultExtraFragile"
+    ],
+    "aUpdateCommands" : [
+      "Destructable,StatDamage,ACTDefaultDestroy,StatDamageMax,1.0"
+    ],
+    "strPortraitImg"  : "ItmAmmoCasings01",
+    "mapSlotEffects" : [
+    ],
+    "strAudioEmitter" : "ItmAmmoSound"
+  },
+  {
+    "strName" : "ItmAmmoPowerCell01",
+    "strNameShort" : "Боеприпасы: Power Cell",
+    "strNameFriendly" : "Боеприпасы: Power Cell",
+    "strDesc" : "Блок питания для высокотехнологичного энергетического оружия.",
+    "strItemDef" : "ItmAmmoPowerCell01",
+    "strType"    : "Item",
+    "nStackLimit"    : 1,
+    "aInteractions" : [
+      "GUIBattery",
+      "DropItem",
+      "PickupItem"
+    ],
+    "aStartingConds" : [
+      "IsSolid=1.0x1.0",
+      "IsRigid=1.0x1.0",
+      "IsElectronic=1.0x1",
+      "IsAmmo=1.0x1",
+      "IsAmmoPowerCell=1.0x1",
+      "IsPowerStorage=1.0x1",
+      "StatDamageMax=1.0x4",
+      "StatDismantleProgressMax=1.0x110",
+      "StatPower=1.0x0.05",
+      "StatPowerMax=1.0x0.05",
+      "StatMass=1.0x1.4",
+      "StatBasePrice=1.0x101.99",
+      "IsPowerObservable=1.0x1",
+      "IsNotForSale=1.0x1",
+      "IsCategoryWeapons=1.0x1"
+    ],
+    "mapGUIPropMaps"  : [
+      "Panel A",
+      "MeterBattery"
+    ],
+    "mapChargeProfiles"  : [
+      "Melee","MeleeAttackDefaultExtraFragile"
+    ],
+    "aUpdateCommands" : [
+      "Destructable,StatDamage,ACTTechDestroy,StatDamageMax,1.0"
+    ],
+    "strPortraitImg"  : "ItmAmmoPowerCell01",
+    "mapSlotEffects" : [
+      "heldL","Blank",
+      "heldR","Blank"
+    ],
+    "strAudioEmitter" : "ItmBatteryGeneralSound"
+  },
+
+
+  
+  {
+    "strName" : "ItmWeaponBaseballBat01",
+    "strNameShort" : "Бита",
+    "strNameFriendly" : "Алюминевая Бита",
+    "strDesc" : "Класическая бита из алюминия",
+    "strItemDef" : "ItmWeaponBaseballBat01",
+    "strType"    : "Item",
+    "strLoot"    : null,
+    "aInteractions" : [
+      "EquipItem",
+      "DropItem",
+      "PickupItem"
+    ],
+    "aStartingConds" : [
+      "IsHandheld=1.0x1.0",
+      "IsRigid=1.0x1.0",
+      "IsSolid=1.0x1.0",
+      "IsShaft=1.0x1.0",
+      "IsTough=1.0x1.0",
+      "IsWeaponMelee=1.0x1",
+      "IsWeapon=1.0x1",
+      "StatMass=1.0x0.907",
+      "StatBasePrice=1.0x25.0",
+      "StatDamageMax=1.0x15",
+      "IsCategoryWeapons=1.0x1"
+    ],
+    "mapCondTolerance"       : [
+    ],
+    "mapPoints"      : [
+    ],
+    "mapChargeProfiles"  : [
+      "Melee","MeleeAttackDefaultTough"
+    ],
+    "aUpdateCommands" : [
+      "Destructable,StatDamage,ACTDefaultDestroy,StatDamageMax,1.0"
+    ],
+    "mapGUIPropMaps"  : null,
+    "strPortraitImg"  : "ItmWeaponBaseballBat01",
+    "mapSlotEffects" : [
+      "heldL","HeldItmWeaponBaseballBat01L",
+      "heldR","HeldItmWeaponBaseballBat01R"
+    ],
+    "jsonPI"            : null,
+    "strAudioEmitter" : "ItmToolCrowbar01Sound"
+  },
+  {
+    "strName" : "ItmWeaponBaseballBat02",
+    "strNameShort" : "Бита",
+    "strNameFriendly" : "Деревянная бита",
+    "strDesc" : "Редкая деревянная версия классического оружия из прошлого Земли, с потертой подписью и перемотанным рукояткой.",
+    "strItemDef" : "ItmWeaponBaseballBat02",
+    "strType"    : "Item",
+    "strLoot"    : null,
+    "aInteractions" : [
+      "EquipItem",
+      "DropItem",
+      "PickupItem"
+    ],
+    "aStartingConds" : [
+      "IsHandheld=1.0x1.0",
+      "IsRigid=1.0x1.0",
+      "IsSolid=1.0x1.0",
+      "IsShaft=1.0x1.0",
+      "IsTough=1.0x1.0",
+      "IsWood=1.0x1.0",
+      "IsWeaponMelee=1.0x1",
+      "IsWeapon=1.0x1",
+      "StatMass=1.0x1.1",
+      "StatBasePrice=1.0x290.0",
+      "StatDamageMax=1.0x9",
+      "IsCategoryWeapons=1.0x1"
+    ],
+    "mapCondTolerance"       : [
+    ],
+    "mapPoints"      : [
+    ],
+    "mapChargeProfiles"  : [
+      "Melee","MeleeAttackDefaultTough"
+    ],
+    "aUpdateCommands" : [
+      "Destructable,StatDamage,ACTDefaultDestroy,StatDamageMax,1.0"
+    ],
+    "mapGUIPropMaps"  : null,
+    "strPortraitImg"  : "ItmWeaponBaseballBat02",
+    "mapSlotEffects" : [
+      "heldL","HeldItmWeaponBaseballBat02L",
+      "heldR","HeldItmWeaponBaseballBat02R"
+    ],
+    "jsonPI"            : null,
+    "strAudioEmitter" : "ItmSpearSound"
+  },
+  {
+    "strName" : "ItmWeaponCrossbow01",
+    "strNameShort" : "Арбалет",
+    "strNameFriendly" : "Составной арбалет",
+    "strDesc" : "Составной арбалет, который в условиях микрогравитации удивительно хорошо метает заточенные стрелы. Эта версия арбалета с луком представляет собой современную интерпретацию средневековых образцов с задней лебедкой для перезарядки.",
+    "strItemDef" : "ItmWeaponCrossbow01",
+    "strType"    : "Item",
+    "strLoot"    : null,
+    "aInteractions" : [
+      "Inventory",
+      "EquipItem",
+      "DropItem",
+      "PickupItem"
+    ],
+    "aStartingConds" : [
+      "IsHandheld=1.0x1.0",
+      "IsRigid=1.0x1.0",
+      "IsSolid=1.0x1.0",
+      "IsPocketable=1.0x1.0",
+      "IsClippable=1.0x1.0",
+      "IsBrittle=1.0x1.0",
+      "IsWeaponRanged=1.0x1",
+      "IsWeapon=1.0x1",
+      "IsContainer=1.0x1",
+      "IsAwkward=1.0x1",
+      "IsBow=1.0x1",
+      "IsEdged=1.0x1.0",
+      "IsShaft=1.0x1.0",
+      "StatMass=1.0x1.1",
+      "StatBasePrice=1.0x685.0",
+      "StatDamageMax=1.0x5",
+      "IsMechanical=1.0x1",
+      "IsNotForSale=1.0x1",
+      "IsCategoryWeapons=1.0x1"
+    ],
+    "strContainerCT"    : "TIsFitAmmoBolt",
+    "nContainerHeight"   : 1,
+    "nContainerWidth"   : 2,
+    "mapCondTolerance"       : [
+    ],
+    "mapPoints"      : [
+    ],
+    "mapChargeProfiles"  : [
+      "Melee","MeleeAttackDefaultExtraFragile"
+    ],
+    "aUpdateCommands" : [
+      "Destructable,StatDamage,ACTMechDestroy,StatDamageMax,1.0"
+    ],
+    "mapGUIPropMaps"  : null,
+    "strPortraitImg"  : "ItmWeaponCrossbow01",
+    "mapSlotEffects" : [
+      "heldL","Blank",
+      "heldR","Blank"
+    ],
+    "jsonPI"            : null,
+    "strAudioEmitter" : "ItmBowSound"
+  },
+  {
+    "strName" : "ItmWeaponCrossbow02",
+    "strNameShort" : "Арбалет",
+    "strNameFriendly" : "Безлебёдачный Арбалет ",
+    "strDesc" : "Арбалет без лебёдки, который удивительно хорошо метает заточенные стрелы в условиях микрогравитации. Такая конструкция более компактна, чем классические версии с луком, но для перезарядки все равно требуется съемная лебедка.",
+    "strItemDef" : "ItmWeaponCrossbow02",
+    "strType"    : "Item",
+    "strLoot"    : null,
+    "aInteractions" : [
+      "Inventory",
+      "EquipItem",
+      "DropItem",
+      "PickupItem"
+    ],
+    "aStartingConds" : [
+      "IsHandheld=1.0x1.0",
+      "IsRigid=1.0x1.0",
+      "IsSolid=1.0x1.0",
+      "IsPocketable=1.0x1.0",
+      "IsClippable=1.0x1.0",
+      "IsBrittle=1.0x1.0",
+      "IsWeaponRanged=1.0x1",
+      "IsWeapon=1.0x1",
+      "IsContainer=1.0x1",
+      "IsBow=1.0x1",
+      "StatMass=1.0x1.1",
+      "StatBasePrice=1.0x1066.0",
+      "StatDamageMax=1.0x6",
+      "IsMechanical=1.0x1",
+      "IsNotForSale=1.0x1",
+      "IsCategoryWeapons=1.0x1"
+    ],
+    "strContainerCT"    : "TIsFitAmmoBolt",
+    "nContainerHeight"   : 1,
+    "nContainerWidth"   : 2,
+    "mapCondTolerance"       : [
+    ],
+    "mapPoints"      : [
+    ],
+    "mapChargeProfiles"  : [
+      "Melee","MeleeAttackDefaultExtraFragile"
+    ],
+    "aUpdateCommands" : [
+      "Destructable,StatDamage,ACTMechDestroy,StatDamageMax,1.0"
+    ],
+    "mapGUIPropMaps"  : null,
+    "strPortraitImg"  : "ItmWeaponCrossbow02",
+    "mapSlotEffects" : [
+      "heldL","Blank",
+      "heldR","Blank"
+    ],
+    "jsonPI"            : null,
+    "strAudioEmitter" : "ItmBowSound"
+  },
+  {
+    "strName" : "ItmWeaponCutlass01",
+    "strNameShort" : "Кортик",
+    "strNameFriendly" : "Кортик",
+    "strDesc" : "Это оружие, используемое на палубах парусных судов, может показаться устаревшим, но в умелых руках оно может быть эффективным против небронированных целей в ограниченном пространстве.",
+    "strItemDef" : "ItmWeaponCutlass01",
+    "strType"    : "Item",
+    "strLoot"    : null,
+    "aInteractions" : [
+      "EquipItem",
+      "DropItem",
+      "PickupItem"
+    ],
+    "aStartingConds" : [
+      "IsHandheld=1.0x1.0",
+      "IsRigid=1.0x1.0",
+      "IsSolid=1.0x1.0",
+      "IsClippable=1.0x1.0",
+      "IsTough=1.0x1.0",
+      "IsWedge=1.0x1.0",
+      "IsWeaponMelee=1.0x1",
+      "IsWeapon=1.0x1",
+      "IsBlade=1.0x1",
+      "IsSharpEdge=1.0x1.0",
+      "IsSharpPoint=1.0x1.0",
+      "IsShaft=1.0x1.0",
+      "StatMass=1.0x0.68",
+      "StatBasePrice=1.0x362.0",
+      "StatDamageMax=1.0x12",
+      "IsCategoryWeapons=1.0x1"
+    ],
+    "mapCondTolerance"       : [
+    ],
+    "mapPoints"      : [
+    ],
+    "mapChargeProfiles"  : [
+      "Melee","MeleeAttackDefault"
+    ],
+    "aUpdateCommands" : [
+      "Destructable,StatDamage,ACTDefaultDestroy,StatDamageMax,1.0"
+    ],
+    "mapGUIPropMaps"  : null,
+    "strPortraitImg"  : "ItmWeaponCutlass01",
+    "mapSlotEffects" : [
+      "heldL","HeldItmWeaponCutlass01L",
+      "heldR","HeldItmWeaponCutlass01R"
+    ],
+    "jsonPI"            : null,
+    "strAudioEmitter" : "ItmSwordSound"
+  }, 
+  {
+    "strName" : "ItmWeaponGoat01",
+    "strNameShort" : "Костянная дубинка",
+    "strNameFriendly" : "Костянная дубинка",
+    "strDesc" : "Замечательное оружие, созданное из черепа и позвоночника крупного гибрида козла и человека, некоторыми считается варварским, но при этом эффективным. Оно способно пробивать как защитную одежду, так и предметы.",
+    "strItemDef" : "ItmWeaponGoat01",
+    "strType"    : "Item",
+    "strLoot"    : null,
+    "aInteractions" : [
+      "EquipItem",
+      "DropItem",
+      "PickupItem"
+    ],
+    "aStartingConds" : [
+      "IsHandheld=1.0x1.0",
+      "IsRigid=1.0x1.0",
+      "IsSolid=1.0x1.0",
+      "IsClippable=1.0x1.0",
+      "IsTough=1.0x1.0",
+      "IsWedge=1.0x1.0",
+      "IsWeaponMelee=1.0x1",
+      "IsWeapon=1.0x1",
+      "IsBlade=1.0x1",
+      "IsSharpEdge=1.0x1.0",
+      "IsSharpPoint=1.0x1.0",
+      "IsShaft=1.0x1.0",
+      "StatMass=1.0x0.51",
+      "IsPlot_Meat_Significant=1.0x1.0",
+      "StatBasePrice=1.0x21362.0",
+      "StatDamageMax=1.0x15",
+      "IsCategoryWeapons=1.0x1"
+    ],
+    "mapCondTolerance"       : [
+    ],
+    "mapPoints"      : [
+    ],
+    "mapChargeProfiles"  : [
+      "Melee","MeleeAttackDefaultTough"
+    ],
+    "aUpdateCommands" : [
+      "Destructable,StatDamage,ACTDefaultDestroy,StatDamageMax,1.0"
+    ],
+    "mapGUIPropMaps"  : null,
+    "strPortraitImg"  : "ItmWeaponGoat01",
+    "mapSlotEffects" : [
+      "heldL","HeldItmWeaponGoat01L",
+      "heldR","HeldItmWeaponGoat01R"
+    ],
+    "jsonPI"            : null,
+    "strAudioEmitter" : "ItmScepterSound"
+  }, 
+  {
+    "strName" : "ItmWeaponKatana01",
+    "strNameShort" : "Катана",
+    "strNameFriendly" : "Катана",
+    "strDesc" : "Меч имеет изогнутую форму и длину 70 сантиметров. Лезвие одностороннее. Рукоять выполнена из плетёного материала и предназначена для использования одной или двумя руками. Меч разработан с целью обеспечения баланса, точности и стильного внешнего вида. Однако в условиях ограниченного пространства его длина может быть неудобной.",
+    "strItemDef" : "ItmWeaponKatana01",
+    "strType"    : "Item",
+    "strLoot"    : null,
+    "aInteractions" : [
+      "EquipItem",
+      "DropItem",
+      "PickupItem"
+    ],
+    "aStartingConds" : [
+      "IsHandheld=1.0x1.0",
+      "IsRigid=1.0x1.0",
+      "IsSolid=1.0x1.0",
+      "IsClippable=1.0x1.0",
+      "IsTough=1.0x1.0",
+      "IsWedge=1.0x1.0",
+      "IsWeaponMelee=1.0x1",
+      "IsWeapon=1.0x1",
+      "IsBlade=1.0x1",
+      "IsLong=1.0x1.0",
+      "IsSharpEdge=1.0x1.0",
+      "IsSharpPoint=1.0x1.0",
+      "IsShaft=1.0x1.0",
+      "StatMass=1.0x1.3",
+      "StatBasePrice=1.0x12362.0",
+      "StatDamageMax=1.0x6",
+      "IsCategoryWeapons=1.0x1"
+    ],
+    "mapCondTolerance"       : [
+    ],
+    "mapPoints"      : [
+    ],
+    "mapChargeProfiles"  : [
+      "Melee","MeleeAttackDefaultTough"
+    ],
+    "aUpdateCommands" : [
+      "Destructable,StatDamage,ACTDefaultDestroy,StatDamageMax,1.0"
+    ],
+    "mapGUIPropMaps"  : null,
+    "strPortraitImg"  : "ItmWeaponKatana01",
+    "mapSlotEffects" : [
+      "heldL","HeldItmWeaponKatana01L",
+      "heldR","HeldItmWeaponKatana01R"
+    ],
+    "jsonPI"            : null,
+    "strAudioEmitter" : "ItmSwordSound"
+  }, 
+  {
+    "strName" : "ItmWeaponKnife01",
+    "strNameShort" : "Боевой нож",
+    "strNameFriendly" : "Боевой нож",
+    "strDesc" : "Классический боевой нож длиной 30,5 см из углеродистой стали с кожаной рукоятью и частично зазубренным лезвием.",
+    "strItemDef" : "ItmWeaponKnife01",
+    "strType"    : "Item",
+    "strLoot"    : null,
+    "aInteractions" : [
+      "EquipItem",
+      "DropItem",
+      "PickupItem"
+    ],
+    "aStartingConds" : [
+      "IsHandheld=1.0x1.0",
+      "IsRigid=1.0x1.0",
+      "IsSolid=1.0x1.0",
+      "IsPocketable=1.0x1.0",
+      "IsClippable=1.0x1.0",
+      "IsTough=1.0x1.0",
+      "IsWeaponMelee=1.0x1",
+      "IsWeapon=1.0x1",
+      "IsBlade=1.0x1",
+      "IsSharpEdge=1.0x1.0",
+      "IsSharpPoint=1.0x1.0",
+      "StatMass=1.0x0.305",
+      "StatBasePrice=1.0x227.0",
+      "StatDamageMax=1.0x12",
+      "IsCategoryWeapons=1.0x1"
+    ],
+    "mapCondTolerance"       : [
+    ],
+    "mapPoints"      : [
+    ],
+    "mapChargeProfiles"  : [
+      "Melee","MeleeAttackDefaultTough"
+    ],
+    "aUpdateCommands" : [
+      "Destructable,StatDamage,ACTDefaultDestroy,StatDamageMax,1.0"
+    ],
+    "mapGUIPropMaps"  : null,
+    "strPortraitImg"  : "ItmWeaponKnife01",
+    "mapSlotEffects" : [
+      "heldL","HeldItmWeaponKnife01L",
+      "heldR","HeldItmWeaponKnife01R"
+    ],
+    "jsonPI"            : null,
+    "strAudioEmitter" : "ItmBladeSound"
+  },
+  {
+    "strName" : "ItmWeaponKnuckles01",
+    "strNameShort" : "Knuckleduster",
+    "strNameFriendly" : "Knuckleduster",
+    "strDesc" : "Brass knuckles for discreetly adding heft and crack to your punches.",
+    "strItemDef" : "ItmWeaponKnuckles01",
+    "strType"    : "Item",
+    "strLoot"    : null,
+    "aInteractions" : [
+      "EquipItem",
+      "DropItem",
+      "PickupItem"
+    ],
+    "aStartingConds" : [
+      "IsHandheld=1.0x1.0",
+      "IsRigid=1.0x1.0",
+      "IsEdged=1.0x1.0",
+      "IsSolid=1.0x1.0",
+      "IsPocketable=1.0x1.0",
+      "IsTough=1.0x1.0",
+      "IsWeaponMelee=1.0x1",
+      "IsWeapon=1.0x1",
+      "StatMass=1.0x0.198",
+      "StatBasePrice=1.0x46.0",
+      "StatDamageMax=1.0x15",
+      "IsCategoryWeapons=1.0x1"
+    ],
+    "mapCondTolerance"       : [
+    ],
+    "mapPoints"      : [
+    ],
+    "mapChargeProfiles"  : [
+      "Melee","MeleeAttackDefaultTough"
+    ],
+    "aUpdateCommands" : [
+      "Destructable,StatDamage,ACTDefaultDestroy,StatDamageMax,1.0"
+    ],
+    "mapGUIPropMaps"  : null,
+    "strPortraitImg"  : "ItmWeaponKnuckles01",
+    "mapSlotEffects" : [
+      "heldL","HeldItmWeaponKnuckles01L",
+      "heldR","HeldItmWeaponKnuckles01R"
+    ],
+    "jsonPI"            : null,
+    "strAudioEmitter" : "ItmBatteryGeneralSound"
+  },
+  {
+    "strName" : "ItmWeaponMachete01",
+    "strNameShort" : "Мачете",
+    "strNameFriendly" : "Мачете",
+    "strDesc" : "Городское мачете с лезвием из закаленной стали длиной 46 см и текстурированной рукоятью из синтетического материала. Предназначено для рубки и перерубания препятствий.",
+    "strItemDef" : "ItmWeaponMachete01",
+    "strType"    : "Item",
+    "strLoot"    : null,
+    "aInteractions" : [
+      "EquipItem",
+      "DropItem",
+      "PickupItem"
+    ],
+    "aStartingConds" : [
+      "IsHandheld=1.0x1.0",
+      "IsRigid=1.0x1.0",
+      "IsSolid=1.0x1.0",
+      "IsClippable=1.0x1.0",
+      "IsTough=1.0x1.0",
+      "IsWedge=1.0x1.0",
+      "IsWeaponMelee=1.0x1",
+      "IsWeapon=1.0x1",
+      "IsBlade=1.0x1",
+      "IsSharpEdge=1.0x1.0",
+      "IsSharpPoint=1.0x1.0",
+      "IsShaft=1.0x1.0",
+      "StatMass=1.0x0.51",
+      "StatBasePrice=1.0x362.0",
+      "StatDamageMax=1.0x12",
+      "IsCategoryWeapons=1.0x1"
+    ],
+    "mapCondTolerance"       : [
+    ],
+    "mapPoints"      : [
+    ],
+    "mapChargeProfiles"  : [
+      "Melee","MeleeAttackDefaultTough"
+    ],
+    "aUpdateCommands" : [
+      "Destructable,StatDamage,ACTDefaultDestroy,StatDamageMax,1.0"
+    ],
+    "mapGUIPropMaps"  : null,
+    "strPortraitImg"  : "ItmWeaponMachete01",
+    "mapSlotEffects" : [
+      "heldL","HeldItmWeaponMachete01L",
+      "heldR","HeldItmWeaponMachete01R"
+    ],
+    "jsonPI"            : null,
+    "strAudioEmitter" : "ItmBigBladeSound"
+  }, 
+  {
+    "strNameShort" : "Дубинка",
+    "strName" : "ItmWeaponNightstick01",
+    "strNameFriendly" : "Короткая дубинка",
+    "strDesc" : "Короткая Т-образная дубинка с боковой рукояткой, изготовленная из алюминия, стекловолокна или углеродного композита. Сотрудники правоохранительных органов часто используют различные дубинки в качестве защитного инструмента.",
+    "strItemDef" : "ItmWeaponNightstick01",
+    "strType"    : "Item",
+    "strLoot"    : null,
+    "aInteractions" : [
+      "EquipItem",
+      "DropItem",
+      "PickupItem"
+    ],
+    "aStartingConds" : [
+      "IsHandheld=1.0x1.0",
+      "IsRigid=1.0x1.0",
+      "IsSolid=1.0x1.0",
+      "IsShaft=1.0x1.0",
+      "IsClippable=1.0x1.0",
+      "IsTough=1.0x1.0",
+      "IsWeaponMelee=1.0x1",
+      "IsWeapon=1.0x1",
+      "StatMass=1.0x0.48",
+      "StatBasePrice=1.0x55.0",
+      "StatDamageMax=1.0x14",
+      "IsCategoryWeapons=1.0x1"
+    ],
+    "mapCondTolerance"       : [
+    ],
+    "mapPoints"      : [
+    ],
+    "mapChargeProfiles"  : [
+      "Melee","MeleeAttackDefaultTough"
+    ],
+    "aUpdateCommands" : [
+      "Destructable,StatDamage,ACTDefaultDestroy,StatDamageMax,1.0"
+    ],
+    "mapGUIPropMaps"  : null,
+    "strPortraitImg"  : "ItmWeaponNightstick01",
+    "mapSlotEffects" : [
+      "heldL","HeldItmWeaponNightstick01L",
+      "heldR","HeldItmWeaponNightstick01R"
+    ],
+    "jsonPI"            : null,
+    "strAudioEmitter" : "ItmBatteryGeneralSound"
+  },
+  
+  {
+    "strName" : "ItmWeaponNightstick02",
+    "strNameShort" : "Полицейская дубинка",
+    "strNameFriendly" : "Полицейская дубинка",
+    "strDesc" : "Длинная дубинка с Т-образной рукоятью, изготовленная из алюминия, стекловолокна или углеродного композитного материала. Дубинки в стиле тонфа часто используются сотрудниками правоохранительных органов в качестве средства защиты.",
+    "strItemDef" : "ItmWeaponNightstick02",
+    "strType"    : "Item",
+    "strLoot"    : null,
+    "aInteractions" : [
+      "EquipItem",
+      "DropItem",
+      "PickupItem"
+    ],
+    "aStartingConds" : [
+      "IsHandheld=1.0x1.0",
+      "IsRigid=1.0x1.0",
+      "IsSolid=1.0x1.0",
+      "IsShaft=1.0x1.0",
+      "IsEdged=1.0x1.0",
+      "IsClippable=1.0x1.0",
+      "IsTough=1.0x1.0",
+      "IsWeaponMelee=1.0x1",
+      "IsWeapon=1.0x1",
+      "StatMass=1.0x0.68",
+      "StatBasePrice=1.0x65.0",
+      "StatDamageMax=1.0x16",
+      "IsCategoryWeapons=1.0x1"
+    ],
+    "mapCondTolerance"       : [
+    ],
+    "mapPoints"      : [
+    ],
+    "mapChargeProfiles"  : [
+      "Melee","MeleeAttackDefaultTough"
+    ],
+    "aUpdateCommands" : [
+      "Destructable,StatDamage,ACTDefaultDestroy,StatDamageMax,1.0"
+    ],
+    "mapGUIPropMaps"  : null,
+    "strPortraitImg"  : "ItmWeaponNightstick02",
+    "mapSlotEffects" : [
+      "heldL","HeldItmWeaponNightstick02L",
+      "heldR","HeldItmWeaponNightstick02R"
+    ],
+    "jsonPI"            : null,
+    "strAudioEmitter" : "ItmBatteryGeneralSound"
+  },
+  {
+    "strName" : "ItmWeaponPistol01",
+    "strNameShort" : "Пистолет 45-го калибра",
+    "strNameFriendly" : "Ручной пистолет \"1911\" Deltec",
+    "strDesc" : "Классический однозарядный пистолет старой Земли, оснащенный рукояткой, инкрустированной деревом. Полуавтоматический пистолет с возвратно-поступательным движением, как правило, вмещает 8 патронов калибра 45 ACP.",
+    "strItemDef" : "ItmWeaponPistol01",
+    "strType"    : "Item",
+    "strLoot"    : null,
+    "aInteractions" : [
+      "Inventory",
+      "EquipItem",
+      "DropItem",
+      "PickupItem"
+    ],
+    "aStartingConds" : [
+      "IsHandheld=1.0x1.0",
+      "IsRigid=1.0x1.0",
+      "IsSolid=1.0x1.0",
+      "IsPocketable=1.0x1.0",
+      "IsClippable=1.0x1.0",
+      "IsTough=1.0x1.0",
+      "IsEdged=1.0x1.0",
+      "IsWeaponRanged=1.0x1",
+      "IsWeapon=1.0x1",
+      "IsFirearm=1.0x1",
+      "IsDeltec=1.0x1",
+      "IsContainer=1.0x1",
+      "IsChambered45=1.0x1",
+      "IsEdged=1.0x1.0",
+      "StatMass=1.0x1.1",
+      "StatBasePrice=1.0x1985.0",
+      "StatDamageMax=1.0x12",
+      "IsCategoryWeapons=1.0x1"
+    ],
+    "strContainerCT"    : "TIsFitAmmo45",
+    "nContainerHeight"   : 1,
+    "nContainerWidth"   : 1,
+    "mapCondTolerance"       : [
+    ],
+    "mapPoints"      : [
+    ],
+    "mapChargeProfiles"  : [
+      "Normal","RangedWeaponAmmoNormal",
+      "PistolWhip","EnergyWeaponPistolWhip01"
+    ],
+    "aUpdateCommands" : [
+      "Destructable,StatDamage,ACTDefaultDestroy,StatDamageMax,1.0"
+    ],
+    "mapGUIPropMaps"  : null,
+    "strPortraitImg"  : "ItmWeaponPistol01",
+    "mapSlotEffects" : [
+      "heldL","HeldItmWeaponPistol01L",
+      "heldR","HeldItmWeaponPistol01R"
+    ],
+    "jsonPI"            : null,
+    "strAudioEmitter" : "ItmPistol01Sound"
+  },
+  {
+    "strName" : "ItmWeaponPistol02",
+    "strNameShort" : "9mm Пистолет",
+    "strNameFriendly" : "Пистолет Deltec \"Barracuda\" калибра 9 мм",
+    "strDesc" : "Этот легкий полуавтоматический пистолет с полимерным корпусом, сохранившийся со Старой Земли, обычно вмещает 17 патронов калибра 9 мм в съемном магазине.",
+    "strItemDef" : "ItmWeaponPistol02",
+    "strType"    : "Item",
+    "strLoot"    : null,
+    "aInteractions" : [
+      "Inventory",
+      "EquipItem",
+      "DropItem",
+      "PickupItem"
+    ],
+    "aStartingConds" : [
+      "IsHandheld=1.0x1.0",
+      "IsRigid=1.0x1.0",
+      "IsSolid=1.0x1.0",
+      "IsEdged=1.0x1.0",
+      "IsPocketable=1.0x1.0",
+      "IsClippable=1.0x1.0",
+      "IsWeaponRanged=1.0x1",
+      "IsWeapon=1.0x1", 
+      "IsFirearm=1.0x1",
+      "IsDeltec=1.0x1",
+      "IsContainer=1.0x1",
+      "IsChambered9mm=1.0x1",
+      "StatMass=1.0x0.625",
+      "StatBasePrice=1.0x1245.0",
+      "StatDamageMax=1.0x10",
+      "IsCategoryWeapons=1.0x1"
+    ],
+    "strContainerCT"    : "TIsFitAmmo9mm",
+    "nContainerHeight"   : 1,
+    "nContainerWidth"   : 1,
+    "mapCondTolerance"       : [
+    ],
+    "mapPoints"      : [
+    ],
+    "mapChargeProfiles"  : [
+      "Normal","RangedWeaponAmmoNormal",
+      "PistolWhip","EnergyWeaponPistolWhip01"
+    ],
+    "aUpdateCommands" : [
+      "Destructable,StatDamage,ACTDefaultDestroy,StatDamageMax,1.0"
+    ],
+    "mapGUIPropMaps"  : null,
+    "strPortraitImg"  : "ItmWeaponPistol02",
+    "mapSlotEffects" : [
+      "heldL","HeldItmWeaponPistol02L",
+      "heldR","HeldItmWeaponPistol02R"
+    ],
+    "jsonPI"            : null,
+    "strAudioEmitter" : "ItmPistol02Sound"
+  },
+  {
+    "strName" : "ItmWeaponPistol03",
+    "strNameShort" : ".38 Револьвер",
+    "strNameFriendly" : "Cathcart North \"Детектив\" .38 Револьвер",
+    "strDesc" : "Даже для старого земного оружия этот револьвер с К-образной рамкой является старомодным, вмещая 6 патронов 38-го калибра в откидном цилиндре.",
+    "strItemDef" : "ItmWeaponPistol03",
+    "strType"    : "Item",
+    "strLoot"    : null,
+    "aInteractions" : [
+      "Inventory",
+      "EquipItem",
+      "DropItem",
+      "PickupItem"
+    ],
+    "aStartingConds" : [
+      "IsHandheld=1.0x1.0",
+      "IsRigid=1.0x1.0",
+      "IsSolid=1.0x1.0",
+      "IsEdged=1.0x1.0",
+      "IsTough=1.0x1.0",
+      "IsPocketable=1.0x1.0",
+      "IsClippable=1.0x1.0",
+      "IsWeaponRanged=1.0x1",
+      "IsWeapon=1.0x1",
+      "IsFirearm=1.0x1",
+      "IsCathcartNorth=1.0x1",
+      "IsChambered38=1.0x1",
+      "IsContainer=1.0x1",
+      "StatMass=1.0x1.0546",
+      "StatBasePrice=1.0x2250.0",
+      "StatDamageMax=1.0x10",
+      "IsCategoryWeapons=1.0x1"
+    ],
+    "strContainerCT"    : "TIsFitAmmo38",
+    "nContainerHeight"   : 1,
+    "nContainerWidth"   : 1,
+    "mapCondTolerance"       : [
+    ],
+    "mapPoints"      : [
+    ],
+    "mapChargeProfiles"  : [
+      "Normal","RangedWeaponAmmoNormal",
+      "PistolWhip","EnergyWeaponPistolWhip01"
+    ],
+    "aUpdateCommands" : [
+      "Destructable,StatDamage,ACTDefaultDestroy,StatDamageMax,1.0"
+    ],
+    "mapGUIPropMaps"  : null,
+    "strPortraitImg"  : "ItmWeaponPistol03",
+    "mapSlotEffects" : [
+      "heldL","HeldItmWeaponPistol03L",
+      "heldR","HeldItmWeaponPistol03R"
+    ],
+    "jsonPI"            : null,
+    "strAudioEmitter" : "ItmPistol01Sound"
+  },
+  {
+    "strName" : "ItmWeaponPistol04",
+    "strNameShort" : "Самодельный пистолет",
+    "strNameFriendly" : "Самодельный пистолет",
+    "strDesc" : "Самодельное огнестрельное оружие, изготовленное из запасных частей или отпечатанных на принтере деталей, предназначено для того, чтобы держать его вместе достаточно долго, чтобы произвести один или два мощных выстрела по Старой Земле.",
+    "strItemDef" : "ItmWeaponPistol04",
+    "strType"    : "Item",
+    "strLoot"    : null,
+    "aInteractions" : [
+      "EquipItem",
+      "DropItem",
+      "PickupItem"
+    ],
+    "aStartingConds" : [
+      "IsHandheld=1.0x1.0",
+      "IsRigid=1.0x1.0",
+      "IsEdged=1.0x1.0",
+      "IsSolid=1.0x1.0",
+      "IsBrittle=1.0x1", 
+      "IsPocketable=1.0x1.0",
+      "IsClippable=1.0x1.0",
+      "IsWeaponRanged=1.0x1",
+      "IsWeapon=1.0x1", 
+      "IsFirearm=1.0x1",
+      "IsChamberedRiP=1.0x1",
+      "IsContainer=1.0x1",
+      "StatMass=1.0x0.43",
+      "StatBasePrice=1.0x75.0",
+      "StatDamageMax=1.0x2",
+      "IsCategoryWeapons=1.0x1"
+    ],
+    "mapCondTolerance"       : [
+    ],
+    "mapPoints"      : [
+    ],
+    "mapChargeProfiles"  : [
+      "Normal","RangedWeaponPistol04Normal",      
+      "PistolWhip","EnergyWeaponPistolWhip01"
+    ],
+    "aUpdateCommands" : [
+      "Destructable,StatDamage,ACTDefaultDestroy,StatDamageMax,1.0"
+    ],
+    "mapGUIPropMaps"  : null,
+    "strPortraitImg"  : "ItmWeaponPistol04",
+    "mapSlotEffects" : [
+      "heldL","HeldItmWeaponPistol04L",
+      "heldR","HeldItmWeaponPistol04R"
+    ],
+    "jsonPI"            : null,
+    "strAudioEmitter" : "ItmSmallPlasticItemSound"
+  },
+  {
+    "strName" : "ItmWeaponPistolStun01",
+    "strNameShort" : "Электрошоковый пистолет",
+    "strNameFriendly" : "Электрошоковый пистолет",
+    "strDesc" : "Электрошокер, предназначенный для выведения из строя с помощью боли и непроизвольного сокращения мышц, питающийся от одноразовых батареек.",
+    "strItemDef" : "ItmWeaponPistolStun01",
+    "strType"    : "Item",
+    "strLoot"    : null,
+    "aInteractions" : [
+      "Inventory",
+      "EquipItem",
+      "DropItem",
+      "PickupItem"
+    ],
+    "aStartingConds" : [
+      "IsHandheld=1.0x1.0",
+      "IsRigid=1.0x1.0",
+      "IsSolid=1.0x1.0",
+      "IsEdged=1.0x1.0",
+      "IsPocketable=1.0x1.0",
+      "IsClippable=1.0x1.0",
+      "IsWeaponRanged=1.0x1",
+      "IsWeapon=1.0x1", 
+      "IsWeaponStun=1.0x1",
+      "IsContainer=1.0x1",
+      "StatMass=1.0x0.625",
+      "StatBasePrice=1.0x745.0",
+      "StatDamageMax=1.0x10",
+      "IsNotForSale=1.0x1",
+      "IsCategoryWeapons=1.0x1"
+    ],
+    "strContainerCT"    : "TIsFitContainerBattDisp01",
+    "nContainerHeight"   : 1,
+    "nContainerWidth"   : 1,
+    "mapCondTolerance"       : [
+    ],
+    "mapPoints"      : [
+    ],
+    "mapChargeProfiles"  : [
+      "Normal","EnergyWeaponNormal01"
+    ],
+    "aUpdateCommands" : [
+      "Destructable,StatDamage,ACTDefaultDestroy,StatDamageMax,1.0"
+    ],
+    "mapGUIPropMaps"  : null,
+    "strPortraitImg"  : "ItmWeaponPistolStun01",
+    "mapSlotEffects" : [
+      "heldL","Blank",
+      "heldR","Blank"
+    ],
+    "jsonPI"            : null,
+    "strAudioEmitter" : "ItmElectricItemSound"
+  },
+  {
+    "strName" : "ItmWeaponPistolEnergy01",
+    "strNameShort" : "HG Пистолет",
+    "strNameFriendly" : "Smartlink \"Quicksilver\" Пистолет",
+    "strDesc" : "Обычное, легкое оружие с полимерным корпусом, широко рекламируемое компанией Smartlink как \"защищенное от выстрелов\" из-за использования в нем гелевых боеприпасов стандартного калибра (HG).",
+    "strItemDef" : "ItmWeaponPistolEnergy01",
+    "strType"    : "Item",
+    "strLoot"    : null,
+    "aInteractions" : [
+      "Inventory",
+      "EquipItem",
+      "DropItem",
+      "PickupItem"
+    ],
+    "aStartingConds" : [
+      "IsHandheld=1.0x1.0",
+      "IsRigid=1.0x1.0",
+      "IsSolid=1.0x1.0",
+      "IsTechnology=1.0x1",
+      "IsEdged=1.0x1.0",
+      "IsPocketable=1.0x1.0",
+      "IsClippable=1.0x1.0",
+      "IsWeaponRanged=1.0x1",
+      "IsWeapon=1.0x1",
+      "IsFirearm=1.0x1",
+      "IsSmartlink=1.0x1",
+      "IsContainer=1.0x1",
+      "StatMass=1.0x0.825",
+      "StatBasePrice=1.0x2745.0",
+      "StatDamageMax=1.0x7",
+      "IsCategoryWeapons=1.0x1"
+    ],    
+    "mapAltItemDefs"  : [
+    ],
+    "strContainerCT"    : "TIsFitAmmoHullsafe",
+    "nContainerHeight"   : 1,
+    "nContainerWidth"   : 1,
+    "mapCondTolerance"       : [
+    ],
+    "mapPoints"      : [
+    ],
+    "mapChargeProfiles"  : [
+      "Normal","RangedWeaponAmmoNormal",
+      "PistolWhip","EnergyWeaponPistolWhip01"
+    ],
+    "aUpdateCommands" : [
+      "Destructable,StatDamage,ACTTechDestroy,StatDamageMax,1.0"
+    ],
+    "mapGUIPropMaps"  : null,
+    "strPortraitImg"  : "ItmWeaponPistolEnergy01",
+    "mapSlotEffects" : [
+      "heldL","HeldItmWeaponPistolEnergy01L",
+      "heldR","HeldItmWeaponPistolEnergy01R"
+    ],
+    "jsonPI"            : null,
+    "strAudioEmitter" : "ItmPistol02Sound"
+  },
+  {
+    "strName" : "ItmWeaponPocketKnife01",
+    "strNameShort" : "Pocketknife",
+    "strNameFriendly" : "Pocketknife",
+    "strDesc" : "A small foldable knife that fits in your pocket.",
+    "strItemDef" : "ItmWeaponPocketKnife01",
+    "strType"    : "Item",
+    "strLoot"    : null,
+    "aInteractions" : [
+      "EquipItem",
+      "DropItem",
+      "PickupItem"
+    ],
+    "aStartingConds" : [
+      "IsHandheld=1.0x1.0",
+      "IsRigid=1.0x1.0",
+      "IsSolid=1.0x1.0",
+      "IsPocketable=1.0x1.0",
+      "IsTough=1.0x1.0",
+      "IsWeaponMelee=1.0x1",
+      "IsWeapon=1.0x1",
+      "IsBlade=1.0x1",
+      "IsSharpPoint=1.0x1",      
+      "IsSharpEdge=1.0x1",
+      "StatMass=1.0x0.198",
+      "StatBasePrice=1.0x57.0",
+      "StatDamageMax=1.0x8",
+      "IsCategoryWeapons=1.0x1"
+    ],
+    "mapCondTolerance"       : [
+    ],
+    "mapPoints"      : [
+    ],
+    "mapChargeProfiles"  : [
+      "Melee","MeleeAttackDefaultTough"
+    ],
+    "aUpdateCommands" : [
+      "Destructable,StatDamage,ACTDefaultDestroy,StatDamageMax,1.0"
+    ],
+    "mapGUIPropMaps"  : null,
+    "strPortraitImg"  : "ItmWeaponPocketKnife01",
+    "mapSlotEffects" : [
+      "heldL","HeldItmWeaponPocketknife01L",
+      "heldR","HeldItmWeaponPocketknife01R"
+    ],
+    "jsonPI"            : null,
+    "strAudioEmitter" : "ItmSmallPlasticItemSound"
+  },
+  {
+    "strName" : "ItmWeaponRifle01",
+    "strNameShort" : "Винтовка",
+    "strNameFriendly" : "Deltec \"Кобра\" Боевая Винтовка",
+    "strDesc" : "Автоматическая боевая винтовка с облегченным прикладом, рассчитанная на 30 патронов калибра 5,56 мм. Очень опасна в герметичных помещениях. Часто используется для сдерживания толпы и устрашения, но используется только в санкционированных боевых действиях.",
+    "strItemDef" : "ItmWeaponRifle01",
+    "strType"    : "Item",
+    "strLoot"    : null,
+    "aInteractions" : [
+      "Inventory",
+      "EquipItem",
+      "DropItem",
+      "PickupItem"
+    ],
+    "aStartingConds" : [
+      "IsHandheld=1.0x1.0",
+      "IsTwoHanded=1.0x1.0",
+      "IsRigid=1.0x1.0",
+      "IsEdged=1.0x1.0",
+      "IsSolid=1.0x1.0",
+      "IsClippable=1.0x1.0",
+      "IsTough=1.0x1.0",
+      "IsShaft=1.0x1.0",
+      "IsWeaponRanged=1.0x1",
+      "IsWeapon=1.0x1",
+      "IsMilSpec=1.0x1",
+      "IsFirearm=1.0x1",
+      "IsContainer=1.0x1",
+      "IsChambered556=1.0x1",
+      "StatMass=1.0x2.89",
+      "StatBasePrice=1.0x2335.0",
+      "StatDamageMax=1.0x12",
+      "IsNotForSale=1.0x1",
+      "IsCategoryWeapons=1.0x1"
+    ],
+    "strContainerCT"    : "TIsFitAmmo556",
+    "nContainerHeight"   : 1,
+    "nContainerWidth"   : 3,
+    "mapCondTolerance"       : [
+    ],
+    "mapPoints"      : [
+    ],
+    "mapChargeProfiles"  : [
+      "Normal","RangedWeaponAmmoNormal",
+      "3RB","RangedWeaponAmmoNormal3RB",
+      "Melee","MeleeAttackDefaultTough"
+    ],
+    "aUpdateCommands" : [
+      "Destructable,StatDamage,ACTDefaultDestroy,StatDamageMax,1.0"
+    ],
+    "mapGUIPropMaps"  : null,
+    "strPortraitImg"  : "ItmWeaponRifle01",
+    "mapSlotEffects" : [
+      "heldL","HeldItmWeaponRifle01L",
+      "heldR","HeldItmWeaponRifle01R"
+    ],
+    "jsonPI"            : null,
+    "strAudioEmitter" : "ItmRifle01Sound"
+  },
+  {
+    "strName" : "ItmWeaponRifleEnergy01",
+    "strNameShort" : "Энергитическая Винтовка",
+    "strNameFriendly" : "Deltec LAR-10 Энергитическая Винтовка",
+    "strDesc" : "Высокотехнологичная энергетическая винтовка, изготовленная из титана и требующая стандартного съемного элемента питания. Очень эффективна против большинства обычных доспехов.",
+    "strItemDef" : "ItmWeaponRifleEnergy01Empty",
+    "strType"    : "Item",
+    "strLoot"    : null,
+    "aInteractions" : [
+      "Inventory",
+      "EquipItem",
+      "DropItem",
+      "PickupItem"
+    ],
+    "aStartingConds" : [
+      "IsHandheld=1.0x1.0",
+      "IsTwoHanded=1.0x1.0",
+      "IsRigid=1.0x1.0",
+      "IsEdged=1.0x1.0",
+      "IsTechnology=1.0x1",
+      "IsSolid=1.0x1.0",
+      "IsClippable=1.0x1.0",
+      "IsTough=1.0x1.0",
+      "IsShaft=1.0x1.0",
+      "IsWeaponRanged=1.0x1",
+      "IsWeaponEnergy=1.0x1",
+      "IsWeapon=1.0x1",
+      "IsMilSpec=1.0x1",
+      "IsFirearm=1.0x1",
+      "IsContainer=1.0x1",
+      "StatMass=1.0x3.59",
+      "StatBasePrice=1.0x6450.0",
+      "StatDamageMax=1.0x9",
+      "IsNotForSale=1.0x1",
+      "IsCategoryWeapons=1.0x1"
+    ],
+    "mapAltItemDefs"  : [
+      "IsAmmoPowerCell","ItmWeaponRifleEnergy01"
+    ],
+    "strContainerCT"    : "TIsFitAmmoPowerCell",
+    "nContainerHeight"   : 1,
+    "nContainerWidth"   : 1,
+    "mapCondTolerance"       : [
+    ],
+    "mapPoints"      : [
+    ],
+    "mapChargeProfiles"  : [
+      "Normal","EnergyWeaponNormal01",
+      "Melee","MeleeAttackDefaultTough"
+    ],
+    "aUpdateCommands" : [
+      "Destructable,StatDamage,ACTTechDestroy,StatDamageMax,1.0"
+    ],
+    "mapGUIPropMaps"  : null,
+    "strPortraitImg"  : "ItmWeaponRifleEnergy01",
+    "mapSlotEffects" : [
+      "heldL","Blank",
+      "heldR","Blank"
+    ],
+    "jsonPI"            : null,
+    "strAudioEmitter" : "ItmRifle01Sound"
+  },
+  {
+    "strName" : "ItmWeaponShiv01",
+    "strNameShort" : "Заточка",
+    "strNameFriendly" : "Заточка",
+    "strDesc" : "Специальное лезвие, изготовленное из заточенного металла или стекла, обернутое тканью, шнуром или другими подобными материалами для защиты сжимающей руки.",
+    "strItemDef" : "ItmWeaponShiv01",
+    "strType"    : "Item",
+    "strLoot"    : null,
+    "aInteractions" : [
+      "EquipItem",
+      "DropItem",
+      "PickupItem"
+    ],
+    "aStartingConds" : [
+      "IsHandheld=1.0x1.0",
+      "IsRigid=1.0x1.0",
+      "IsSolid=1.0x1.0",
+      "IsPocketable=1.0x1.0",
+      "IsBrittle=1.0x1.0",
+      "IsFragile=1.0x1.0",
+      "IsWeaponMelee=1.0x1",      
+      "IsWeapon=1.0x1",
+      "IsBlade=1.0x1",
+      "IsSharpEdge=1.0x1.0",
+      "IsSharpPoint=1.0x1.0",
+      "StatMass=1.0x0.525",
+      "StatBasePrice=1.0x3.0",
+      "StatDamageMax=1.0x1",
+      "IsCategoryWeapons=1.0x1"
+    ],
+    "mapCondTolerance"       : [
+    ],
+    "mapPoints"      : [
+    ],
+    "mapChargeProfiles"  : [
+      "Melee","MeleeAttackDefaultFragile"
+    ],
+    "aUpdateCommands" : [
+      "Destructable,StatDamage,ACTDefaultDestroy,StatDamageMax,1.0"
+    ],
+    "mapGUIPropMaps"  : null,
+    "strPortraitImg"  : "ItmWeaponShiv01",
+    "mapSlotEffects" : [
+      "heldL","HeldItmWeaponShiv01L",
+      "heldR","HeldItmWeaponShiv01R"
+    ],
+    "jsonPI"            : null,
+    "strAudioEmitter" : "ItmShivSound"
+  },
+  {
+    "strName" : "ItmWeaponShockProd01",
+    "strNameShort" : "Электрошокер",
+    "strNameFriendly" : "Электрошокер",
+    "strDesc" : "Электрошокер, предназначенный для нанесения парализующего удара током при физическом контакте с электрической дугой между двумя токопроводящими контактами. Работает от одноразовых батареек.",
+    "strItemDef" : "ItmWeaponShockProd01",
+    "strType"    : "Item",
+    "strLoot"    : null,
+    "aInteractions" : [
+      "Inventory",
+      "EquipItem",
+      "DropItem",
+      "PickupItem"
+    ],
+    "aStartingConds" : [
+      "IsHandheld=1.0x1.0",
+      "IsRigid=1.0x1.0",
+      "IsEdged=1.0x1.0",
+      "IsSolid=1.0x1.0",
+      "IsPocketable=1.0x1.0",
+      "IsWeaponMelee=1.0x1",
+      "IsWeaponStun=1.0x1",
+      "IsWeapon=1.0x1",
+      "IsContainer=1.0x1",
+      "StatMass=1.0x0.298",
+      "StatBasePrice=1.0x145.0",
+      "StatDamageMax=1.0x4",
+      "IsNotForSale=1.0x1",
+      "IsCategoryWeapons=1.0x1"
+    ],    
+    "strContainerCT"    : "TIsFitContainerBattDisp01",
+    "nContainerHeight"   : 1,
+    "nContainerWidth"   : 1,
+    "mapCondTolerance"       : [
+    ],
+    "mapPoints"      : [
+    ],
+    "mapChargeProfiles"  : [
+      "Normal","EnergyWeaponNormal01",
+      "Melee","MeleeAttackDefault"
+    ],
+    "aUpdateCommands" : [
+      "Destructable,StatDamage,ACTDefaultDestroy,StatDamageMax,1.0"
+    ],
+    "mapGUIPropMaps"  : null,
+    "strPortraitImg"  : "ItmWeaponShockProd01",
+    "mapSlotEffects" : [
+      "heldL","Blank",
+      "heldR","Blank"
+    ],
+    "jsonPI"            : null,
+    "strAudioEmitter" : "ItmElectricItemSound"
+  },
+  {
+    "strName" : "ItmWeaponShotgun01",
+    "strNameShort" : "Дробовик",
+    "strNameFriendly" : "Cathcart North \"Шумная вечеринка\" Дробовик",
+    "strDesc" : "Помповое ружье старого образца, стреляющее мелкими дробинками вразброс, обычно с магазином на 6 патронов. Жестоко действует на тела с близкого расстояния. Не рекомендуется для использования в герметичных космических сооружениях обладает дополнительными преимуществами, заключающимися в том, что он наносит меньше повреждений герметичному корпусу на любом расстоянии и его легче отследить с помощью судебной баллистики.",
+    "strItemDef" : "ItmWeaponShotgun01",
+    "strType"    : "Item",
+    "strLoot"    : null,
+    "aInteractions" : [
+      "Inventory",
+      "EquipItem",
+      "DropItem",
+      "PickupItem"
+    ],
+    "aStartingConds" : [
+      "IsHandheld=1.0x1.0",
+      "IsTwoHanded=1.0x1.0",
+      "IsRigid=1.0x1.0",
+      "IsEdged=1.0x1.0",
+      "IsSolid=1.0x1.0",
+      "IsClippable=1.0x1.0",
+      "IsTough=1.0x1.0",
+      "IsShaft=1.0x1.0",
+      "IsWeaponRanged=1.0x1",
+      "IsWeaponSpread=1.0x1",
+      "IsCathcartNorth=1.0x1",
+      "IsChambered12Gauge=1.0x1",
+      "IsWeapon=1.0x1",
+      "IsMilSpec=1.0x1",
+      "IsFirearm=1.0x1",
+      "IsContainer=1.0x1",
+      "StatMass=1.0x3.175",
+      "StatBasePrice=1.0x1885.0",
+      "StatDamageMax=1.0x9",
+      "IsNotForSale=1.0x1",
+      "IsCategoryWeapons=1.0x1"
+    ],
+    "strContainerCT"    : "TIsFitAmmo12Gauge",
+    "nContainerHeight"   : 1,
+    "nContainerWidth"   : 1,
+    "mapCondTolerance"       : [
+    ],
+    "mapPoints"      : [
+    ],
+    "mapChargeProfiles"  : [
+      "Normal","RangedWeaponAmmoNormal",
+      "Melee","MeleeAttackDefaultTough"
+    ],
+    "aUpdateCommands" : [
+      "Destructable,StatDamage,ACTDefaultDestroy,StatDamageMax,1.0"
+    ],
+    "mapGUIPropMaps"  : null,
+    "strPortraitImg"  : "ItmWeaponShotgun01",
+    "mapSlotEffects" : [
+      "heldL","HeldItmWeaponShotgun01L",
+      "heldR","HeldItmWeaponShotgun01R"
+    ],
+    "jsonPI"            : null,
+    "strAudioEmitter" : "ItmShotgun01Sound"
+  },
+  {
+    "strName" : "ItmWeaponShotgunEnergy01",
+    "strNameShort" : "Энергетический дробовик",
+    "strNameFriendly" : "Smartlink \"Геликс\" Энергетический дробовик",
+    "strDesc" : "Высокотехнологичный энергетический дробовик, изготовленный из титана и оснащенный стандартным съемным элементом питания, стреляет бронебойными пулями с разбросом.Благодаря изяществу и энергоэффективности винтовки, из этого оружия трудно промахнуться и избежать сопутствующего урона.",
+    "strItemDef" : "ItmWeaponShotgunEnergy01Empty",
+    "strType"    : "Item",
+    "strLoot"    : null,
+    "aInteractions" : [
+      "Inventory",
+      "EquipItem",
+      "DropItem",
+      "PickupItem"
+    ],
+    "aStartingConds" : [
+      "IsHandheld=1.0x1.0",
+      "IsTwoHanded=1.0x1.0",
+      "IsRigid=1.0x1.0",
+      "IsEdged=1.0x1.0",
+      "IsTechnology=1.0x1",
+      "IsSolid=1.0x1.0",
+      "IsClippable=1.0x1.0",
+      "IsTough=1.0x1.0",
+      "IsShaft=1.0x1.0",
+      "IsWeaponRanged=1.0x1",
+      "IsWeaponEnergy=1.0x1",      
+      "IsWeaponSpread=1.0x1",
+      "IsWeapon=1.0x1",
+      "IsMilSpec=1.0x1",
+      "IsFirearm=1.0x1",
+      "IsContainer=1.0x1",
+      "StatMass=1.0x3.875",
+      "StatBasePrice=1.0x4875.0",
+      "StatDamageMax=1.0x7",
+      "IsNotForSale=1.0x1",
+      "IsCategoryWeapons=1.0x1"
+    ],
+    "mapAltItemDefs"  : [
+      "IsAmmoPowerCell","ItmWeaponShotgunEnergy01"
+    ],
+    "strContainerCT"    : "TIsFitAmmoPowerCell",
+    "nContainerHeight"   : 1,
+    "nContainerWidth"   : 1,
+    "mapCondTolerance"       : [
+    ],
+    "mapPoints"      : [
+    ],
+    "mapChargeProfiles"  : [
+      "Normal","EnergyWeaponNormal01",
+      "Melee","MeleeAttackDefaultTough"
+    ],
+    "aUpdateCommands" : [
+      "Destructable,StatDamage,ACTTechDestroy,StatDamageMax,1.0"
+    ],
+    "mapGUIPropMaps"  : null,
+    "strPortraitImg"  : "ItmWeaponShotgunEnergy01",
+    "mapSlotEffects" : [
+      "heldL","Blank",
+      "heldR","Blank"
+    ],
+    "jsonPI"            : null,
+    "strAudioEmitter" : "ItmRifle01Sound"
+  },
+  {
+    "strName" : "ItmWeaponSpear01",
+    "strNameShort" : "Копьё",
+    "strNameFriendly" : "Копьё",
+    "strDesc" : "Копье с острым стальным наконечником на метровой рукояти.",
+    "strItemDef" : "ItmWeaponSpear01",
+    "strType"    : "Item",
+    "strLoot"    : null,
+    "aInteractions" : [
+      "EquipItem",
+      "DropItem",
+      "PickupItem"
+    ],
+    "aStartingConds" : [
+      "IsHandheld=1.0x1.0",
+      "IsRigid=1.0x1.0",
+      "IsEdged=1.0x1.0",
+      "IsSolid=1.0x1.0",
+      "IsLong=1.0x1.0",
+      "IsWeapon=1.0x1",
+      "IsWeaponMelee=1.0x1",
+      "IsSharpPoint=1.0x1.0",
+      "IsShaft=1.0x1.0",
+      "StatMass=1.0x1.25",
+      "StatBasePrice=1.0x62.0",
+      "StatDamageMax=1.0x7",
+      "IsCategoryWeapons=1.0x1"
+    ],
+    "mapCondTolerance"       : [
+    ],
+    "mapPoints"      : [
+    ],
+    "mapChargeProfiles"  : [
+      "Melee","MeleeAttackDefaultTough"
+    ],
+    "aUpdateCommands" : [
+      "Destructable,StatDamage,ACTDefaultDestroy,StatDamageMax,1.0"
+    ],
+    "mapGUIPropMaps"  : null,
+    "strPortraitImg"  : "ItmWeaponSpear01",
+    "mapSlotEffects" : [
+      "heldL","HeldItmWeaponSpear01L",
+      "heldR","HeldItmWeaponSpear01R"
+    ],
+    "jsonPI"            : null,
+    "strAudioEmitter" : "ItmSpearSound"
+  }
+]

@@ -1,0 +1,702 @@
+[
+    {
+        "strName" : "DataBINPersonalAddressesOKLG",
+        "strNameFriendly" : "CONTACTS.BIN",
+        "strCOBase"    : "DataFile",
+        "strCondLoot"    : "CNDOLDatafileBIN"
+    },
+    {
+        "strName" : "DataTXTHelioHoraInfo",
+        "strNameFriendly" : "PRISONER_INFO_HELIOHORA.TXT",
+        "strCOBase"    : "DataFile",
+        "strCondLoot"    : "CNDOLDatafileTXT"
+    },
+    {
+        "strName" : "DataBINBreakout2K79Mods",
+        "strNameFriendly" : "BO2k79_MODPACK.BIN",
+        "strDesc" : "Набор читов и модов для консольной игры Breakout 2K79, включая настраиваемую форму, зомби-режим, меха-режим, реактивные ботинки, настройки переменной гравитации, игровых питомцев, добавляющих уникальные способности в игре, и, невероятно, режим с более чем 100 различными видами огнестрельного оружия.",
+        "strCOBase"    : "DataFile",
+        "strCondLoot"    : "CNDOLDatafileBIN"
+    },
+    {
+        "strName" : "DataIMGRemoteControlCat",
+        "strNameFriendly" : "REMOTECATROL.IMG",
+        "strDesc" : "Изображение сидящего кота с лапой на пульте от телевизора.",
+        "strCOBase"    : "DataFile",
+        "strCondLoot"    : "CNDOLDatafileIMG"
+    },
+    {
+        "strName" : "DataBINNavStationData",
+        "strNameFriendly" : "NAVDATA.BIN",
+        "strDesc" : "База данных для использования с консолью стандартной навигации Polaris (PSNC).\n\nЭтот файл содержит данные регистрационного идентификатора для любых судов, идентифицированных во время использования навигации.\n\nПомещение этого файла в любую навигационную станцию PSNC загрузит его содержимое в эту консоль, расширяя список известных судов этой консоли.",
+        "strCOBase"    : "DataFile",
+        "strCondLoot"    : "CNDOLDatafileBINNavData"
+    },
+    {
+        "strName" : "DataBINPDACracker",
+        "strNameFriendly" : "R3N-B00.BIN",
+        "strDesc" : "Программное обеспечение для взлома PDA для Renbao \"Portal\" PDA.",
+        "strCOBase"    : "DataFile",
+        "strCondLoot"    : "CNDOLDatafileBINPDACracker"
+    },
+    {
+        "strName" : "DataBINRobotCracker",
+        "strNameFriendly" : "B43-B-G0N3.BIN",
+        "strDesc" : "Программное обеспечение для взлома ОС дронов для строительства и контроля компании Beydat.",
+        "strCOBase"    : "DataFile",
+        "strCondLoot"    : "CNDOLDatafileBINRobotCracker"
+    },
+    {
+        "strName" : "DataSNDJTSmoovPutItIn",
+        "strNameFriendly" : "JTSMOOV_PUTITIN.SND",
+        "strDesc" : "Без потерь звуковой файл 'Put It In' от JT Smoov.",
+        "strCOBase"    : "DataFile",
+        "strCondLoot"    : "CNDOLDatafileSND"
+    },
+    {
+        "strName" : "DataTXTDebitAppOutdated",
+        "strNameFriendly" : "APPDEBITFORM.TXT",
+        "strDesc" : "Предварительная авторизация дебетовой заявки для устаревшего банковского счета.",
+        "strCOBase"    : "DataFile",
+        "strCondLoot"    : "CNDOLDatafileTXT"
+    },
+    {
+        "strName" : "DataVIDRoboKetchup",
+        "strNameFriendly" : "ROBOKETCHUP.VID",
+        "strDesc" : "Видео робота, неправильно накачивающего кетчуп на еду.",
+        "strCOBase"    : "DataFile",
+        "strCondLoot"    : "CNDOLDatafileVID"
+    },
+
+    {
+        "strName" : "DataBINRoster_PMC",
+        "strNameFriendly" : "ROSTER_PMC.BIN",
+        "strCOBase"    : "DataFile",
+        "strCondLoot"    : "CNDOLDatafileBIN1k-5k"
+    },
+    {
+        "strName" : "DataBINPersonalAddressesVoltaire",
+        "strNameFriendly" : "CONTACTS.BIN",
+        "strCOBase"    : "DataFile",
+        "strCondLoot"    : "CNDOLDatafileBIN100-1k"
+    },
+    {
+        "strName" : "DataBINPersonalAddressesRingStation",
+        "strNameFriendly" : "CONTACTS.BIN",
+        "strCOBase"    : "DataFile",
+        "strCondLoot"    : "CNDOLDatafileBIN100-1k"
+    },
+    {
+        "strName" : "DataBINPersonalAddressesNewcal",
+        "strNameFriendly" : "CONTACTS.BIN",
+        "strCOBase"    : "DataFile",
+        "strCondLoot"    : "CNDOLDatafileBIN100-1k"
+    },
+    {
+        "strName" : "DataBINPersonalAddressesProkofiev",
+        "strNameFriendly" : "INVENTORY.BIN",
+        "strCOBase"    : "DataFile",
+        "strCondLoot"    : "CNDOLDatafileBIN100-1k"
+    },
+    {
+        "strName" : "DataBINPersonalAddressesFortSimpson",
+        "strNameFriendly" : "CONTACTS.BIN",
+        "strCOBase"    : "DataFile",
+        "strCondLoot"    : "CNDOLDatafileBIN100-1k"
+    },
+    {
+        "strName" : "DataBINPersonalAddressesAtlantis",
+        "strNameFriendly" : "CONTACTS.BIN",
+        "strCOBase"    : "DataFile",
+        "strCondLoot"    : "CNDOLDatafileBIN100-1k"
+    },
+    {
+        "strName" : "DataBINAtlantisResearch",
+        "strNameFriendly" : "SIGHTINGS.BIN",
+        "strCOBase"    : "DataFile",
+        "strCondLoot"    : "CNDOLDatafileBIN1k-5k"
+    },
+    {
+        "strName" : "DataBINPersonalAddressesJadeRabbit",
+        "strNameFriendly" : "CONTACTS.BIN",
+        "strCOBase"    : "DataFile",
+        "strCondLoot"    : "CNDOLDatafileBIN100-1k"
+    },
+    {
+        "strName" : "DataBINCryptoSmall",
+        "strNameFriendly" : "CRYPTO_TOKEN.BIN",
+        "strDesc" : "Маленькие крипто-кредиты. Часто используются для чаевых, подарков и необратимых переводов.",
+        "strCOBase"    : "DataFile",
+        "strCondLoot"    : "CNDOLDatafileBIN100-1k"
+    },
+    {
+        "strName" : "DataBINCryptoMed",
+        "strNameFriendly" : "CRYPTO_WALLET.BIN",
+        "strDesc" : "Кто-то взломал личный крипто-кошелек другого человека.",
+        "strCOBase"    : "DataFile",
+        "strCondLoot"    : "CNDOLDatafileBIN1k-5k"
+    },
+    {
+        "strName" : "DataBINCryptoLarge",
+        "strNameFriendly" : "CRYPTO_VAULT.BIN",
+        "strDesc" : "ПИН-код для доступа к крипто-сейфу. Людям, вероятно, не стоит оставлять такие вещи без присмотра. Конечно, он уже мог быть очищен.",
+        "strCOBase"    : "DataFile",
+        "strCondLoot"    : "CNDOLDatafileBIN0-15k"
+    },
+
+    
+    {
+        "strName" : "DataIMGSuperHarrison",
+        "strNameFriendly" : "HARRYMUSCLES.IMG",
+        "strCOBase"    : "DataFile",
+        "strCondLoot"    : "CNDOLDatafileIMG"
+    },
+    {
+        "strName" : "DataIMGThreeWolfMoons",
+        "strNameFriendly" : "3WOLFMOONS.IMG",
+        "strCOBase"    : "DataFile",
+        "strCondLoot"    : "CNDOLDatafileIMG"
+    },
+    {
+        "strName" : "DataIMGMeat01",
+        "strNameFriendly" : "PPP.IMG",
+        "strCOBase"    : "DataFile",
+        "strCondLoot"    : "CNDOLDatafileIMGMeat"
+    },
+    {
+        "strName" : "DataIMGMeat02",
+        "strNameFriendly" : "INFESTATION.IMG",
+        "strCOBase"    : "DataFile",
+        "strCondLoot"    : "CNDOLDatafileIMGMeat"
+    },
+    {
+        "strName" : "DataSNDMeat01",
+        "strNameFriendly" : "SPACER_SHANTY.SND",
+        "strCOBase"    : "DataFile",
+        "strCondLoot"    : "CNDOLDatafileSNDMeat"
+    },
+    {
+        "strName" : "DataTXTFusionManual01",
+        "strNameFriendly" : "FUSION_AO_MANUAL_1_PARTS.TXT",
+        "strCOBase"    : "DataFile",
+        "strCondLoot"    : "CNDOLDatafileTXTFusion"
+    },
+    {
+        "strName" : "DataTXTFusionManual02",
+        "strNameFriendly" : "FUSION_AO_MANUAL_2_OPS.TXT",
+        "strCOBase"    : "DataFile",
+        "strCondLoot"    : "CNDOLDatafileTXTFusion"
+    },
+    {
+        "strName" : "DataTXTFusionManual03",
+        "strNameFriendly" : "FUSION_AO_MANUAL_3_WARNINGS.TXT",
+        "strCOBase"    : "DataFile",
+        "strCondLoot"    : "CNDOLDatafileTXTFusion"
+    },
+    {
+        "strName" : "DataTXTMeat01",
+        "strNameFriendly" : "PPP_History_01.TXT",
+        "strCOBase"    : "DataFile",
+        "strCondLoot"    : "CNDOLDatafileTXTMeat"
+    },
+    {
+        "strName" : "DataTXTMeat02",
+        "strNameFriendly" : "PPP_History_02.TXT",
+        "strCOBase"    : "DataFile",
+        "strCondLoot"    : "CNDOLDatafileTXTMeat"
+    },
+    {
+        "strName" : "DataTXTMeat03",
+        "strNameFriendly" : "PPP_History_03.TXT",
+        "strCOBase"    : "DataFile",
+        "strCondLoot"    : "CNDOLDatafileTXTMeat"
+    },
+    {
+        "strName" : "DataTXTMeat04",
+        "strNameFriendly" : "PPP_History_04.TXT",
+        "strCOBase"    : "DataFile",
+        "strCondLoot"    : "CNDOLDatafileTXTMeat"
+    },
+    {
+        "strName" : "DataTXTMeat05",
+        "strNameFriendly" : "PPP_History_05.TXT",
+        "strCOBase"    : "DataFile",
+        "strCondLoot"    : "CNDOLDatafileTXTMeat"
+    },
+    {
+        "strName" : "DataTXTMeat06",
+        "strNameFriendly" : "PPP_History_06.TXT",
+        "strCOBase"    : "DataFile",
+        "strCondLoot"    : "CNDOLDatafileTXTMeat"
+    },
+    {
+        "strName" : "DataTXTMeat07",
+        "strNameFriendly" : "PPP_History_07.TXT",
+        "strCOBase"    : "DataFile",
+        "strCondLoot"    : "CNDOLDatafileTXTMeat"
+    },
+    {
+        "strName" : "DataTXTMeat08",
+        "strNameFriendly" : "PPP_History_08.TXT",
+        "strCOBase"    : "DataFile",
+        "strCondLoot"    : "CNDOLDatafileTXTMeat"
+    },
+    {
+        "strName" : "DataTXTMeat09",
+        "strNameFriendly" : "PPP_History_09.TXT",
+        "strCOBase"    : "DataFile",
+        "strCondLoot"    : "CNDOLDatafileTXTMeat"
+    },
+    {
+        "strName" : "DataIMGCryptid01",
+        "strNameFriendly" : "UFO_SIGHTING?!.IMG",
+        "strCOBase"    : "DataFile",
+        "strCondLoot"    : "CNDOLDatafileIMG"
+    },
+    {
+        "strName" : "DataIMGCryptid02",
+        "strNameFriendly" : "I_FOUND_BIGFOOT.IMG",
+        "strDesc" : "Неприметное изображение волосатого, темноволосого, сильно мускулистого человекоподобного существа с длинным носом, идущего на двух ногах через леса и руины Мичигана.\n\nНесмотря на отсутствие лесов на Земле, некоторые легенды никогда не умирают.",
+        "strCOBase"    : "DataFile",
+        "strCondLoot"    : "CNDOLDatafileIMG"
+    },
+    {
+        "strName" : "DataIMGXinhua",
+        "strNameFriendly" : "黄金周.IMG",
+        "strCOBase"    : "DataFile",
+        "strCondLoot"    : "CNDOLDatafileIMG"
+    },
+    {
+        "strName" : "DataIMGXinhua02",
+        "strNameFriendly" : "来得好!不然离开通过气闸!.IMG",
+        "strCOBase"    : "DataFile",
+        "strCondLoot"    : "CNDOLDatafileIMG"
+    },
+    
+
+    {
+        "strName" : "DataVIDVlog01",
+        "strNameFriendly" : "VLOG.VID",
+        "strDesc" : "Видеодневник из жизни космонавта, который надеется увидеть все достопримечательности в Системе.",
+        "strCOBase"    : "DataFile",
+        "strCondLoot"    : "CNDOLDatafileVID"
+    },
+    {
+        "strName" : "DataVIDVlog02",
+        "strNameFriendly" : "VLOG.VID",
+        "strDesc" : "Видеодневник из жизни неловкого космонавта, который пробует микро-г танцевальные вызовы и говорит о саморазвитии.",
+        "strCOBase"    : "DataFile",
+        "strCondLoot"    : "CNDOLDatafileVID"
+    },
+    {
+        "strName" : "DataVIDVlog03",
+        "strNameFriendly" : "VLOG!.VID",
+        "strDesc" : "Видеодневник из жизни энергичного космонавта, который делится маленькими моментами радости в бескрайних просторах.",
+        "strCOBase"    : "DataFile",
+        "strCondLoot"    : "CNDOLDatafileVID"
+    },
+    {
+        "strName" : "DataVIDVlog04",
+        "strNameFriendly" : "VIDEOLOG.VID",
+        "strDesc" : "Видеодневник из жизни одинокого космонавта, который рассказывает о процессе создания глубоко проработанного фанфика о Далисай.",
+        "strCOBase"    : "DataFile",
+        "strCondLoot"    : "CNDOLDatafileVID"
+    },
+    {
+        "strName" : "DataVIDVlog05",
+        "strNameFriendly" : "VLOG.VID",
+        "strDesc" : "Видеодневник из жизни талантливого космонавта, который поет каверы на старые песни середины и конца века.",
+        "strCOBase"    : "DataFile",
+        "strCondLoot"    : "CNDOLDatafileVID"
+    },
+    {
+        "strName" : "DataVIDVlog06",
+        "strNameFriendly" : "VLOG.VID",
+        "strDesc" : "Видеодневник из жизни преданного ученика известного психика Филлипа Барри.\n\nЭто в основном большая реклама для всех, чтобы пройти тест на психическую предрасположенность, потому что это может 'изменить вашу жизнь', как это изменило их.",
+        "strCOBase"    : "DataFile",
+        "strCondLoot"    : "CNDOLDatafileVID"
+    },
+    {
+        "strName" : "DataVIDVlog07",
+        "strNameFriendly" : "VLOG.VID",
+        "strDesc" : "Видеодневник из жизни подростка-космонавта, который рисует мрачные комиксы и жалуется на непонимание.",
+        "strCOBase"    : "DataFile",
+        "strCondLoot"    : "CNDOLDatafileVID"
+    },
+    {
+        "strName" : "DataVIDVlog08",
+        "strNameFriendly" : "VLOG.VID",
+        "strDesc" : "Видеодневник из жизни модного космонавта, который лишился нескольких зубов, но имеет множество романтических партнеров среди своей большой команды.",
+        "strCOBase"    : "DataFile",
+        "strCondLoot"    : "CNDOLDatafileVID"
+    },
+    {
+        "strName" : "DataVIDVlog09",
+        "strNameFriendly" : "VLOG.VID",
+        "strDesc" : "Видеодневник из жизни татуировщика, который практикуется на Styrofauxm и ищет новых клиентов в каждом порту.",
+        "strCOBase"    : "DataFile",
+        "strCondLoot"    : "CNDOLDatafileVID"
+    },
+    {
+        "strName" : "DataVIDVlog10",
+        "strNameFriendly" : "VLOGYRINTH.VID",
+        "strCOBase"    : "DataFile",
+        "strCondLoot"    : "CNDOLDatafileVID"
+    },
+    
+    {
+        "strName" : "DataVIDBlackmail",
+        "strNameFriendly" : "LEVERAGE.VID",
+        "strDesc" : "Скомпрометирующие скрытые видеозаписи пикантной встречи с участием местного лидера.",
+        "strCOBase"    : "DataFile",
+        "strCondLoot"    : "CNDOLDatafileVID5k-15k"
+    },
+    {
+        "strName" : "DataVIDMundane01",
+        "strNameFriendly" : "GREYWATER_TRAINING.VID",
+        "strDesc" : "Нудное обучающее видео, снятое несколько десятилетий назад о протоколах обращения с серой водой. Ведущий говорит медленно и без эмоций.",
+        "strCOBase"    : "DataFile",
+        "strCondLoot"    : "CNDOLDatafileVID"
+    },
+    {
+        "strName" : "DataVIDMundane02",
+        "strNameFriendly" : "VISIT_TITAN.VID",
+        "strCOBase"    : "DataFile",
+        "strCondLoot"    : "CNDOLDatafileVID"
+    },
+    {
+        "strName" : "DataVIDMundane03",
+        "strNameFriendly" : "DOCKING_PROCEDURES.VID",
+        "strDesc" : "Серия озвученных уроков с использованием каркасной графики, охватывающих сценарии стыковки и 'что если' для различных нетипичных и обычно угрожающих жизни ситуаций.",
+        "strCOBase"    : "DataFile",
+        "strCondLoot"    : "CNDOLDatafileVID"
+    },
+    {
+        "strName" : "DataVIDMundane04",
+        "strNameFriendly" : "INTERIOR_TOUR.VID",
+        "strDesc" : "Тщательно детализированный тур по внутренности судна или небольшой станции, включая содержимое каждого ящика, стойки и ящика. Полезно, если вы берете на себя соло-работу на какое-то время.",
+        "strCOBase"    : "DataFile",
+        "strCondLoot"    : "CNDOLDatafileVID"
+    },
+    {
+        "strName" : "DataVIDMundane05",
+        "strNameFriendly" : "THE_ZERO-G_GOURMAND.VID",
+        "strDesc" : "Видеосерия с харизматичным поваром, демонстрирующим различные приемы приготовления пищи и кулинарию в условиях микрогравитации.",
+        "strCOBase"    : "DataFile",
+        "strCondLoot"    : "CNDOLDatafileVID"
+    },
+    {
+        "strName" : "DataVIDFilm01",
+        "strNameFriendly" : "THOSE_WITH_LOADED_GUNS.VID",
+        "strCOBase"    : "DataFile",
+        "strCondLoot"    : "CNDOLDatafileVID"
+    },
+    {
+        "strName" : "DataVIDFilm02",
+        "strNameFriendly" : "THE_DISCONNECT(CLEAN).VID",
+        "strCOBase"    : "DataFile",
+        "strCondLoot"    : "CNDOLDatafileVID"
+    },
+    {
+        "strName" : "DataVIDFilm03",
+        "strNameFriendly" : "TIMELOCK1798_71215.VID",
+        "strCOBase"    : "DataFile",
+        "strCondLoot"    : "CNDOLDatafileVID"
+    },
+    {
+        "strName" : "DataVIDFilm04",
+        "strNameFriendly" : "DIAMONDS_CENSORED.VID",
+        "strCOBase"    : "DataFile",
+        "strCondLoot"    : "CNDOLDatafileVID"
+    },
+    {
+        "strName" : "DataVIDFilm05",
+        "strNameFriendly" : "SOUTHERN_HIGHLAND.VID",
+        "strCOBase"    : "DataFile",
+        "strCondLoot"    : "CNDOLDatafileVID"
+    },
+    {
+        "strName" : "DataVIDFilm06",
+        "strNameFriendly" : "FAST&FULMINATING.VID",
+        "strCOBase"    : "DataFile",
+        "strCondLoot"    : "CNDOLDatafileVID"
+    },
+    {
+        "strName" : "DataTXTFanfic01",
+        "strNameFriendly" : "DALISAY.TXT",
+        "strDesc" : "Средненькая короткая история о чрезвычайно детализированном, самовлюбленном фанфике о Далисай, изобилующая тропами и тоской.",
+        "strCOBase"    : "DataFile",
+        "strCondLoot"    : "CNDOLDatafileTXT"
+    },
+    {
+        "strName" : "DataTXTFanfic02",
+        "strNameFriendly" : "LOCUSPOCUS.TXT",
+        "strCOBase"    : "DataFile",
+        "strCondLoot"    : "CNDOLDatafileTXT"
+    },
+    {
+        "strName" : "DataTXTFanfic03",
+        "strNameFriendly" : "TAXINFO.TXT",
+        "strDesc" : "Замаскированный репозиторий эротики, тщательно отсортированный по нескольким неожиданным категориям.",
+        "strCOBase"    : "DataFile",
+        "strCondLoot"    : "CNDOLDatafileTXT"
+    },
+    {
+        "strName" : "DataTXTGame01",
+        "strNameFriendly" : "RETRO_RPG.TXT",
+        "strDesc" : "Ролевая игра 'фэнтези хартбрейкер' с тщательно проработанным авторским миром и 523 страницами правил (из них 213 - описания заклинаний).",
+        "strCOBase"    : "DataFile",
+        "strCondLoot"    : "CNDOLDatafileTXT"
+    },
+    {
+        "strName" : "DataTXTGame02",
+        "strNameFriendly" : "LONE_STAR_GAMEBOOK.TXT",
+        "strDesc" : "Интерактивная книга-игра 'Выбери свое приключение', представляющая увлекательную интерактивную историю интриг, в которой главный герой Лоун Стар — нуарный антигерой с предысторией и способностями, определяемыми выборами читателя.",
+        "strCOBase"    : "DataFile",
+        "strCondLoot"    : "CNDOLDatafileTXT"
+    },
+    {
+        "strName" : "DataSNDSilversmythRIP",
+        "strNameFriendly" : "SILVERSMYTH_RIP.SND",
+        "strCOBase"    : "DataFile",
+        "strCondLoot"    : "CNDOLDatafileSND"
+    },
+    {
+        "strName" : "DataSNDSilversmythAlbum",
+        "strNameFriendly" : "SILVERSMYTH_GOLD.SND",
+        "strDesc" : "Торрент полного альбома 'Gold' популярной K-Pop группы Silversmyth. Редкий предмет коллекционирования, который может стоить денег правильному покупателю.",
+        "strCOBase"    : "DataFile",
+        "strCondLoot"    : "CNDOLDatafileSND1k-5k"
+    },
+    {
+        "strName" : "DataSNDSilversmythBloopers",
+        "strNameFriendly" : "SILVERSMYTH_BLOOPERS.SND",
+        "strDesc" : "Неофициальный аудиозапись закулисных и туровых ляпов очаровательной музыкальной группы Silversmyth, базирующейся на станции Капёнг.",
+        "strCOBase"    : "DataFile",
+        "strCondLoot"    : "CNDOLDatafileSND"
+    },
+    {
+        "strName" : "DataSNDBreathing",
+        "strNameFriendly" : "BREATH.SND",
+        "strDesc" : "ASMR трек с белым шумом, записанный в герметичном вакуумном шлеме. Периодическое гудение, кашель, многозначительные ругательства на разных языках или учащенное дыхание прерывают монотонность.",
+        "strCOBase"    : "DataFile",
+        "strCondLoot"    : "CNDOLDatafileSND"
+    },
+    {
+        "strName" : "DataSNDPercussion",
+        "strNameFriendly" : "BEATS.SND",
+        "strDesc" : "ASMR трек с близким микрофоном, записывающим резонирование от ударов по каждому возможному обыденному предмету и материалу в повседневной жизни космонавта. Космонавт спокойно и обнадеживающе комментирует на протяжении всего трека своим красиво звучащим голосом.",
+        "strCOBase"    : "DataFile",
+        "strCondLoot"    : "CNDOLDatafileSND"
+    },
+    {
+        "strName" : "DataSNDSakuraNoir",
+        "strNameFriendly" : "SAKURANOIR.SND",
+        "strCOBase"    : "DataFile",
+        "strCondLoot"    : "CNDOLDatafileSND"
+    },
+    {
+        "strName" : "DataSNDAttack",
+        "strNameFriendly" : "CAPTAIN_LOG.SND",
+        "strDesc" : "Параноидальный капитанский лог о обреченной экспедиции. Запись прерывается звуками насилия, сердитых голосов и сигналов тревоги корабля.",
+        "strCOBase"    : "DataFile",
+        "strCondLoot"    : "CNDOLDatafileSND"
+    },
+    {
+        "strName" : "DataSNDAttack02",
+        "strNameFriendly" : "MAYDAY.SND",
+        "strDesc" : "Запись с мостика в момент, когда нападающие прорываются через двери, последующая перестрелка и паническое ругательство выживших.",
+        "strCOBase"    : "DataFile",
+        "strCondLoot"    : "CNDOLDatafileSND"
+    },
+    {
+        "strName" : "DataSNDAttack03",
+        "strNameFriendly" : "BREACHINGTEAM.SND",
+        "strDesc" : "Запись связи команды штурма с нотками бравады во время атаки на другое судно. Координация команды безжалостна, и они насмехаются над своими врагами, когда те падают перед ними.\n\nДисциплина, ритм и тяжелая метал музыка на фоне предполагают, что это хорошо обученная ЧВК или пиратский экипаж, а не какая-либо официальная военно-морская сила.",
+        "strCOBase"    : "DataFile",
+        "strCondLoot"    : "CNDOLDatafileSND"
+    },
+    {
+        "strName" : "DataSNDGhostStory",
+        "strNameFriendly" : "GHOST.SND",
+        "strDesc" : "Испуганный космонавт описывает, как стал свидетелем Марины во время выхода в открытый космос. Он неуверенно задается вопросом, содержит ли ее шлем череп и было ли бы это хуже или лучше, чем полное, неподвижное человеческое лицо.",
+        "strCOBase"    : "DataFile",
+        "strCondLoot"    : "CNDOLDatafileSND"
+    },
+    {
+        "strName" : "DataSNDGhostStory02",
+        "strNameFriendly" : "FIREFLIES.SND",
+        "strDesc" : "Запись инженера описывает роковую атаку неопределенных энергетических сигналов, которые вмешались, чтобы предотвратить пиратскоеBoarding. Говорящий задается вопросом, являются ли это Огненными мухами, о которых они слышали в космических суевериях.",
+        "strCOBase"    : "DataFile",
+        "strCondLoot"    : "CNDOLDatafileSND"
+    },
+    {
+        "strName" : "DataSNDGhostStory03",
+        "strNameFriendly" : "WHY_DOESNT_IT_ROT?.SND",
+        "strDesc" : "Быстро говорящий космонавт излагает корпоративную безответственность и детализированные теории о различных заговорах суперкорпораций, заканчивая длинным разглагольствованием о мясе, которое не гниет и шепчет безумно, двигаясь, когда вы не смотрите на него.",
+        "strCOBase"    : "DataFile",
+        "strCondLoot"    : "CNDOLDatafileSND"
+    },
+    {
+        "strName" : "DataSNDNeverland",
+        "strNameFriendly" : "CREEPYKIDS.SND",
+        "strDesc" : "Персонаж радиопередачи громко высказывается о том, как неправильно, что вся колония Неверленд на карликовой планете Макемаке населена детьми. Обсуждаются жуткость и сомнительная человечность Неверлендеров без нюансов, эмпатии или извинений.",
+        "strCOBase"    : "DataFile",
+        "strCondLoot"    : "CNDOLDatafileSND"
+    },
+    {
+        "strName" : "DataSNDLovedOneVoice",
+        "strNameFriendly" : "LASTGOODBYE.SND",
+        "strDesc" : "Шершавое, низкокачественное голосовое сообщение, сохраненное с устройства старого формата, от любимого человека, желающего теплого прощания на случай, если они не вернутся.",
+        "strCOBase"    : "DataFile",
+        "strCondLoot"    : "CNDOLDatafileSND"
+    },
+    {
+        "strName" : "DataSNDSavedApology",
+        "strNameFriendly" : "APOLOGY.SND",
+        "strDesc" : "Краткое записанное сообщение с извинениями от человека, который не может сдержать эмоции, надеясь на восстановление отношений.",
+        "strCOBase"    : "DataFile",
+        "strCondLoot"    : "CNDOLDatafileSND"
+    },
+    {
+        "strName" : "DataSNDVoiceMemo",
+        "strNameFriendly" : "REMINDER.SND",
+        "strDesc" : "Голосовая записка различных обыденных задач космонавта, требующих полурегулярных уведомлений и частого обращения.",
+        "strCOBase"    : "DataFile",
+        "strCondLoot"    : "CNDOLDatafileSND"
+    },
+    {
+        "strName" : "DataSNDRoar",
+        "strNameFriendly" : "WHAT_IS_THIS.SND",
+        "strDesc" : "Монструозный рык и клацание когтистых шагов, эхом раздающееся по узким коридорам корабля или станции. Человеческий шепот задается вопросом, ушло ли это, прямо перед тем, как запись обрывается на крике.",
+        "strCOBase"    : "DataFile",
+        "strCondLoot"    : "CNDOLDatafileSND1k-5k"
+    },
+    {
+        "strName" : "DataSNDBarbershop",
+        "strNameFriendly" : "THEGANGALLTOGETHER.SND",
+        "strDesc" : "Серия старомодных песен барбер-шопа, хорошо исполненных, но плохо записанных.",
+        "strCOBase"    : "DataFile",
+        "strCondLoot"    : "CNDOLDatafileSND"
+    },
+    {
+        "strName" : "DataSNDPoetry",
+        "strNameFriendly" : "THE_BARD.SND",
+        "strDesc" : "Драматические чтения поэтических произведений Шекспира и других классиков.",
+        "strCOBase"    : "DataFile",
+        "strCondLoot"    : "CNDOLDatafileSND"
+    },
+    {
+        "strName" : "DataSNDNigerianFolkLore",
+        "strNameFriendly" : "UNCLE.SND",
+        "strDesc" : "Старик рассказывает все истории и фольклор, которые он помнит из Старой Нигерии.",
+        "strCOBase"    : "DataFile",
+        "strCondLoot"    : "CNDOLDatafileSND"
+    },
+    {
+        "strName" : "DataSNDAudioWill",
+        "strNameFriendly" : "TESTAMENT.SND",
+        "strDesc" : "Последняя воля и завещание, кажется, обеспеченного гражданина. Неясно, будет ли этот формат иметь юридическую силу в суде.",
+        "strCOBase"    : "DataFile",
+        "strCondLoot"    : "CNDOLDatafileSND5k-15k"
+    },
+    {
+        "strName" : "DataSNDCorporateSecret",
+        "strNameFriendly" : "CONFIDENTIAL_BOARDMEETING.SND",
+        "strDesc" : "Вероятно, незаконно записанное корпоративное собрание совета, на котором обсуждаются и принимаются решения о изменениях, способных изменить экономику.",
+        "strCOBase"    : "DataFile",
+        "strCondLoot"    : "CNDOLDatafileSND5k-15k"
+    },
+    {
+        "strName" : "DataSNDConfession",
+        "strNameFriendly" : "PLEA_DEAL.SND",
+        "strDesc" : "Признание в страшных преступлениях под интенсивным допросом частными охранными подрядчиками. Это, вероятно, не предназначено для публичного доступа.",
+        "strCOBase"    : "DataFile",
+        "strCondLoot"    : "CNDOLDatafileSND1k-5k"
+    },
+    {
+        "strName" : "DataSNDConfession02",
+        "strNameFriendly" : "INTERNALAFFAIRS.SND",
+        "strDesc" : "Сожалеющее признание в ужасных преступлениях, на которое отвечают заверениями, что все это исчезнет.",
+        "strCOBase"    : "DataFile",
+        "strCondLoot"    : "CNDOLDatafileSND5k-15k"
+    },
+    {
+        "strName" : "DataSNDManifesto",
+        "strNameFriendly" : "MANIFESTO.SND",
+        "strCOBase"    : "DataFile",
+        "strCondLoot"    : "CNDOLDatafileSND"
+    },
+    {
+        "strName" : "DataSNDMundane01",
+        "strNameFriendly" : "FOR_STRESS_RELIEF.SND",
+        "strDesc" : "Сборник аудиотреков для медитации и снятия стресса с chanting и электронными ритмами, подsteady, направляющим голосом. Платitudes приятны, хотя и наивны.",
+        "strCOBase"    : "DataFile",
+        "strCondLoot"    : "CNDOLDatafileBIN"
+    },
+    {
+        "strName" : "DataBINOstranauts",
+        "strNameFriendly" : "SPACE_PROTOTYPE.BIN",
+        "strDesc" : "Незаконно полученный рип небольшого хита игры-симулятора космоса начала 20-х, взятый с резервной копии русского сайта. Известна своими дикими багами и отсутствием 'контента'. Игроки все еще оценивают ее положительно, хотя и немного эзотерично, до 70-х.",
+        "strCOBase"    : "DataFile",
+        "strCondLoot"    : "CNDOLDatafileBIN100-1k"
+    },
+    {
+        "strName" : "DataBINRobotOS01",
+        "strNameFriendly" : "DRONE_OS.BIN",
+        "strDesc" : "Операционная система дрона и журнал поведения с некоторыми аномалиями в ИИ.",
+        "strCOBase"    : "DataFile",
+        "strCondLoot"    : "CNDOLDatafileBINOS0-15k"
+    },
+    {
+        "strName" : "DataBINRobotOS02",
+        "strNameFriendly" : "DRONE_OS.BIN",
+        "strDesc" : "Операционная система дрона и журнал поведения.",
+        "strCOBase"    : "DataFile",
+        "strCondLoot"    : "CNDOLDatafileBINOS0-5k"
+    },
+    {
+        "strName" : "DataBINMundane01",
+        "strNameFriendly" : "CREW_HEALTH_RECORDS.BIN",
+        "strDesc" : "Сборник панелей визуализации данных мониторинга здоровья для нескольких членов экипажа.\n\nВ целом, создается впечатление, что этот экипаж, признаваясь, пытался предотвратить наихудшие последствия жизни космонавта, хотя в конечном итоге потерпел неудачу.\n\nПлохой сон, пренебрежение физическими упражнениями и избыток алкоголя и курения кажутся слишком знакомыми.",
+        "strCOBase"    : "DataFile",
+        "strCondLoot"    : "CNDOLDatafileBIN"
+    },
+
+    {
+        "strName" : "DataBIN79",
+        "strNameFriendly" : "79.BIN",
+        "strCOBase"    : "DataFile",
+        "strCondLoot"    : "CNDOLDatafileBINMerga"
+    },
+    {
+        "strName" : "DataBINMergaSuspiciousGaps",
+        "strNameFriendly" : "              .BIN",
+        "strCOBase"    : "DataFile",
+        "strCondLoot"    : "CNDOLDatafileBINMerga"
+    },
+    {
+        "strName" : "DataBINMergaParanoidGaps",
+        "strNameFriendly" : "DEADMAN_SWITCH.TXT",
+        "strCOBase"    : "DataFile",
+        "strCondLoot"    : "CNDOLDatafileTXTMerga"
+    },
+    {
+        "strName" : "DataIMGMergaLongFingerDeathMark",
+        "strNameFriendly" : "HAND_OF_DEATH.IMG",
+        "strCOBase"    : "DataFile",
+        "strCondLoot"    : "CNDOLDatafileIMGMerga"
+    },
+    {
+        "strName" : "DataTXTMergaLongFingerSerialKiller",
+        "strNameFriendly" : "BEWARE_THE_HAND.TXT",
+        "strCOBase"    : "DataFile",
+        "strCondLoot"    : "CNDOLDatafileTXTMerga"
+    },
+    {
+        "strName" : "DataIMGMergaSingerObituary",
+        "strNameFriendly" : "DEATH_OF_A_LEGEND.TXT",
+        "strCOBase"    : "DataFile",
+        "strCondLoot"    : "CNDOLDatafileTXTMerga"
+    }
+]  

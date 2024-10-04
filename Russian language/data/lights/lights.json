@@ -1,0 +1,971 @@
+[
+  {
+    "strName" : "ActiveStab",
+    "strColor": "AlarmGreen",
+    "strImg": "ItmLitGreen",
+    "ptPos": {
+      "x": -12,
+      "y": -3
+    }
+  },
+  {
+    "strName" : "AICargo",
+    "strColor": "AlarmBlue",
+    "strImg": "ItmLitAICargo01",
+    "ptPos": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  {
+    "strName" : "AirPumpRGG",
+    "strColor": "Blank",
+    "strImg": "ItmLitGreen",
+    "ptPos": {
+      "x": 3,
+      "y": -15
+    }
+  },
+  {
+    "strName" : "Alarm2B",
+    "strColor": "AlarmBlue",
+    "strImg": "ItmLitBlue",
+    "ptPos": {
+      "x": -3,
+      "y": 2
+    }
+  },
+  {
+    "strName" : "Alarm2G",
+    "strColor": "AlarmGreen",
+    "strImg": "ItmLitGreen",
+    "ptPos": {
+      "x": -3,
+      "y": 2
+    }
+  },
+  {
+    "strName" : "NavNotification",
+    "strColor": "AlarmBlue",
+    "strImg": "ItmLitBlue",
+    "ptPos": {
+      "x": -10,
+      "y": 18
+    },
+    "bIsNotification" : true
+  },
+  {
+    "strName" : "Alarm2R",
+    "strColor": "AlarmRed",
+    "strImg": "ItmLitRed",
+    "ptPos": {
+      "x": 3,
+      "y": 2
+    }
+  },
+  {
+    "strName" : "Alarm2Y",
+    "strColor": "YellowMap",
+    "strImg": "ItmLitYellow",
+    "ptPos": {
+      "x": 3,
+      "y": 2
+    }
+  },
+  {
+    "strName" : "Alarm2W1",
+    "strColor": "AlarmWhite",
+    "strImg": "ItmLitWhite",
+    "ptPos": {
+      "x": -3,
+      "y": 2
+    }
+  },
+  {
+    "strName" : "Alarm2W2",
+    "strColor": "AlarmWhite",
+    "strImg": "ItmLitWhite",
+    "ptPos": {
+      "x": 3,
+      "y": 2
+    }
+  },
+  {
+    "strName" : "Antenna01G",
+    "strColor": "AlarmGreen",
+    "strImg": "ItmLitGreen",
+    "ptPos": {
+      "x": -2,
+      "y": 31
+    }
+  },
+  {
+    "strName" : "Antenna02G",
+    "strColor": "AlarmGreen",
+    "strImg": "ItmLitGreen",
+    "ptPos": {
+      "x": -4,
+      "y": 27
+    }
+  },
+  {
+    "strName" : "ArcadeGame01",
+    "strColor": "ArcadeBlueGreen",
+    "strImg": "ItmLitArcadeGame01",
+    "ptPos": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  {
+    "strName" : "AtmoScrubberG",
+    "strColor": "AlarmGreen",
+    "strImg": "ItmLitGreen",
+    "ptPos": {
+      "x": -10,
+      "y": 10
+    }
+  },
+  {
+    "strName" : "AtmoScrubberR",
+    "strColor": "AlarmRed",
+    "strImg": "ItmLitRed",
+    "ptPos": {
+      "x": -10,
+      "y": 10
+    }
+  },
+  {
+    "strName" : "AtmoScrubber02G",
+    "strColor": "AlarmGreen",
+    "strImg": "ItmLitGreen",
+    "ptPos": {
+      "x": 12,
+      "y": 1
+    }
+  },
+  {
+    "strName" : "AtmoScrubber02R",
+    "strColor": "AlarmRed",
+    "strImg": "ItmLitRed",
+    "ptPos": {
+      "x": 12,
+      "y": 1
+    }
+  },
+  {
+    "strName" : "BattBlue",
+    "strColor": "AlarmBlue",
+    "strImg": "ItmLitBlue",
+    "ptPos": {
+      "x": 10,
+      "y": 11
+    }
+  },
+  {
+    "strName" : "BattGreen",
+    "strColor": "AlarmGreen",
+    "strImg": "ItmLitGreen",
+    "ptPos": {
+      "x": 10,
+      "y": 11
+    }
+  },
+  {
+    "strName" : "BattRed",
+    "strColor": "AlarmRed",
+    "strImg": "ItmLitRed",
+    "ptPos": {
+      "x": 10,
+      "y": 11
+    }
+  },
+  {
+    "strName": "BattBlue2",
+    "strColor": "AlarmBlue",
+    "strImg": "ItmLitBlue",
+    "ptPos": {
+      "x": 4,
+      "y": 9
+    }
+  },
+  {
+    "strName": "BattGreen2",
+    "strColor": "AlarmGreen",
+    "strImg": "ItmLitGreen",
+    "ptPos": {
+      "x": 4,
+      "y": 9
+    }
+  },
+  {
+    "strName": "BattRed2",
+    "strColor": "AlarmRed",
+    "strImg": "ItmLitRed",
+    "ptPos": {
+      "x": 4,
+      "y": 9
+    }
+  },
+  {
+    "strName": "BattBlue3",
+    "strColor": "AlarmBlue",
+    "strImg": "ItmLitBlue",
+    "ptPos": {
+      "x": 4,
+      "y": 4
+    }
+  },
+  {
+    "strName": "BattBlue4",
+    "strColor": "AlarmBlue",
+    "strImg": "ItmLitBlue",
+    "ptPos": {
+      "x": 4,
+      "y": 12
+    }
+  },
+  {
+    "strName" : "Bed01",
+    "strColor": "WhiteCool",
+    "strImg": "ItmLitBed01",
+    "ptPos": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  {
+    "strName" : "BedMedical01",
+    "strColor": "AlarmWhite",
+    "strImg": "ItmLitBedMedical01",
+    "ptPos": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  {
+    "strName": "Blank",
+    "strColor": "AlarmGreen",
+    "strImg": "ItmLitGreen",
+    "ptPos": {
+      "x": 8,
+      "y": 13
+    }
+  },
+  {
+    "strName" : "ChairStrap01",
+    "strColor": "AlarmWhite",
+    "strImg": "ItmLitChairStrap01",
+    "ptPos": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  {
+    "strName" : "ChargerDrill01Blue",
+    "strColor": "AlarmBlue",
+    "strImg": "ItmLitBlue",
+    "ptPos": {
+      "x": -2,
+      "y": 0
+    }
+  },
+  {
+    "strName" : "ChargerEVABlue",
+    "strColor": "AlarmBlue",
+    "strImg": "ItmLitBlue",
+    "ptPos": {
+      "x": 2,
+      "y": -4
+    }
+  },
+  {
+    "strName" : "Charger04Blue",
+    "strColor": "AlarmPurple",
+    "strImg": "ItmLitTri",
+    "ptPos": {
+      "x": -3,
+      "y": 7
+    }
+  },
+  {
+    "strName" : "ChargerWelder01Blue",
+    "strColor": "AlarmBlue",
+    "strImg": "ItmLitBlue",
+    "ptPos": {
+      "x": 5,
+      "y": 4
+    }
+  },
+  {
+    "strName" : "CoolerG",
+    "strColor": "Blank",
+    "strImg": "ItmLitGreen",
+    "ptPos": {
+      "x": 10,
+      "y": -15
+    }
+  },
+  {
+    "strName" : "Door01ClosedOn",
+    "strColor": "AlarmGreen",
+    "strImg": "ItmLitGreenCircle",
+    "ptPos": {
+      "x": 10,
+      "y": 0
+    }
+  },
+  {
+    "strName" : "Door01ClosedOnLocked",
+    "strColor": "AlarmRed",
+    "strImg": "ItmLitRedSlash",
+    "ptPos": {
+      "x": 10,
+      "y": 0
+    }
+  },
+  {
+    "strName" : "Door01OpenOn",
+    "strColor": "AlarmGreen",
+    "strImg": "ItmLitGreenCircle",
+    "ptPos": {
+      "x": 24,
+      "y": 0
+    }
+  },
+  {
+    "strName" : "Door01OpenOnLocked",
+    "strColor": "AlarmRed",
+    "strImg": "ItmLitRedSlash",
+    "ptPos": {
+      "x": 24,
+      "y": 0
+    }
+  },
+  {
+    "strName" : "ElectricalBox",
+    "strColor": "ElectricalWhite",
+    "strImg": "ItmElectricalBox01Light",
+    "ptPos": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  {
+    "ptPos": {
+      "x": -1,
+      "y": 0
+    },
+    "strColor": "BlueXenon",
+    "strName" : "FloorBlue",
+    "strImg": "ItmLitFloorBlueNoGlow01"
+  },
+  {
+    "ptPos": {
+      "x": 0,
+      "y": 0
+    },
+    "strColor": "BlueXenon",
+    "strName" : "FloorBlueGlow",
+    "strImg": "ItmLitFloorBlue01"
+  },
+  {
+    "ptPos": {
+      "x": 0,
+      "y": 0
+    },
+    "strColor": "OrangeHalogen",
+    "strName" : "FloorOrangeGlow",
+    "strImg": "ItmLitFloorOrange01"
+  },
+  {
+    "ptPos": {
+      "x": 0,
+      "y": 0
+    },
+    "strColor": "OrangeHalogen",
+    "strName" : "FloorOrange",
+    "strImg": "ItmLitFloorOrangeNoGlow01"
+  },
+  {
+    "ptPos": {
+      "x": 0,
+      "y": 0
+    },
+    "strColor": "RedNeon",
+    "strName" : "FloorRedGlow",
+    "strImg": "ItmLitFloorRed01"
+  },
+  {
+    "ptPos": {
+      "x": 0,
+      "y": 0
+    },
+    "strColor": "SignalRed",
+    "strName" : "FloorRed",
+    "strImg": "ItmLitWallRed"
+  },
+  {
+    "strName" : "FusionCore",
+    "strColor": "AlarmBlue",
+    "strImg": "ItmLitBlue",
+    "ptPos": {
+      "x": 32,
+      "y": -30
+    }
+  },
+  {
+    "strName" : "FusionCorePump01",
+    "strColor": "AlarmBlue",
+    "strImg": "ItmLitBlue",
+    "ptPos": {
+      "x": 0,
+      "y": -20
+    }
+  },
+  {
+    "strName" : "FusionCryoPump01",
+    "strColor": "AlarmBlue",
+    "strImg": "ItmLitBlue",
+    "ptPos": {
+      "x": 8,
+      "y": -20
+    }
+  },
+  {
+    "strName" : "FusionFuelRegulator01",
+    "strColor": "AlarmBlue",
+    "strImg": "ItmLitBlue",
+    "ptPos": {
+      "x": 0,
+      "y": -36
+    }
+  },
+  {
+    "strName" : "FusionLaserArray01",
+    "strColor": "AlarmGreen",
+    "strImg": "ItmLitGreen",
+    "ptPos": {
+      "x": 0,
+      "y": -7
+    }
+  },
+  {
+    "strName" : "FusionMHD",
+    "strColor": "AlarmBlue",
+    "strImg": "ItmLitBlue",
+    "ptPos": {
+      "x": -16,
+      "y": -20
+    }
+  },
+  {
+    "strName" : "FusionPelletFeeder01",
+    "strColor": "AlarmBlue",
+    "strImg": "ItmLitBlue",
+    "ptPos": {
+      "x": 0,
+      "y": -20
+    }
+  },
+  {
+    "strName" : "HandLLamp",
+    "strColor": "HeadLamp",
+    "strImg": "ItmLitWhite",
+    "ptPos": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  {
+    "strName" : "HandRLamp",
+    "strColor": "HeadLamp",
+    "strImg": "ItmLitWhite",
+    "ptPos": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  {
+    "strName" : "HeadLamp",
+    "strColor": "HeadLamp",
+    "strImg": "ItmLitWhite",
+    "ptPos": {
+      "x": 6,
+      "y": 0
+    }
+  },
+  {
+    "strName" : "HeaterG",
+    "strColor": "AlarmGreen",
+    "strImg": "ItmLitGreen",
+    "ptPos": {
+      "x": 8,
+      "y": 13
+    }
+  },
+  {
+    "strName" : "HeavyLiftRotor01",
+    "strColor": "AlarmGreen",
+    "strImg": "ItmLitGreen",
+    "ptPos": {
+      "x": -18,
+      "y": -15
+    }
+  },
+  {
+    "ptPos": {
+      "x": 0,
+      "y": 0
+    },
+    "strColor": "BlueNeon",
+    "strName" : "Jukebox01",
+    "strImg": "ItmLitJukebox01"
+  },
+  {
+    "ptPos": {
+      "x": 0,
+      "y": 0
+    },
+    "strColor": "BlueTV",
+    "strName" : "Kiosk01",
+    "strImg": "ItmLitKiosk01"
+  },
+  {
+    "strName" : "KioskCargo01",
+    "strColor": "ArcadeBlueGreen",
+    "strImg": "ItmLitKioskCargo01",
+    "ptPos": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  {
+    "strName" : "KioskEmbassy01",
+    "strColor": "ArcadeBlueGreen",
+    "strImg": "ItmLitKioskEmbassy01",
+    "ptPos": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  {
+    "strName" : "KioskFerry01",
+    "strColor": "BlueTV",
+    "strImg": "ItmLitKioskFerry01",
+    "ptPos": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  {
+    "strName" : "JobKioskOKLGFoodCart01",
+    "strColor": "NeonYellowGreen",
+    "strImg": "ItmLitKioskOKLGFoodCart01",
+    "ptPos": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  {
+    "strName" : "JobKioskOKLGFoodCart02",
+    "strColor": "NeonOrange",
+    "strImg": "ItmLitKioskOKLGFoodCart02",
+    "ptPos": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  {
+    "ptPos": {
+      "x": -16,
+      "y": -7
+    },
+    "strColor": "AlarmWhite",
+    "strName" : "JobKiosk03",
+    "strImg": "ItmLitKioskJobs03"
+  },
+  {
+    "strName" : "KioskResBroker01",
+    "strColor": "ElectricalCyan",
+    "strImg": "ItmLitKioskResBroker02",
+    "ptPos": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  {
+    "strName" : "KioskShipBroker01",
+    "strColor": "ElectricalWhite",
+    "strImg": "ItmLitKioskShipBroker01",
+    "ptPos": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  {
+    "ptPos": {
+      "x": 0,
+      "y": 0
+    },
+    "strColor": "BlueNeon",
+    "strName" : "KioskSupplies02",
+    "strImg": "ItmLitKiosk02"
+  },
+  {
+    "ptPos": {
+      "x": 0,
+      "y": 0
+    },
+    "strColor": "BlueNeon",
+    "strName" : "KioskScrap01VORB",
+    "strImg": "ItmLitKioskScrap01VORB"
+  },
+  {
+    "strName" : "OxygenCandle",
+    "strColor": "AlarmRed",
+    "strImg": "ItmLitRed",
+    "ptPos": {
+      "x": -2,
+      "y": 5
+    }
+  },
+  {
+    "strName" : "DroneDecoy",
+    "strColor": "AlarmRed",
+    "strImg": "ItmLitRed",
+    "ptPos": {
+      "x": -2,
+      "y": 5
+    }
+  },
+  {
+    "ptPos": {
+      "x": 0,
+      "y": 0
+    },
+    "strColor": "YellowMap",
+    "strName" : "KioskSupplies03",
+    "strImg": "ItmLitKioskSupplies03"
+  },
+  {
+    "ptPos": {
+      "x": 0,
+      "y": 0
+    },
+    "strColor": "YellowMap",
+    "strName" : "KioskTransit01",
+    "strImg": "ItmLitKioskTransit01"
+  },
+  {
+    "ptPos": {
+      "x": 0,
+      "y": 0
+    },
+    "strColor": "YellowMap",
+    "strName" : "KioskTransit02",
+    "strImg": "ItmLitKioskTransit02a"
+  },
+  {
+    "ptPos": {
+      "x": 0,
+      "y": 0
+    },
+    "strColor": "Blank",
+    "strName" : "StationNav01",
+    "strImg": "ItmLitStationNav01"
+  },
+  {
+    "strName" : "WristPDA",
+    "strImg": "ItmLitWristPDA01",
+    "strColor": "WristPDAYellow",
+    "ptPos": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  {
+    "strName" : "WristPDALocked",
+    "strImg": "ItmLitWristPDA01Locked",
+    "strColor": "WristPDABlue",
+    "ptPos": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  {
+    "ptPos": {
+      "x": 0,
+      "y": 0
+    },
+    "strColor": "Blank",
+    "strName" : "Planter01Image",
+    "strImg": "ItmLitPlanter01"
+  },
+  {
+    "ptPos": {
+      "x": 0,
+      "y": -13
+    },
+    "strColor": "UVLamp",
+    "strName" : "Planter01LitBtm"
+  },
+  {
+    "ptPos": {
+      "x": 0,
+      "y": 13
+    },
+    "strColor": "UVLamp",
+    "strName" : "Planter01LitTop"
+  },
+  {
+    "strName" : "RacingKiosk",
+    "strColor": "BlueTV",
+    "strImg": "ItmLitKioskRacing01",
+    "ptPos": {
+      "x": 0,
+      "y": -9
+    }
+  },
+  {
+    "strName" : "RCSCluster",
+    "strColor": "AlarmGreen",
+    "strImg": "ItmLitGreen",
+    "ptPos": {
+      "x": 0,
+      "y": -7
+    }
+  },
+  {
+    "strName" : "RCSDistro",
+    "strColor": "AlarmGreen",
+    "strImg": "ItmLitGreen",
+    "ptPos": {
+      "x": 8,
+      "y": -4
+    }
+  },
+  {
+    "strName" : "RCSDistro02",
+    "strColor": "AlarmGreen",
+    "strImg": "ItmLitGreen",
+    "ptPos": {
+      "x": 11,
+      "y": -10
+    }
+  },
+  {
+    "ptPos": {
+      "x": 0,
+      "y": 0
+    },
+    "strColor": "RedNeon",
+    "strName" : "SignNeon01",
+    "strImg": "ItmLitSignNeon01"
+  },
+  {
+    "strName" : "SparkBlue",
+    "strColor": "SparkBlue",
+    "strImg": "ItmLitSparkBlue02",
+    "ptPos": {
+      "x": 0,
+      "y": 16
+    }
+  },
+  {
+    "strName" : "ItmTerminal01",
+    "strImg": "ItmTerminal01",
+    "strColor": "SparkBlue",
+    "fRadius" : 0.2,
+    "ptPos": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  {
+    "strName" : "TowingBraceGreen",
+    "strImg": "ItmTowingBrace01LitG2",
+    "strColor": "SignalGreen",
+    "ptPos": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  {
+    "strName" : "TowingBraceBlue",
+    "strImg": "ItmTowingBrace01LitOff",
+    "strColor": "WhiteCool",
+    "ptPos": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  {
+    "strName" : "TowingBraceRed",
+    "strImg": "ItmTowingBrace01LitR2",
+    "strColor": "SignalRed",
+    "ptPos": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  {
+    "strName" : "TransponderPower",
+    "strColor": "AlarmGreen",
+    "strImg": "ItmLitGreen",
+    "ptPos": {
+      "x": -4,
+      "y": 13
+    }
+  },
+  {
+    "strName" : "TransponderScreen",
+    "strColor": "TransponderScreenBlue",
+    "strImg": "ItmLitTransponder01",
+    "ptPos": {
+      "x": 0,
+      "y": -13
+    }
+  },
+  {
+    "ptPos": {
+      "x": 0,
+      "y": 0
+    },
+    "fRadius" : 12,
+    "strColor": "BlueTV",
+    "strName" : "TV01",
+    "strImg": "ItmLitTV01"
+  },
+  {
+    "strName" : "Wall1x0WhiteCool",
+    "strImg": "lights/ItmLitWallBlue",
+    "strColor": "WhiteCool",
+    "fRadius" : 6,
+    "ptPos": {
+      "x": 0,
+      "y": 6
+    }
+  },
+  {
+    "strName" : "Wall1x0WhiteWarm",
+    "strImg": "lights/ItmLitWallPastelOrange3",
+    "strColor": "WhiteWarm",
+    "fRadius" : 6,
+    "ptPos": {
+      "x": 0,
+      "y": 6
+    }
+  },
+  {
+    "strName" : "Wall1x0VibrantGreen",
+    "strImg": "lights/ItmLitWallGreen",
+    "strColor": "SignalGreen",
+    "fRadius" : 6,
+    "ptPos": {
+      "x": 0,
+      "y": 6
+    }
+  },
+  {
+    "strName" : "Wall1x0VibrantPurple",
+    "strImg": "lights/ItmLitWallPurple",
+    "strColor": "MarinerPurple",
+    "fRadius" : 6,
+    "ptPos": {
+      "x": 0,
+      "y": 6
+    }
+  },
+  {
+    "strName" : "Wall1x0VibrantRed",
+    "strImg": "lights/ItmLitWallRed",
+    "strColor": "SignalRed",
+    "fRadius" : 6,
+    "ptPos": {
+      "x": 0,
+      "y": 6
+    }
+  },
+  {
+    "strName" : "WorkLamp01",
+    "strColor": "HeadLamp",
+    "strImg": "ItmLitWorkLamp01",
+    "ptPos": {
+      "x": 1,
+      "y": -1
+    }
+  },
+  {
+    "strName" : "VFXExplosionFusion",
+    "strColor": "SparkBlue",
+    "strImg": "ItmLitSparkBlue02",
+    "ptPos": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  {
+    "strName" : "VFXSparkBlue",
+    "strColor": "SparkBlue",
+    "strImg": "ItmLitSparkBlue02",
+    "ptPos": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  {
+    "strName" : "SunDeepSpaceYellow",
+    "strColor": "SunDeepSpaceYellow",
+    "fRadius" : 1000,
+    "ptPos": {
+      "x": -250,
+      "y": 250
+    }
+  },
+  {
+    "strName" : "SunVenusBlue01",
+    "strColor": "SunVenusBlue",
+    "fRadius" : 1000,
+    "ptPos": {
+      "x": -250,
+      "y": -250
+    }
+  },
+  {
+    "strName" : "SunVenusBlue02",
+    "strColor": "SunVenusBlue",
+    "fRadius" : 1000,
+    "ptPos": {
+      "x": 250,
+      "y": -250
+    }
+  },
+  {
+    "strName" : "SunVenusBlue03",
+    "strColor": "SunVenusBlue",
+    "fRadius" : 1000,
+    "ptPos": {
+      "x": 250,
+      "y": 250
+    }
+  },
+  {
+    "strName" : "SunVenusYellow",
+    "strColor": "SunVenusYellow",
+    "fRadius" : 1000,
+    "ptPos": {
+      "x": -250,
+      "y": 250
+    }
+  },
+  {
+    "ptPos": {
+      "x": 0,
+      "y": 0
+    },
+    "strColor": "Sun",
+    "strName" : "Sun",
+    "strImg": "ItmSun"
+  }
+]

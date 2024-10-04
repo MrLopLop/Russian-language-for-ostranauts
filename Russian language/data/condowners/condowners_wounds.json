@@ -1,0 +1,640 @@
+[
+  {
+    "strName" : "WoundArmFractureL",
+    "strNameFriendly" : "Левая рука",
+    "strItemDef" : "ItmBodyPart01",
+    "strDesc" : "Рана на человеческой левой руке.",
+    "strType"    : "Item",
+    "strLoot"    : null,
+    "bSlotLocked" : true,
+    "aInteractions" : [
+    ],
+    "aStartingConds" : [
+      "IsSystem=1.0x1",
+      "IsWound=1.0x1"
+    ],
+    "aUpdateCommands" : [
+      "Wound,WoundArmFractureL"
+    ],
+    "aStartingCondRules"  : [
+      "DcWoundBluntArmFracture=1",
+      "DcWoundPainArmFracture=1"
+    ],
+    "aSlotsWeHave" : [
+      "WoundItemArmFractureL"
+    ],
+    "strPortraitImg"  : "ItmBodyPart01",
+    "mapSlotEffects" : [
+      "WoundArmFractureL","WoundArmFractureL"
+    ]
+  },
+  {
+    "strName" : "WoundArmFractureR",
+    "strNameFriendly" : "Правая рука",
+    "strItemDef" : "ItmBodyPart01",
+    "strDesc" : "Рана на человеческой правой руке.",
+    "strType"    : "Item",
+    "strLoot"    : null,
+    "bSlotLocked" : true,
+    "aInteractions" : [
+    ],
+    "aStartingConds" : [
+      "IsSystem=1.0x1",
+      "IsWound=1.0x1"
+    ],
+    "aUpdateCommands" : [
+      "Wound,WoundArmFractureR"
+    ],
+    "aStartingCondRules"  : [
+      "DcWoundBluntArmFracture=1",
+      "DcWoundPainArmFracture=1"
+    ],
+    "aSlotsWeHave" : [
+      "WoundItemArmFractureR"
+    ],
+    "strPortraitImg"  : "ItmBodyPart01",
+    "mapSlotEffects" : [
+      "WoundArmFractureR","WoundArmFractureR"
+    ]
+  },
+  {
+    "strName" : "WoundArmLowerL",
+    "strNameFriendly" : "Нижняя левая рука",
+    "strItemDef" : "ItmBodyPart01",
+    "strDesc" : "Рана на человеческой нижней левой руке.",
+    "strType"    : "Item",
+    "strLoot"    : null,
+    "bSlotLocked" : true,
+    "aInteractions" : [
+    ],
+    "aStartingConds" : [
+      "IsSystem=1.0x1",
+      "IsWound=1.0x1",
+      "StatWoundFractureMin=1.0x1"
+    ],
+    "aUpdateCommands" : [
+      "Wound,WoundArmLowerL"
+    ],
+    "aStartingCondRules"  : [
+      "DcWoundBloodArmLower=1",
+      "DcWoundBluntArmLower=1",
+      "DcWoundCutArmLower=1",
+      "DcWoundInfectArmLower=1",
+      "DcWoundPainArmLower=1"
+    ],
+    "aSlotsWeHave" : [
+      "WoundItemArmLowerL"
+    ],
+    "strPortraitImg"  : "ItmBodyPart01",
+    "mapSlotEffects" : [
+      "WoundArmLowerL","WoundArmLowerL"
+    ]
+  },
+  {
+    "strName" : "WoundArmLowerR",
+    "strNameFriendly" : "Нижняя правая рука",
+    "strItemDef" : "ItmBodyPart01",
+    "strDesc" : "Рана на человеческой нижней правой руке.",
+    "strType"    : "Item",
+    "strLoot"    : null,
+    "bSlotLocked" : true,
+    "aInteractions" : [
+    ],
+    "aStartingConds" : [
+      "IsSystem=1.0x1",
+      "IsWound=1.0x1",
+      "StatWoundFractureMin=1.0x1"
+    ],
+    "aUpdateCommands" : [
+      "Wound,WoundArmLowerR"
+    ],
+    "aStartingCondRules"  : [
+      "DcWoundBloodArmLower=1",
+      "DcWoundBluntArmLower=1",
+      "DcWoundCutArmLower=1",
+      "DcWoundInfectArmLower=1",
+      "DcWoundPainArmLower=1"
+    ],
+    "aSlotsWeHave" : [
+      "WoundItemArmLowerR"
+    ],
+    "strPortraitImg"  : "ItmBodyPart01",
+    "mapSlotEffects" : [
+      "WoundArmLowerR","WoundArmLowerR"
+    ]
+  },
+  {
+    "strName" : "WoundArmUpperL",
+    "strNameFriendly" : "Верхняя левая рука",
+    "strItemDef" : "ItmBodyPart01",
+    "strDesc" : "Рана на человеческой верхней левой руке.",
+    "strType"    : "Item",
+    "strLoot"    : null,
+    "bSlotLocked" : true,
+    "aInteractions" : [
+    ],
+    "aStartingConds" : [
+      "IsSystem=1.0x1",
+      "IsWound=1.0x1",
+      "StatWoundFractureMin=1.0x1"
+    ],
+    "aUpdateCommands" : [
+      "Wound,WoundArmUpperL"
+    ],
+    "aStartingCondRules"  : [
+      "DcWoundBloodArmUpper=1",
+      "DcWoundBluntArmUpper=1",
+      "DcWoundCutArmUpper=1",
+      "DcWoundInfectArmUpper=1",
+      "DcWoundPainArmUpper=1"
+    ],
+    "aSlotsWeHave" : [
+      "WoundItemArmUpperL"
+    ],
+    "strPortraitImg"  : "ItmBodyPart01",
+    "mapSlotEffects" : [
+      "WoundArmUpperL","WoundArmUpperL"
+    ]
+  },
+  {
+    "strName" : "WoundArmUpperR",
+    "strNameFriendly" : "Верхняя правая рука",
+    "strItemDef" : "ItmBodyPart01",
+    "strDesc" : "Рана на человеческой верхней правой руке.",
+    "strType"    : "Item",
+    "strLoot"    : null,
+    "bSlotLocked" : true,
+    "aInteractions" : [
+    ],
+    "aStartingConds" : [
+      "IsSystem=1.0x1",
+      "IsWound=1.0x1",
+      "StatWoundFractureMin=1.0x1"
+    ],
+    "aUpdateCommands" : [
+      "Wound,WoundArmUpperR"
+    ],
+    "aStartingCondRules"  : [
+      "DcWoundBloodArmUpper=1",
+      "DcWoundBluntArmUpper=1",
+      "DcWoundCutArmUpper=1",
+      "DcWoundInfectArmUpper=1",
+      "DcWoundPainArmUpper=1"
+    ],
+    "aSlotsWeHave" : [
+      "WoundItemArmUpperR"
+    ],
+    "strPortraitImg"  : "ItmBodyPart01",
+    "mapSlotEffects" : [
+      "WoundArmUpperR","WoundArmUpperR"
+    ]
+  },
+
+  {
+    "strName" : "WoundAbdomenLower",
+    "strNameFriendly" : "Нижний живот",
+    "strItemDef" : "ItmBodyPart01",
+    "strDesc" : "Рана на нижнем животе человека.",
+    "strType"    : "Item",
+    "strLoot"    : null,
+    "bSlotLocked" : true,
+    "aInteractions" : [
+    ],
+    "aStartingConds" : [
+      "IsSystem=1.0x1",
+      "IsWound=1.0x1",
+      "StatWoundFractureMin=1.0x1"
+    ],
+    "aUpdateCommands" : [
+      "Wound,WoundAbdomenLower"
+    ],
+    "aStartingCondRules"  : [
+      "DcWoundBloodAbdomenLower=1",
+      "DcWoundBluntAbdomenLower=1",
+      "DcWoundCutAbdomenLower=1",
+      "DcWoundInfectAbdomenLower=1",
+      "DcWoundPainAbdomenLower=1"
+    ],
+    "aSlotsWeHave" : [
+      "WoundItemAbdomenLower"
+    ],
+    "strPortraitImg"  : "ItmBodyPart01",
+    "mapSlotEffects" : [
+      "WoundAbdomenLower","WoundAbdomenLower"
+    ]
+  },
+
+  {
+    "strName" : "WoundAbdomenUpper",
+    "strNameFriendly" : "Верхний живот",
+    "strItemDef" : "ItmBodyPart01",
+    "strDesc" : "Рана на верхнем животе человека.",
+    "strType"    : "Item",
+    "strLoot"    : null,
+    "bSlotLocked" : true,
+    "aInteractions" : [
+    ],
+    "aStartingConds" : [
+      "IsSystem=1.0x1",
+      "IsWound=1.0x1",
+      "StatWoundFractureMin=1.0x1"
+    ],
+    "aUpdateCommands" : [
+      "Wound,WoundAbdomenUpper"
+    ],
+    "aStartingCondRules"  : [
+      "DcWoundBloodAbdomenUpper=1",
+      "DcWoundBluntAbdomenUpper=1",
+      "DcWoundCutAbdomenUpper=1",
+      "DcWoundInfectAbdomenUpper=1",
+      "DcWoundPainAbdomenUpper=1"
+    ],
+    "aSlotsWeHave" : [
+      "WoundItemAbdomenUpper"
+    ],
+    "strPortraitImg"  : "ItmBodyPart01",
+    "mapSlotEffects" : [
+      "WoundAbdomenUpper","WoundAbdomenUpper"
+    ]
+  },
+
+  {
+    "strName" : "WoundChestLower",
+    "strNameFriendly" : "Нижняя грудь",
+    "strItemDef" : "ItmBodyPart01",
+    "strDesc" : "Рана на нижней части груди человека.",
+    "strType"    : "Item",
+    "strLoot"    : null,
+    "bSlotLocked" : true,
+    "aInteractions" : [
+    ],
+    "aStartingConds" : [
+      "IsSystem=1.0x1",
+      "IsWound=1.0x1",
+      "StatWoundFractureMin=1.0x1"
+    ],
+    "aUpdateCommands" : [
+      "Wound,WoundChestLower"
+    ],
+    "aStartingCondRules"  : [
+      "DcWoundBloodChestLower=1",
+      "DcWoundBluntChestLower=1",
+      "DcWoundCutChestLower=1",
+      "DcWoundInfectChestLower=1",
+      "DcWoundPainChestLower=1"
+    ],
+    "aSlotsWeHave" : [
+      "WoundItemChestLower"
+    ],
+    "strPortraitImg"  : "ItmBodyPart01",
+    "mapSlotEffects" : [
+      "WoundChestLower","WoundChestLower"
+    ]
+  },
+
+  {
+    "strName" : "WoundChestUpper",
+    "strNameFriendly" : "Верхняя грудь",
+    "strItemDef" : "ItmBodyPart01",
+    "strDesc" : "Рана на верхней части груди человека.",
+    "strType"    : "Item",
+    "strLoot"    : null,
+    "bSlotLocked" : true,
+    "aInteractions" : [
+    ],
+    "aStartingConds" : [
+      "IsSystem=1.0x1",
+      "IsWound=1.0x1",
+      "StatWoundFractureMin=1.0x1"
+    ],
+    "aUpdateCommands" : [
+      "Wound,WoundChestUpper"
+    ],
+    "aStartingCondRules"  : [
+      "DcWoundBloodChestUpper=1",
+      "DcWoundBluntChestUpper=1",
+      "DcWoundCutChestUpper=1",
+      "DcWoundInfectChestUpper=1",
+      "DcWoundPainChestUpper=1"
+    ],
+    "aSlotsWeHave" : [
+      "WoundItemChestUpper"
+    ],
+    "strPortraitImg"  : "ItmBodyPart01",
+    "mapSlotEffects" : [
+      "WoundChestUpper","WoundChestUpper"
+    ]
+  },
+
+  {
+    "strName" : "WoundHead",
+    "strNameFriendly" : "Голова",
+    "strItemDef" : "ItmBodyPart01",
+    "strDesc" : "Рана на голове человека.",
+    "strType"    : "Item",
+    "strLoot"    : null,
+    "bSlotLocked" : true,
+    "aInteractions" : [
+    ],
+    "aStartingConds" : [
+      "IsSystem=1.0x1",
+      "IsWound=1.0x1",
+      "StatWoundFractureMin=1.0x1"
+    ],
+    "aUpdateCommands" : [
+      "Wound,WoundHead"
+    ],
+    "aStartingCondRules"  : [
+      "DcWoundBloodHead=1",
+      "DcWoundBluntHead=1",
+      "DcWoundCutHead=1",
+      "DcWoundInfectHead=1",
+      "DcWoundPainHead=1"
+    ],
+    "aSlotsWeHave" : [
+      "WoundItemHead"
+    ],
+    "strPortraitImg"  : "ItmBodyPart01",
+    "mapSlotEffects" : [
+      "WoundHead","WoundHead"
+    ]
+  },
+
+  {
+    "strName" : "WoundLegFractureL",
+    "strNameFriendly" : "Left Leg",
+    "strItemDef" : "ItmBodyPart01",
+    "strDesc" : "A wound on a human left leg.",
+    "strType"    : "Item",
+    "strLoot"    : null,
+    "bSlotLocked" : true,
+    "aInteractions" : [
+    ],
+    "aStartingConds" : [
+      "IsSystem=1.0x1",
+      "IsWound=1.0x1"
+    ],
+    "aUpdateCommands" : [
+      "Wound,WoundLegFractureL"
+    ],
+    "aStartingCondRules"  : [
+      "DcWoundBluntLegFracture=1",
+      "DcWoundPainLegFracture=1"
+    ],
+    "aSlotsWeHave" : [
+      "WoundItemLegFractureL"
+    ],
+    "strPortraitImg"  : "ItmBodyPart01",
+    "mapSlotEffects" : [
+      "WoundLegFractureL","WoundLegFractureL"
+    ]
+  },
+  {
+    "strName" : "WoundLegFractureR",
+    "strNameFriendly" : "Правая нога",
+    "strItemDef" : "ItmBodyPart01",
+    "strDesc" : "Рана на правой ноге человека.",
+    "strType"    : "Item",
+    "strLoot"    : null,
+    "bSlotLocked" : true,
+    "aInteractions" : [
+    ],
+    "aStartingConds" : [
+      "IsSystem=1.0x1",
+      "IsWound=1.0x1"
+    ],
+    "aUpdateCommands" : [
+      "Wound,WoundLegFractureR"
+    ],
+    "aStartingCondRules"  : [
+      "DcWoundBluntLegFracture=1",
+      "DcWoundPainLegFracture=1"
+    ],
+    "aSlotsWeHave" : [
+      "WoundItemLegFractureR"
+    ],
+    "strPortraitImg"  : "ItmBodyPart01",
+    "mapSlotEffects" : [
+      "WoundLegFractureR","WoundLegFractureR"
+    ]
+  },
+  {
+    "strName" : "WoundLegLowerL",
+    "strNameFriendly" : "Нижняя левая нога",
+    "strItemDef" : "ItmBodyPart01",
+    "strDesc" : "Рана на нижней левой ноге человека.",
+    "strType"    : "Item",
+    "strLoot"    : null,
+    "bSlotLocked" : true,
+    "aInteractions" : [
+    ],
+    "aStartingConds" : [
+      "IsSystem=1.0x1",
+      "IsWound=1.0x1",
+      "StatWoundFractureMin=1.0x1"
+    ],
+    "aUpdateCommands" : [
+      "Wound,WoundLegLowerL"
+    ],
+    "aStartingCondRules"  : [
+      "DcWoundBloodLegLower=1",
+      "DcWoundBluntLegLower=1",
+      "DcWoundCutLegLower=1",
+      "DcWoundInfectLegLower=1",
+      "DcWoundPainLegLower=1"
+    ],
+    "aSlotsWeHave" : [
+      "WoundItemLegLowerL"
+    ],
+    "strPortraitImg"  : "ItmBodyPart01",
+    "mapSlotEffects" : [
+      "WoundLegLowerL","WoundLegLowerL"
+    ]
+  },
+  {
+    "strName" : "WoundLegLowerR",
+    "strNameFriendly" : "Нижняя правая нога",
+    "strItemDef" : "ItmBodyPart01",
+    "strDesc" : "Рана на нижней правой ноге человека.",
+    "strType"    : "Item",
+    "strLoot"    : null,
+    "bSlotLocked" : true,
+    "aInteractions" : [
+    ],
+    "aStartingConds" : [
+      "IsSystem=1.0x1",
+      "IsWound=1.0x1",
+      "StatWoundFractureMin=1.0x1"
+    ],
+    "aUpdateCommands" : [
+      "Wound,WoundLegLowerR"
+    ],
+    "aStartingCondRules"  : [
+      "DcWoundBloodLegLower=1",
+      "DcWoundBluntLegLower=1",
+      "DcWoundCutLegLower=1",
+      "DcWoundInfectLegLower=1",
+      "DcWoundPainLegLower=1"
+    ],
+    "aSlotsWeHave" : [
+      "WoundItemLegLowerR"
+    ],
+    "strPortraitImg"  : "ItmBodyPart01",
+    "mapSlotEffects" : [
+      "WoundLegLowerR","WoundLegLowerR"
+    ]
+  },
+  {
+    "strName" : "WoundLegUpperL",
+    "strNameFriendly" : "Верхняя левая нога",
+    "strItemDef" : "ItmBodyPart01",
+    "strDesc" : "Рана на верхней левой ноге человека.",
+    "strType"    : "Item",
+    "strLoot"    : null,
+    "bSlotLocked" : true,
+    "aInteractions" : [
+    ],
+    "aStartingConds" : [
+      "IsSystem=1.0x1",
+      "IsWound=1.0x1",
+      "StatWoundFractureMin=1.0x1"
+    ],
+    "aUpdateCommands" : [
+      "Wound,WoundLegUpperL"
+    ],
+    "aStartingCondRules"  : [
+      "DcWoundBloodLegUpper=1",
+      "DcWoundBluntLegUpper=1",
+      "DcWoundCutLegUpper=1",
+      "DcWoundInfectLegUpper=1",
+      "DcWoundPainLegUpper=1"
+    ],
+    "aSlotsWeHave" : [
+      "WoundItemLegUpperL"
+    ],
+    "strPortraitImg"  : "ItmBodyPart01",
+    "mapSlotEffects" : [
+      "WoundLegUpperL","WoundLegUpperL"
+    ]
+  },
+  {
+    "strName" : "WoundLegUpperR",
+    "strNameFriendly" : "Верхняя правая нога",
+    "strItemDef" : "ItmBodyPart01",
+    "strDesc" : "Рана на верхней правой ноге человека.",
+    "strType"    : "Item",
+    "strLoot"    : null,
+    "bSlotLocked" : true,
+    "aInteractions" : [
+    ],
+    "aStartingConds" : [
+      "IsSystem=1.0x1",
+      "IsWound=1.0x1",
+      "StatWoundFractureMin=1.0x1"
+    ],
+    "aUpdateCommands" : [
+      "Wound,WoundLegUpperR"
+    ],
+    "aStartingCondRules"  : [
+      "DcWoundBloodLegUpper=1",
+      "DcWoundBluntLegUpper=1",
+      "DcWoundCutLegUpper=1",
+      "DcWoundInfectLegUpper=1",
+      "DcWoundPainLegUpper=1"
+    ],
+    "aSlotsWeHave" : [
+      "WoundItemLegUpperR"
+    ],
+    "strPortraitImg"  : "ItmBodyPart01",
+    "mapSlotEffects" : [
+      "WoundLegUpperR","WoundLegUpperR"
+    ]
+  },
+  {
+    "strName" : "WoundRobotMovementUnit",
+    "strNameFriendly" : "Модуль движения робота",
+    "strItemDef" : "ItmBodyPart01",
+    "strDesc" : "Повреждение в модуле движения робота.",
+    "strType"    : "Item",
+    "strLoot"    : null,
+    "bSlotLocked" : true,
+    "aInteractions" : [
+    ],
+    "aStartingConds" : [
+      "IsSystem=1.0x1",
+      "IsWound=1.0x1"
+    ],
+    "aUpdateCommands" : [
+      "Wound,WoundRobotMovementUnit"
+    ],
+    "aStartingCondRules"  : [
+      "DcWoundBluntRobotMovementUnit=1",
+      "DcWoundCutRobotMovementUnit=1"
+    ],
+    "aSlotsWeHave" : [
+      "WoundItemRobotMovementUnit"
+    ],
+    "strPortraitImg"  : "ItmBodyPart01",
+    "mapSlotEffects" : [
+      "WoundRobotMovementUnit","WoundRobotMovementUnit"
+    ]
+  },
+  {
+    "strName" : "WoundRobotTorso",
+    "strNameFriendly" : "Торс робота",
+    "strItemDef" : "ItmBodyPart01",
+    "strDesc" : "Повреждение в торсе робота.",
+    "strType"    : "Item",
+    "strLoot"    : null,
+    "bSlotLocked" : true,
+    "aInteractions" : [
+    ],
+    "aStartingConds" : [
+      "IsSystem=1.0x1",
+      "IsWound=1.0x1"
+    ],
+    "aUpdateCommands" : [
+      "Wound,WoundRobotTorso"
+    ],
+    "aStartingCondRules"  : [
+      "DcWoundBluntRobotTorso=1",
+      "DcWoundCutRobotTorso=1"
+    ],
+    "aSlotsWeHave" : [
+      "WoundItemRobotTorso"
+    ],
+    "strPortraitImg"  : "ItmBodyPart01",
+    "mapSlotEffects" : [
+      "WoundRobotTorso","WoundRobotTorso"
+    ]
+  },
+  {
+    "strName" : "WoundRobotHead",
+    "strNameFriendly" : "Голова робота",
+    "strItemDef" : "ItmBodyPart01",
+    "strDesc" : "Повреждение в голове робота.",
+    "strType"    : "Item",
+    "strLoot"    : null,
+    "bSlotLocked" : true,
+    "aInteractions" : [
+    ],
+    "aStartingConds" : [
+      "IsSystem=1.0x1",
+      "IsWound=1.0x1"
+    ],
+    "aUpdateCommands" : [
+      "Wound,WoundRobotHead"
+    ],
+    "aStartingCondRules"  : [
+      "DcWoundBluntRobotTorso=1",
+      "DcWoundCutRobotTorso=1"
+    ],
+    "aSlotsWeHave" : [
+      "WoundItemRobotHead"
+    ],
+    "strPortraitImg"  : "ItmBodyPart01",
+    "mapSlotEffects" : [
+      "WoundRobotHead","WoundRobotHead"
+    ]
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "strName" : "AF_OKLGCiv",
+    "strTitle" : "OKLGCiv Faction Test",
+    "strColor"      : "Neutral",
+    "aInverse"          : [
+    ],
+    "fDuration"         : 0.0,
+    "strThemType"       : "Self",
+    "nLogging"         : 0,
+    "bIgnoreFeelings"	: true,
+    "PSpecTestThem"     : "AF_OKLGCiv"
+  },
+  {
+    "strName" : "AF_OKLGCorp",
+    "strTitle" : "OKLGCorp Faction Test",
+    "strColor"      : "Neutral",
+    "aInverse"          : [
+    ],
+    "fDuration"         : 0.0,
+    "strThemType"       : "Self",
+    "nLogging"         : 0,
+    "bIgnoreFeelings"	: true,
+    "PSpecTestThem"     : "AF_OKLGCorp"
+  },
+  {
+    "strName" : "AF_OKLGCrim",
+    "strTitle" : "OKLGCrim Faction Test",
+    "strColor"      : "Neutral",
+    "aInverse"          : [
+    ],
+    "fDuration"         : 0.0,
+    "strThemType"       : "Self",
+    "nLogging"         : 0,
+    "bIgnoreFeelings"	: true,
+    "PSpecTestThem"     : "AF_OKLGCrim"
+  },
+  {
+    "strName" : "AF_OKLGFlotilla",
+    "strTitle" : "OKLGFlotilla Faction Test",
+    "strColor"      : "Neutral",
+    "aInverse"          : [
+    ],
+    "fDuration"         : 0.0,
+    "strThemType"       : "Self",
+    "nLogging"         : 0,
+    "bIgnoreFeelings"	: true,
+    "PSpecTestThem"     : "AF_OKLGFlotilla"
+  },
+  {
+    "strName" : "AF_OKLGLEO",
+    "strTitle" : "OKLGLEO Faction Test",
+    "strColor"      : "Neutral",
+    "aInverse"          : [
+    ],
+    "fDuration"         : 0.0,
+    "strThemType"       : "Self",
+    "nLogging"         : 0,
+    "bIgnoreFeelings"	: true,
+    "PSpecTestThem"     : "AF_OKLGLEO"
+  },
+  {
+    "strName" : "AF_OKLGPirates",
+    "strTitle" : "OKLGPirates Faction Test",
+    "strColor"      : "Neutral",
+    "aInverse"          : [
+    ],
+    "fDuration"         : 0.0,
+    "strThemType"       : "Self",
+    "nLogging"         : 0,
+    "bIgnoreFeelings"	: true,
+    "PSpecTestThem"     : "AF_OKLGPirates"
+  },
+  {
+    "strName" : "AF_OKLGScav",
+    "strTitle" : "OKLGScav Faction Test",
+    "strColor"      : "Neutral",
+    "aInverse"          : [
+    ],
+    "fDuration"         : 0.0,
+    "strThemType"       : "Self",
+    "nLogging"         : 0,
+    "bIgnoreFeelings"	: true,
+    "PSpecTestThem"     : "AF_OKLGScav"
+  },
+  {
+    "strName" : "AF_VCBRCiv",
+    "strTitle" : "VCBRCiv Faction Test",
+    "strColor"      : "Neutral",
+    "aInverse"          : [
+    ],
+    "fDuration"         : 0.0,
+    "strThemType"       : "Self",
+    "nLogging"         : 0,
+    "bIgnoreFeelings"	: true,
+    "PSpecTestThem"     : "AF_VCBRCiv"
+  },
+  {
+    "strName" : "AF_VCBRLEO",
+    "strTitle" : "VCBRLEO Faction Test",
+    "strColor"      : "Neutral",
+    "aInverse"          : [
+    ],
+    "fDuration"         : 0.0,
+    "strThemType"       : "Self",
+    "nLogging"         : 0,
+    "bIgnoreFeelings"	: true,
+    "PSpecTestThem"     : "AF_VCBRLEO"
+  },
+  {
+    "strName" : "AF_VENCCiv",
+    "strTitle" : "VENCCiv Faction Test",
+    "strColor"      : "Neutral",
+    "aInverse"          : [
+    ],
+    "fDuration"         : 0.0,
+    "strThemType"       : "Self",
+    "nLogging"         : 0,
+    "bIgnoreFeelings"	: true,
+    "PSpecTestThem"     : "AF_VENCCiv"
+  },
+  {
+    "strName" : "AF_VENCLEO",
+    "strTitle" : "VENCLEO Faction Test",
+    "strColor"      : "Neutral",
+    "aInverse"          : [
+    ],
+    "fDuration"         : 0.0,
+    "strThemType"       : "Self",
+    "nLogging"         : 0,
+    "bIgnoreFeelings"	: true,
+    "PSpecTestThem"     : "AF_VENCLEO"
+  },
+  {
+    "strName" : "AF_VenusCrim",
+    "strTitle" : "VenusCrim Faction Test",
+    "strColor"      : "Neutral",
+    "aInverse"          : [
+    ],
+    "fDuration"         : 0.0,
+    "strThemType"       : "Self",
+    "nLogging"         : 0,
+    "bIgnoreFeelings"	: true,
+    "PSpecTestThem"     : "AF_VenusCrim"
+  },
+  {
+    "strName" : "AF_VenusPirates",
+    "strTitle" : "Venus Pirates Faction Test",
+    "strColor"      : "Neutral",
+    "aInverse"          : [
+    ],
+    "fDuration"         : 0.0,
+    "strThemType"       : "Self",
+    "nLogging"         : 0,
+    "bIgnoreFeelings"	: true,
+    "PSpecTestThem"     : "AF_VenusPirates"
+  },
+  {
+    "strName" : "AF_VNCACiv",
+    "strTitle" : "VNCACiv Faction Test",
+    "strColor"      : "Neutral",
+    "aInverse"          : [
+    ],
+    "fDuration"         : 0.0,
+    "strThemType"       : "Self",
+    "nLogging"         : 0,
+    "bIgnoreFeelings"	: true,
+    "PSpecTestThem"     : "AF_VNCACiv"
+  },
+  {
+    "strName" : "AF_VNCALEO",
+    "strTitle" : "VNCALEO Faction Test",
+    "strColor"      : "Neutral",
+    "aInverse"          : [
+    ],
+    "fDuration"         : 0.0,
+    "strThemType"       : "Self",
+    "nLogging"         : 0,
+    "bIgnoreFeelings"	: true,
+    "PSpecTestThem"     : "AF_VNCALEO"
+  }
+]

@@ -1,0 +1,249 @@
+[
+    {
+        "strName" : "ItmKioskCargo01BCER",
+        "strNameShort" : "Магазин",
+        "strNameFriendly" : "Магазин грузов (BCER)",
+        "strCOBase"    : "ItmKioskCargo01",
+        "strCondLoot"    : "CNDOLKioskCargo01",
+        "mapGUIPropMaps"  : [
+            "Panel A", "BulkTrade",
+            "Panel Right", "BulkTraderInventory",
+            "Trade", "BulkTrade",
+            "Trader", "TraderBCERCargoKiosk"
+          ]
+    },
+    {
+        "strName" : "ItmKioskCargo01BCRS",
+        "strNameShort" : "Магазин",
+        "strNameFriendly" : "Магазин грузов (BCRS)",
+        "strCOBase"    : "ItmKioskCargo01",
+        "strCondLoot"    : "CNDOLKioskCargo01",
+        "mapGUIPropMaps"  : [
+            "Panel A", "BulkTrade",
+            "Panel Right", "BulkTraderInventory",
+            "Trade", "BulkTrade",
+            "Trader", "TraderBCRSCargoKiosk"
+          ]
+    },
+        {
+        "strName" : "ItmKioskCargo01EJDR",
+        "strNameShort" : "Магазин",
+        "strNameFriendly" : "Магазин грузов (EJDR)",
+        "strCOBase"    : "ItmKioskCargo01",
+        "strCondLoot"    : "CNDOLKioskCargo01",
+        "mapGUIPropMaps"  : [
+            "Panel A", "BulkTrade",
+            "Panel Right", "BulkTraderInventory",
+            "Trade", "BulkTrade",
+            "Trader", "TraderEJDRCargoKiosk"
+          ]
+    },
+        {
+        "strName" : "ItmKioskCargo01HQCH",
+        "strNameShort" : "Магазин",
+        "strNameFriendly" : "Магазин грузов (HQCH)",
+        "strCOBase"    : "ItmKioskCargo01",
+        "strCondLoot"    : "CNDOLKioskCargo01",
+        "mapGUIPropMaps"  : [
+            "Panel A", "BulkTrade",
+            "Panel Right", "BulkTraderInventory",
+            "Trade", "BulkTrade",
+            "Trader", "TraderHQCHCargoKiosk"
+          ]
+    },
+        {
+        "strName" : "ItmKioskCargo01JATL",
+        "strNameShort" : "Магазин",
+        "strNameFriendly" : "Магазин грузов (JATL)",
+        "strCOBase"    : "ItmKioskCargo01",
+        "strCondLoot"    : "CNDOLKioskCargo01",
+        "mapGUIPropMaps"  : [
+            "Panel A", "BulkTrade",
+            "Panel Right", "BulkTraderInventory",
+            "Trade", "BulkTrade",
+            "Trader", "TraderJATLCargoKiosk"
+          ]
+    },
+        {
+        "strName" : "ItmKioskCargo01JFTS",
+        "strNameShort" : "Магазин",
+        "strNameFriendly" : "Магазин грузов (JFTS)",
+        "strCOBase"    : "ItmKioskCargo01",
+        "strCondLoot"    : "CNDOLKioskCargo01",
+        "mapGUIPropMaps"  : [
+            "Panel A", "BulkTrade",
+            "Panel Right", "BulkTraderInventory",
+            "Trade", "BulkTrade",
+            "Trader", "TraderJFTSCargoKiosk"
+          ]
+    },
+        {
+        "strName" : "ItmKioskCargo01JPTN",
+        "strNameShort" : "Магазин",
+        "strNameFriendly" : "Магазин грузов (JPTN)",
+        "strCOBase"    : "ItmKioskCargo01",
+        "strCondLoot"    : "CNDOLKioskCargo01",
+        "mapGUIPropMaps"  : [
+            "Panel A", "BulkTrade",
+            "Panel Right", "BulkTraderInventory",
+            "Trade", "BulkTrade",
+            "Trader", "TraderJPTNCargoKiosk"
+          ]
+    },
+        {
+        "strName" : "ItmKioskCargo01MHNG",
+        "strNameShort" : "Магазин",
+        "strNameFriendly" : "Магазин грузов (MHNG)",
+        "strCOBase"    : "ItmKioskCargo01",
+        "strCondLoot"    : "CNDOLKioskCargo01",
+        "mapGUIPropMaps"  : [
+            "Panel A", "BulkTrade",
+            "Panel Right", "BulkTraderInventory",
+            "Trade", "BulkTrade",
+            "Trader", "TraderMHNGCargoKiosk"
+          ]
+    },
+        {
+        "strName" : "ItmKioskCargo01MLAB",
+        "strNameShort" : "Магазин",
+        "strNameFriendly" : "Магазин грузов (MLAB)",
+        "strCOBase"    : "ItmKioskCargo01",
+        "strCondLoot"    : "CNDOLKioskCargo01",
+        "mapGUIPropMaps"  : [
+            "Panel A", "BulkTrade",
+            "Panel Right", "BulkTraderInventory",
+            "Trade", "BulkTrade",
+            "Trader", "TraderMLABCargoKiosk"
+          ]
+    },
+    {
+        "strName" : "ItmKioskCargo01MSUZ",
+        "strNameShort" : "Магазин",
+        "strNameFriendly" : "Магазин грузов (MSUZ)",
+        "strCOBase"    : "ItmKioskCargo01",
+        "strCondLoot"    : "CNDOLKioskCargo01",
+        "mapGUIPropMaps"  : [
+            "Panel A", "BulkTrade",
+            "Panel Right", "BulkTraderInventory",
+            "Trade", "BulkTrade",
+            "Trader", "TraderMSUZCargoKiosk"
+        ]
+    },
+        {
+        "strName" : "ItmKioskCargo01MTRS",
+        "strNameShort" : "Магазин",
+        "strNameFriendly" : "Магазин грузов (MTRS)",
+        "strCOBase"    : "ItmKioskCargo01",
+        "strCondLoot"    : "CNDOLKioskCargo01",
+        "mapGUIPropMaps"  : [
+            "Panel A", "BulkTrade",
+            "Panel Right", "BulkTraderInventory",
+            "Trade", "BulkTrade",
+            "Trader", "TraderMTRSCargoKiosk"
+          ]
+    },
+        {
+        "strName" : "ItmKioskCargo01MVOL",
+        "strNameShort" : "Магазин",
+        "strNameFriendly" : "Магазин грузов (MVOL)",
+        "strCOBase"    : "ItmKioskCargo01",
+        "strCondLoot"    : "CNDOLKioskCargo01",
+        "mapGUIPropMaps"  : [
+            "Panel A", "BulkTrade",
+            "Panel Right", "BulkTraderInventory",
+            "Trade", "BulkTrade",
+            "Trader", "TraderMVOLCargoKiosk"
+          ]
+    },
+    {
+        "strName" : "ItmKioskCargo01OKLG",
+        "strNameShort" : "Магазин",
+        "strNameFriendly" : "Магазин грузов (OKLG)",
+        "strCOBase"    : "ItmKioskCargo01",
+        "strCondLoot"    : "CNDOLKioskCargo01",
+        "mapGUIPropMaps"  : [
+            "Panel A", "BulkTrade",
+            "Panel Right", "BulkTraderInventory",
+            "Trade", "BulkTrade",
+            "Trader", "TraderOKLGCargoKiosk"
+          ]
+    },
+    {
+        "strName" : "ItmKioskCargo01OFLT",
+        "strNameShort" : "Магазин",
+        "strNameFriendly" : "Магазин грузов (OFLT)",
+        "strCOBase"    : "ItmKioskCargo01",
+        "strCondLoot"    : "CNDOLKioskCargo01",
+        "mapGUIPropMaps"  : [
+            "Panel A", "BulkTrade",
+            "Panel Right", "BulkTraderInventory",
+            "Trade", "BulkTrade",
+            "Trader", "TraderOFLTCargoKiosk"
+          ]
+    },
+        {
+        "strName" : "ItmKioskCargo01SVIR",
+        "strNameShort" : "Магазин",
+        "strNameFriendly" : "Магазин грузов (SVIR)",
+        "strCOBase"    : "ItmKioskCargo01",
+        "strCondLoot"    : "CNDOLKioskCargo01",
+        "mapGUIPropMaps"  : [
+            "Panel A", "BulkTrade",
+            "Panel Right", "BulkTraderInventory",
+            "Trade", "BulkTrade",
+            "Trader", "TraderSVIRCargoKiosk"
+          ]
+    },
+        {
+        "strName" : "ItmKioskCargo01VCBR",
+        "strNameShort" : "Магазин",
+        "strNameFriendly" : "Магазин грузов (VCBR)",
+        "strCOBase"    : "ItmKioskCargo01",
+        "strCondLoot"    : "CNDOLKioskCargo01",
+        "mapGUIPropMaps"  : [
+            "Panel A", "BulkTrade",
+            "Panel Right", "BulkTraderInventory",
+            "Trade", "BulkTrade",
+            "Trader", "TraderVCBRCargoKiosk"
+          ]
+    },
+        {
+        "strName" : "ItmKioskCargo01VENC",
+        "strNameShort" : "Магазин",
+        "strNameFriendly" : "Магазин грузов (VENC)",
+        "strCOBase"    : "ItmKioskCargo01",
+        "strCondLoot"    : "CNDOLKioskCargo01",
+        "mapGUIPropMaps"  : [
+            "Panel A", "BulkTrade",
+            "Panel Right", "BulkTraderInventory",
+            "Trade", "BulkTrade",
+            "Trader", "TraderVENCCargoKiosk"
+          ]
+    },
+        {
+        "strName" : "ItmKioskCargo01VNCA",
+        "strNameShort" : "Магазин",
+        "strNameFriendly" : "Магазин грузов (VNCA)",
+        "strCOBase"    : "ItmKioskCargo01",
+        "strCondLoot"    : "CNDOLKioskCargo01",
+        "mapGUIPropMaps"  : [
+            "Panel A", "BulkTrade",
+            "Panel Right", "BulkTraderInventory",
+            "Trade", "BulkTrade",
+            "Trader", "TraderVNCACargoKiosk"
+          ]
+    },    
+    {
+        "strName" : "ItmKioskCargo01VORB",
+        "strNameShort" : "Магазин",
+        "strNameFriendly" : "Магазин грузов (VORB)",
+        "strCOBase"    : "ItmKioskCargo01",
+        "strCondLoot"    : "CNDOLKioskCargo01",
+        "mapGUIPropMaps"  : [
+            "Panel A", "BulkTrade",
+            "Panel Right", "BulkTraderInventory",
+            "Trade", "BulkTrade",
+            "Trader", "TraderVORBCargoKiosk"
+          ]
+    }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "strName" : "AI_NewOKLGFixer_SolicitPlayer",
+    "strType" : "repeat",
+    "strIATrigger" : "PLGAI_NewOKLGFixer_SolicitPlayerDo",
+    "aIAEnd" : ["PLOT_NewOKLGFixer_SolicitPlayerEnd"],
+    "strThemID" : "[them]",
+    "nPriority" : 8
+  },
+  {
+    "strName" : "AI_PLOTChoicePanhandling_SolicitPlayer",
+    "strType" : "repeat",
+    "strIATrigger" : "PLGAIChoicePanhandling_SolicitPlayerDo",
+    "aIAEnd" : ["PLOTChoicePanhandling_SolicitPlayerEnd"],
+    "strThemID" : "[them]",
+    "nPriority" : 8
+  },  
+  {
+    "strName" : "AI_PLOT_VLAFetch_SolicitPlayer",
+    "strType" : "repeat",
+    "strIATrigger" : "PLGAI_VLAFetch_SolicitPlayerDo",
+    "aIAEnd" : ["PLOT_VLAFetch_SolicitPlayerEnd"],
+    "strThemID" : "[them]",
+    "nPriority" : 8
+  }
+  
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "strName" : "TriggerTutorialDoor",
+    "bRemoveOnTrigger" : false,
+    "strRunEncounter" : "ENCFirstDockOKLG",
+    "bRunEncounterInterrupt" : true
+  },
+  {
+    "strName" : "TriggerFirstReturnOKLG",
+    "bRemoveOnTrigger" : true,
+    "strRunEncounter" : "ENCFirstReturnOKLG",
+    "bRunEncounterInterrupt" : true
+  },
+  {
+    "strName" : "TriggerFirstDockFlotilla",
+    "bRemoveOnTrigger" : true,
+    "strRunEncounter" : "ENCFirstDockFlotilla",
+    "bRunEncounterInterrupt" : true
+  },
+  {
+    "strName" : "TriggerFirstDockNewCal",
+    "bRemoveOnTrigger" : true,
+    "strRunEncounter" : "ENCFirstDockNewCal",
+    "bRunEncounterInterrupt" : true
+  },
+  {
+    "strName" : "TriggerFirstDockVLA01",
+    "bRemoveOnTrigger" : true,
+    "strRunEncounter" : "ENCFirstDockVLA01",
+    "bRunEncounterInterrupt" : true
+  },
+  {
+    "strName" : "TriggerPOI",
+    "bRemoveOnTrigger" : false,
+    "strRunEncounter" : null,
+    "bRunEncounterInterrupt" : false
+  }
+]

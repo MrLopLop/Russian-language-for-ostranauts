@@ -1,0 +1,142 @@
+[
+  { "strName" : "SOCTradeFixerRecognizeFriend", "strTitle" : "Распознать друга/контакт", "strDesc" : "[us] узнает [them] и дает дружеский кивок. [them] говорит, что у [us] есть доступ к черному рынку, когда бы они ни понадобились.", 
+    "strTargetPoint" : "use", "fTargetPointRange" : 2, "strAnim" : "Use", "strBubble" : "BblTalk", "strColor" : "Dialogue", "bSocial" : true, "bIgnoreFeelings" : true, 
+    "aInverse" : [ "GUITradeAllowOKLGFixer,[us],[them]"],
+    "fDuration" : 0.0005, "strThemType" : "Other", "nLogging" : 1, "bHumanOnly" : false, "LootCTsUs" : "CTBlackMarketPlayerAccess", "LootCTsThem" : "CTOKLGFixerAccess", "CTTestUs" : "TIsOKLGFixer", "CTTestThem" : null,
+    "PSpecTestThem": "RELCloseOrContact", "strActionGroup" : "Talk"
+  },
+
+  { "strName" : "SOCTradeFixerConvoStart", "strTitle" : "Пустой взгляд", "strDesc" : "[us] внимательно рассматривает [them] и говорит, что продажа частей из Кладбища нарушает важные правила и положения Айотимивы. Кроме того, даже если бы это не так, [us] не ведет деловые отношения со странными людьми, если кто-то не поручится за них.", 
+    "strTargetPoint" : "use", "fTargetPointRange" : 2, "strAnim" : "Use", "strBubble" : "BblTalk", "strColor" : "Dialogue", "bSocial" : true, "bRandomInverse" : true, 
+    "aInverse" : ["SOCBlank"],
+    "fDuration" : 0.0005, "strThemType" : "Other", "nLogging" : 1, "bHumanOnly" : false, "LootCTsUs" : "CTIsInSocialCombat", "LootCTsThem" : "CTIsInSocialCombat", "CTTestUs" : "TIsOKLGFixer", "CTTestThem" : "TIsOKLGFixerAccessDenied",
+    "strContextLootThem" :"ACTFixerEntryUs", "strContextLootUs" :"ACTFixerEntryThem", "strActionGroup" : "Talk"
+  },
+ 
+  { "strName" : "SOCTradeFixerConvoStartAngry", "strTitle" : "Признание с гневом", "strDesc" : "[us] говорит [them], что им не нравятся незнакомцы. Кроме того, они в плохом настроении, поэтому лучше, если [them] найдут кого-то другого, кого побеспокоить.", 
+    "strTargetPoint" : null, "fTargetPointRange" : 2, "strAnim" : "Use", "strBubble" : "BblTalk", "strColor" : "Dialogue", "bSocial" : true, "bRandomInverse" : true, 
+    "aInverse" : ["SOCBlank"],
+    "fDuration" : 0.0005, "strThemType" : "Other", "nLogging" : 1, "bHumanOnly" : false, "LootCTsUs" : "CTIsInSocialCombat", "LootCTsThem" : "CTIsInSocialCombat", "CTTestUs" : "TDiscomfortsAltruismandFixer", "CTTestThem" : "TIsOKLGFixerAccessDenied",
+    "strContextLootThem" :"ACTFixerEntryUs", "strContextLootUs" :"ACTFixerEntryThem", "strActionGroup" : "Talk"
+  },
+
+  { "strName" : "SOCTradeFixerConvoStartBusy", "strTitle" : "Признание с занятостью", "strDesc" : "[us] говорит [them], что они слишком заняты прямо сейчас, чтобы иметь дело с кем-то вне своего круга.", 
+    "strTargetPoint" : null, "fTargetPointRange" : 2, "strAnim" : "Use", "strBubble" : "BblTalk", "strColor" : "Dialogue", "bSocial" : true, "bRandomInverse" : true, 
+    "aInverse" : ["SOCBlank"],
+    "fDuration" : 0.0005, "strThemType" : "Other", "nLogging" : 1, "bHumanOnly" : false, "LootCTsUs" : "CTIsInSocialCombat", "LootCTsThem" : "CTIsInSocialCombat", "CTTestUs" : "TDiscomfortsPrivacyandFixer", "CTTestThem" : "TIsOKLGFixerAccessDenied",
+    "strContextLootThem" :"ACTFixerEntryUs", "strContextLootUs" :"ACTFixerEntryThem", "strActionGroup" : "Talk"
+  },
+
+  { "strName" : "SOCTradeFixerConvoStartCooldown", "strTitle" : "Прогонит их", "strDesc" : "[us] хмурится нетерпеливо и говорит [them], чтобы они вернулись позже.", 
+  "strTargetPoint" : null, "fTargetPointRange" : 2, "strAnim" : "Use", "strBubble" : "BblTalk", "strColor" : "Dialogue", "bSocial" : true, "bIgnoreFeelings" : true, 
+  "aInverse" : ["SocialCombatExit,[us],[them]"],
+  "LootCondsThem" : null,
+  "fForcedChance" : 1.0,
+  "fDuration" : 0.0005, "strThemType" : "Other", "nLogging" : 1, "bHumanOnly" : false, "LootCTsUs" : null, "LootCTsThem" : null, "CTTestUs" : "TIsOKLGFixer", "CTTestThem" : null, "PSpecTestThem" : "RELFailFixer", 
+  "strActionGroup" : "Talk"
+  },
+
+  { "strName" : "SOCTradeFixerConvoCrackKnuckles", "strTitle" : "Согнуть пальцы и глянуть", "strDesc" : "[us] сгибает пальцы и глядит на [them]", "strActionGroup" : "Talk",
+    "strTargetPoint" : "use", "fTargetPointRange" : 2, "strAnim" : "Use", "strBubble" : "BblTalk", "strColor" : "Dialogue", "bSocial" : true, "bRandomInverse" : true, 
+    "aInverse" : [ "SOCBlank"],
+    "fDuration" : 0.0005, "strThemType" : "Other", "nLogging" : 1, "bHumanOnly" : true, "LootCTsUs" : null, "LootCTsThem" : "CTSOCTradeFixerConvoCrackKnuckles", "CTTestUs" : "TIsOKLGFixerAccessDenied", "CTTestThem" : null
+  },
+  { "strName" : "SOCTradeFixerConvoIntimidate", "strTitle" : "Угрожать фиксатору насилием", "strDesc" : "[us] говорит, что их правый удар может за них поручиться, а затем гнет пальцы.",  "strActionGroup" : "Talk",
+    "strTargetPoint" : "use", "fTargetPointRange" : 2, "strAnim" : "Use", "strBubble" : "BblTalk", "strColor" : "Dialogue", "bSocial" : true, "bRandomInverse" : true, "nMoveType" : 1, 
+    "aInverse" : ["SOCTradeFixerConvoIntimidateResist","SOCTradeFixerConvoIntimidateSuccomb"], "bGambit" : true,
+    "fDuration" : 0.0005, "strThemType" : "Other", "nLogging" : 1, "bHumanOnly" : true, "LootCTsUs" : "CTLeaveSocialCombat", "LootCTsThem" : "CTLeaveSocialCombat", "CTTestUs" : "TIsOKLGFixerAccessDenied", "CTTestThem" : null
+  },
+
+  { "strName" : "SOCTradeFixerConvoIntimidateResist", "strTitle" : "Сопротивляться угрозам", "strDesc" : "[us] смеется и говорит [them], что им не страшен драка в баре, особенно с неизвестным, как ты.",  "strActionGroup" : "Talk",
+    "strTargetPoint" : "use", "fTargetPointRange" : 2, "strAnim" : "Use", "strBubble" : "BblTalk", "strColor" : "Dialogue", "bSocial" : true, "bRandomInverse" : true, "bIgnoreFeelings" : true, 
+    "aInverse" : ["SocialCombatExit,[us],[them]"],
+    "LootCondsThem" : "CONDFailedFixer",
+    "fDuration" : 0.0005, "strThemType" : "Other", "nLogging" : 1, "bHumanOnly" : false, "LootCTsUs" : "CTLeaveSocialCombat", "LootCTsThem" : "CTLeaveSocialCombat", "CTTestUs" : "TIsCTSOCTradeFixerConvoIntimidateResist", "CTTestThem" : null
+  },
+  { "strName" : "SOCTradeFixerConvoIntimidateSuccomb", "strTitle" : "Поддаться угрозам", "strDesc" : "[us] отступает в угол и говорит [them] расслабиться. Черный рынок открыт для всех, кто имеет что-то продать. Нет необходимости прибегать к насилию.",  "strActionGroup" : "Talk",
+    "strTargetPoint" : "use", "fTargetPointRange" : 2, "strAnim" : "Use", "strBubble" : "BblTalk", "strColor" : "Dialogue", "bSocial" : true, "bRandomInverse" : true, "bIgnoreFeelings" : true, "nMoveType" : 3, 
+    "aInverse" : ["GUITradeAllowOKLGFixer,[us],[them]"],
+    "fDuration" : 0.0005, "strThemType" : "Other", "nLogging" : 1, "bHumanOnly" : false, "LootCTsUs" : "CTBlackMarketPlayerAccess", "LootCTsThem" : "CTOKLGFixerAccess", "CTTestUs" : "TIsCTSOCTradeFixerConvoIntimidateSuccomb", "CTTestThem" : null,
+    "strContextLootThem" :"Default", "strContextLootUs" :"Default"
+  },
+
+  { "strName" : "SOCTradeFixerConvoCompliment", "strTitle" : "Сделать комплимент внешности", "strDesc" : "[us] замечает уникальную и прекрасную черту внешности [them].",  "strActionGroup" : "Talk",
+    "strTargetPoint" : "use", "fTargetPointRange" : 2, "strAnim" : "Use", "strBubble" : "BblTalk", "strColor" : "Dialogue", "bSocial" : true, "bRandomInverse" : true, 
+    "aInverse" : [ "SOCBlank"],
+    "fDuration" : 0.0005, "strThemType" : "Other", "nLogging" : 1, "bHumanOnly" : true, "LootCTsUs" : null, "LootCTsThem" : "CTSOCTradeFixerConvoCompliment", "CTTestUs" : "TIsOKLGFixerAccessDenied", "CTTestThem" : null
+  },
+  { "strName" : "SOCTradeFixerConvoCharm", "strTitle" : "Попытка очаровать Фиксатора", "strDesc" : "[us] касается [them] на руке и говорит, что они не выглядят как те, кто придерживается правил и регламентов",  "strActionGroup" : "Talk",
+    "strTargetPoint" : "use", "fTargetPointRange" : 2, "strAnim" : "Use", "strBubble" : "BblTalk", "strColor" : "Dialogue", "bSocial" : true, "bRandomInverse" : true,  "nMoveType" : 1, 
+    "aInverse" : ["SOCTradeFixerConvoCharmResist","SOCTradeFixerConvoCharmSuccomb"], "bGambit" : true,
+    "fDuration" : 0.0005, "strThemType" : "Other", "nLogging" : 1, "bHumanOnly" : true, "LootCTsUs" : "CTLeaveSocialCombat", "LootCTsThem" : "CTLeaveSocialCombat", "CTTestUs" : "TIsOKLGFixerAccessDenied", "CTTestThem" : null 
+  },
+
+  { "strName" : "SOCTradeFixerConvoCharmResist", "strTitle" : "Сопротивляться очарованию", "strDesc" : "[us] убирает свою руку и говорит, что они не настолько отчаянны, чтобы идти на это, даже на такой захолустной станции, как OKLG.",  "strActionGroup" : "Talk",
+    "strTargetPoint" : "use", "fTargetPointRange" : 2, "strAnim" : "Use", "strBubble" : "BblTalk", "strColor" : "Dialogue", "bSocial" : true, "bRandomInverse" : true, "bIgnoreFeelings" : true, 
+    "aInverse" : ["SocialCombatExit,[us],[them]"],
+    "LootCondsThem" : "CONDFailedFixer",
+    "fDuration" : 0.0005, "strThemType" : "Other", "nLogging" : 1, "bHumanOnly" : false, "LootCTsUs" : "CTLeaveSocialCombat", "LootCTsThem" : "CTLeaveSocialCombat", "CTTestUs" : "TIsCTSOCTradeFixerConvoCharmResist", "CTTestThem" : null
+  },
+  { "strName" : "SOCTradeFixerConvoCharmSuccomb", "strTitle" : "Поддаться очарованию", "strDesc" : "[us] делает строгое лицо, но вы замечаете, что они краснеют. Они держат свою руку там, где она есть, и говорят [them], что черный рынок открыт для них, когда они нуждаются.",  "strActionGroup" : "Talk",
+    "strTargetPoint" : "use", "fTargetPointRange" : 2, "strAnim" : "Use", "strBubble" : "BblTalk", "strColor" : "Dialogue", "bSocial" : true, "bRandomInverse" : true, "bIgnoreFeelings" : true, "nMoveType" : 3, 
+    "aInverse" : ["GUITradeAllowOKLGFixer,[us],[them]"],
+    "fDuration" : 0.0005, "strThemType" : "Other", "nLogging" : 1, "bHumanOnly" : false, "LootCTsUs" : "CTBlackMarketPlayerAccess", "LootCTsThem" : "CTOKLGFixerAccess", "CTTestUs" : "TIsCTSOCTradeFixerConvoCharmSuccomb", "CTTestThem" : null,
+    "strContextLootThem" :"Default", "strContextLootUs" :"Default"
+  },
+
+
+  { "strName" : "SOCTradeFixerConvoPrivacyFail", "strTitle" : "Сказать им, чтобы убирались", "strDesc" : "[us] говорит, что [them] слишком любопытны и просит их убраться.",  "strActionGroup" : "Talk",
+    "strTargetPoint" : "use", "fTargetPointRange" : 2, "strAnim" : "Use", "strBubble" : "BblTalk", "strColor" : "Dialogue", "bSocial" : true, "bRandomInverse" : true, "bIgnoreFeelings" : true, "nMoveType" : 2, 
+    "aInverse" : ["SocialCombatExit,[us],[them]"],
+    "LootCondsThem" : "CONDFailedFixer",
+    "fDuration" : 0.0005, "strThemType" : "Other", "nLogging" : 1, "bHumanOnly" : false, "LootCTsUs" : "CTSOCTradeFixerConvoPrivacyFailLoot", "LootCTsThem" : "CTLeaveSocialCombat", "CTTestUs" : "TIsCTSOCTradeFixerConvoPrivacyFail", "CTTestThem" : null,
+    "strContextLootThem" :"Default", "strContextLootUs" :"Default"
+  },  
+
+  { "strName" : "SOCTradeFixerConvoAltruismFail", "strTitle" : "Сказать им, чтобы вели себя", "strDesc" : "[us] говорит, что [them] бесполезны для них, просто еще один кусок космического мусора, запихнутый в забытый угол этой жалкой отговорки для станции, которую все вынуждены называть 'домом'.",  "strActionGroup" : "Talk",
+    "strTargetPoint" : "use", "fTargetPointRange" : 2, "strAnim" : "Use", "strBubble" : "BblTalk", "strColor" : "Dialogue", "bSocial" : true, "bRandomInverse" : true, "bIgnoreFeelings" : true, "nMoveType" : 2, 
+    "aInverse" : ["SocialCombatExit,[us],[them]"],
+    "LootCondsThem" : "CONDFailedFixer",
+    "fDuration" : 0.0005, "strThemType" : "Other", "nLogging" : 1, "bHumanOnly" : false, "LootCTsUs" : "CTSOCTradeFixerConvoAltruismFailLoot", "LootCTsThem" : "CTLeaveSocialCombat", "CTTestUs" : "TIsCTSOCTradeFixerConvoAltruismFail", "CTTestThem" : null,
+    "strContextLootThem" :"Default", "strContextLootUs" :"Default"
+  },  
+
+  { "strName" : "SOCTradeFixerConvoNameDropCrim", "strTitle" : "Упомянуть своего криминального контакта", "strDesc" : "[us] говорит, что их друг [3rd] сказал им, что [them] - это тот, к кому стоит обратиться. [3rd] сказал, что [them] - прямой человек. [3rd] сказал, что [them] знают хорошую возможность, когда увидят одну.",  "strActionGroup" : "Talk",
+    "strTargetPoint" : "use", "fTargetPointRange" : 2, "strAnim" : "Use", "strBubble" : "BblTalk", "strColor" : "Dialogue", "bSocial" : true, "bRandomInverse" : true, "bIgnoreFeelings" : true, 
+    "aInverse" : [ "SOCTradeFixerConvoNameDropCrimAllow,[them],[us],[3rd]"],
+    "fDuration" : 0.0005, "strThemType" : "Other", "nLogging" : 1, "bHumanOnly" : false, "LootCTsUs" : null, "LootCTsThem" : null, "CTTestUs" : null, "CTTestThem" : null,
+    "PSpecTest3rd" : "OKLGCriminalCloseMinor"
+  },
+
+  { "strName" : "SOCTradeFixerConvoNameDropCrimAllow", "strTitle" : "Реакция на упоминание криминала", "strDesc" : "[us] внимательно смотрит на [them] в течение долгого времени, прежде чем широко улыбнуться. [us] говорит, что любой, кто достаточно безумный, чтобы проводить время с [3rd], должен быть хорошими людьми. [us] говорит, что [them] могут просматривать их товары в любое время, если только они умеют держать язык за зубами.",  "strActionGroup" : "Talk",
+    "strTargetPoint" : "use", "fTargetPointRange" : 2, "strAnim" : "Use", "strBubble" : "BblTalk", "strColor" : "Dialogue", "bSocial" : true, "bRandomInverse" : true, "bIgnoreFeelings" : true, 
+    "aInverse" : [ "GUITradeAllowOKLGFixer"],
+    "fDuration" : 0.0005, "strThemType" : "Other", "nLogging" : 1, "bHumanOnly" : false, "LootCTsUs" : "CTBlackMarketPlayerAccess", "LootCTsThem" : "CTOKLGFixerAccess", "CTTestUs" : null, "CTTestThem" : null
+  },
+
+  { "strName" : "SOCTradeFixerConvoNameDropManager", "strTitle" : "Упомянуть своего менеджера OKLG", "strDesc" : "[us] спрашивает [them], знает ли [3rd] о черном рынке, который ведется из-за спины единственного бара K-Leg.",  "strActionGroup" : "Talk",
+    "strTargetPoint" : "use", "fTargetPointRange" : 2, "strAnim" : "Use", "strBubble" : "BblTalk", "strColor" : "Dialogue", "bSocial" : true, "bRandomInverse" : true, "bIgnoreFeelings" : true, 
+    "aInverse" : [ "SOCTradeFixerConvoNameDropManagerAllow,[them],[us],[3rd]"],
+    "fDuration" : 0.0005, "strThemType" : "Other", "nLogging" : 1, "bHumanOnly" : false, "LootCTsUs" : null, "LootCTsThem" : null, "CTTestUs" : null, "CTTestThem" : "TIsNotPlayerCrew",
+    "PSpecTest3rd" : "OKLGManagerClose"
+  },
+
+  { "strName" : "SOCTradeFixerConvoNameDropManagerAllow", "strTitle" : "Реакция на упоминание менеджера OKLG", "strDesc" : "[us] вздыхает и говорит, что надеется, что [them] знает, что делает. Никто не любит двойных агентов. Если [them] хочет торговать, то рынок открыт для них. Пока.",  "strActionGroup" : "Talk",
+    "strTargetPoint" : "use", "fTargetPointRange" : 2, "strAnim" : "Use", "strBubble" : "BblTalk", "strColor" : "Dialogue", "bSocial" : true, "bRandomInverse" : true, "bIgnoreFeelings" : true, 
+    "aInverse" : [ "GUITradeAllowOKLGFixer"],
+    "fDuration" : 0.0005, "strThemType" : "Other", "nLogging" : 1, "bHumanOnly" : false, "LootCTsUs" : "CTBlackMarketPlayerAccess", "LootCTsThem" : "CTOKLGFixerAccess", "CTTestUs" : null, "CTTestThem" : null
+  },
+
+  { "strName" : "SOCTradeFixerConvoNameDropLEO", "strTitle" : "Упомянуть своего контактного человека из правоохранительных органов", "strDesc" : "[us] говорит, что Офицер [3rd] услышал о черном рынке, который ведется из Мескафора. Но, так как Офицер [3rd] друг, [us] может помочь им сбить с толку. При условии, что [them] готовы вести себя.",  "strActionGroup" : "Talk",
+    "strTargetPoint" : "use", "fTargetPointRange" : 2, "strAnim" : "Use", "strBubble" : "BblTalk", "strColor" : "Dialogue", "bSocial" : true, "bRandomInverse" : true, "bIgnoreFeelings" : true, 
+    "aInverse" : [ "SOCTradeFixerConvoNameDropLEOAllow,[them],[us],[3rd]"],
+    "fDuration" : 0.0005, "strThemType" : "Other", "nLogging" : 1, "bHumanOnly" : false, "LootCTsUs" : null, "LootCTsThem" : null, "CTTestUs" : null, "CTTestThem" : null, 
+    "PSpecTest3rd" : "OKLGLEOCloseOrContact"
+  },
+
+  { "strName" : "SOCTradeFixerConvoNameDropLEOAllow", "strTitle" : "Реакция на упоминание правоохранительных органов", "strDesc" : "[us] говорит, что Офицер [3rd] не смог бы выявить преступную группировку, не зависимо от того, как сильно она воняла. Но даже глупый коп плох для бизнеса, так что [us] принимает предложение [them] и открывает рынок, пока они могут держать [3rd] подальше.",  "strActionGroup" : "Talk",
+    "strTargetPoint" : "use", "fTargetPointRange" : 2, "strAnim" : "Use", "strBubble" : "BblTalk", "strColor" : "Dialogue", "bSocial" : true, "bRandomInverse" : true, "bIgnoreFeelings" : true, 
+    "aInverse" : [ "GUITradeAllowOKLGFixer"],
+    "fDuration" : 0.0005, "strThemType" : "Other", "nLogging" : 1, "bHumanOnly" : false, "LootCTsUs" : "CTBlackMarketPlayerAccess", "LootCTsThem" : "CTOKLGFixerAccess", "CTTestUs" : null, "CTTestThem" : null
+  }
+]

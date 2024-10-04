@@ -1,0 +1,40 @@
+[
+  {
+    "strName" : "AModeMeatCrush",
+    "strNameFriendly" : "подавляющий удар",
+    "strType" : "melee",
+    "bPlayAudioEarly" : true,
+    "strAudioAttack" : "ItmMeatPickup",
+    "fRange"  : 1.0,
+    "fDmgBlunt"  : 12.0,
+    "fDmgCut"  : 0.0,
+    "fDmgEnv"  : 0.0,
+    "fPenetration"  : 0.0
+  },
+  {
+    "strName" : "AModeSatyrBludgeon",
+    "strNameFriendly" : "трамбовка копыт",
+    "strType" : "melee",
+    "bPlayAudioEarly" : true,
+    "strAudioAttack" : "AnimMeleeSound01",
+    "fRange"  : 1.0,
+    "fDmgBlunt"  : 6.0,
+    "fDmgCut"  : 0.0,
+    "fDmgEnv"  : 2.0,
+    "fPenetration"  : 0.0,
+    "fTargetDefenseMod"  : -50.0
+  },
+  {
+    "strName" : "AModeSatyrPummel",
+    "strNameFriendly" : "потасовка кулаков и копыт",
+    "strType" : "melee",
+    "bPlayAudioEarly" : true,
+    "strAudioAttack" : "AnimMeleeSound01",
+    "fRange"  : 1.0,
+    "fDmgBlunt"  : 12.0,
+    "fDmgCut"  : 0.0,
+    "fDmgEnv"  : 4.0,
+    "fPenetration"  : 0.0,
+    "fTargetDefenseMod"  : -50.0
+  }
+]

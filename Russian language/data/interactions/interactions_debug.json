@@ -1,0 +1,90 @@
+[
+  {
+    "strName" : "SOCDebugTankACH", "strTitle" : "Танк ACH", "strDesc" : "[us] танки [them]'s StatAchievement.",
+    "strTargetPoint" : null, "fTargetPointRange" : 0.0, "strAnim" : "Angry", "strBubble" : "BblShoutThreat", "strColor" : "Dialogue",
+    "aInverse" : [    ],
+    "fDuration" : 0.0005, "bSocial" : false, "bRandomInverse" : true, "bOpener" : true, "bPause" : false,
+    "nLogging" : 1, "bHumanOnly" : true, "strThemType" : "Other",
+    "LootCTsUs" : null, "LootCTsThem" : "CTSOCDebugTankACHThem", "CTTestUs" : null, "CTTestThem" : "TIsValidSocialTarget"
+  },
+  {
+    "strName" : "SOCDebugTankALT", "strTitle" : "Танк ALT", "strDesc" : "[us] танки [them]'s StatAltruism.",
+    "strTargetPoint" : null, "fTargetPointRange" : 0.0, "strAnim" : "Angry", "strBubble" : "BblShoutThreat", "strColor" : "Dialogue",
+    "aInverse" : [    ],
+    "fDuration" : 0.0005, "bSocial" : false, "bRandomInverse" : true, "bOpener" : true, "bPause" : false,
+    "nLogging" : 1, "bHumanOnly" : true, "strThemType" : "Other",
+    "LootCTsUs" : null, "LootCTsThem" : "CTSOCDebugTankALTThem", "CTTestUs" : null, "CTTestThem" : "TIsValidSocialTarget"
+  },
+  {
+    "strName" : "SOCDebugTankAUT", "strTitle" : "Танк AUT", "strDesc" : "[us] танки [them]'s StatAutonomy.",
+    "strTargetPoint" : null, "fTargetPointRange" : 0.0, "strAnim" : "Angry", "strBubble" : "BblShoutThreat", "strColor" : "Dialogue",
+    "aInverse" : [    ],
+    "fDuration" : 0.0005, "bSocial" : false, "bRandomInverse" : true, "bOpener" : true, "bPause" : false,
+    "nLogging" : 1, "bHumanOnly" : true, "strThemType" : "Other",
+    "LootCTsUs" : null, "LootCTsThem" : "CTSOCDebugTankAUTThem", "CTTestUs" : null, "CTTestThem" : "TIsValidSocialTarget"
+  },
+  {
+    "strName" : "SOCDebugTankCON", "strTitle" : "Танк CON", "strDesc" : "[us] танки [them]'s StatContact.",
+    "strTargetPoint" : null, "fTargetPointRange" : 0.0, "strAnim" : "Angry", "strBubble" : "BblShoutThreat", "strColor" : "Dialogue",
+    "aInverse" : [    ],
+    "fDuration" : 0.0005, "bSocial" : false, "bRandomInverse" : true, "bOpener" : true, "bPause" : false,
+    "nLogging" : 1, "bHumanOnly" : true, "strThemType" : "Other",
+    "LootCTsUs" : null, "LootCTsThem" : "CTSOCDebugTankCONThem", "CTTestUs" : null, "CTTestThem" : "TIsValidSocialTarget"
+  },
+  {
+    "strName" : "SOCDebugTankEST", "strTitle" : "Танк EST", "strDesc" : "[us] танки [them]'s StatEsteem.",
+    "strTargetPoint" : null, "fTargetPointRange" : 0.0, "strAnim" : "Angry", "strBubble" : "BblShoutThreat", "strColor" : "Dialogue",
+    "aInverse" : [    ],
+    "fDuration" : 0.0005, "bSocial" : false, "bRandomInverse" : true, "bOpener" : true, "bPause" : false,
+    "nLogging" : 1, "bHumanOnly" : true, "strThemType" : "Other",
+    "LootCTsUs" : null, "LootCTsThem" : "CTSOCDebugTankESTThem", "CTTestUs" : null, "CTTestThem" : "TIsValidSocialTarget"
+  },
+  {
+    "strName" : "SOCDebugTankFAM", "strTitle" : "Танк FAM", "strDesc" : "[us] танки [them]'s StatFamily.",
+    "strTargetPoint" : null, "fTargetPointRange" : 0.0, "strAnim" : "Angry", "strBubble" : "BblShoutThreat", "strColor" : "Dialogue",
+    "aInverse" : [    ],
+    "fDuration" : 0.0005, "bSocial" : false, "bRandomInverse" : true, "bOpener" : true, "bPause" : false,
+    "nLogging" : 1, "bHumanOnly" : true, "strThemType" : "Other",
+    "LootCTsUs" : null, "LootCTsThem" : "CTSOCDebugTankFAMThem", "CTTestUs" : null, "CTTestThem" : "TIsValidSocialTarget"
+  },
+  {
+    "strName" : "SOCDebugTankINT", "strTitle" : "Танк INT", "strDesc" : "[us] танки [them]'s StatIntimacy.",
+    "strTargetPoint" : null, "fTargetPointRange" : 0.0, "strAnim" : "Angry", "strBubble" : "BblShoutThreat", "strColor" : "Dialogue",
+    "aInverse" : [    ],
+    "fDuration" : 0.0005, "bSocial" : false, "bRandomInverse" : true, "bOpener" : true, "bPause" : false,
+    "nLogging" : 1, "bHumanOnly" : true, "strThemType" : "Other",
+    "LootCTsUs" : null, "LootCTsThem" : "CTSOCDebugTankINTThem", "CTTestUs" : null, "CTTestThem" : "TIsValidSocialTarget"
+  },
+  {
+    "strName" : "SOCDebugTankMEA", "strTitle" : "Танк MEA", "strDesc" : "[us] танки [them]'s StatMeaning.",
+    "strTargetPoint" : null, "fTargetPointRange" : 0.0, "strAnim" : "Angry", "strBubble" : "BblShoutThreat", "strColor" : "Dialogue",
+    "aInverse" : [    ],
+    "fDuration" : 0.0005, "bSocial" : false, "bRandomInverse" : true, "bOpener" : true, "bPause" : false,
+    "nLogging" : 1, "bHumanOnly" : true, "strThemType" : "Other",
+    "LootCTsUs" : null, "LootCTsThem" : "CTSOCDebugTankMEAThem", "CTTestUs" : null, "CTTestThem" : "TIsValidSocialTarget"
+  },
+  {
+    "strName" : "SOCDebugTankPRI", "strTitle" : "Танк PRI", "strDesc" : "[us] танки [them]'s StatPrivacy.",
+    "strTargetPoint" : null, "fTargetPointRange" : 0.0, "strAnim" : "Angry", "strBubble" : "BblShoutThreat", "strColor" : "Dialogue",
+    "aInverse" : [    ],
+    "fDuration" : 0.0005, "bSocial" : false, "bRandomInverse" : true, "bOpener" : true, "bPause" : false,
+    "nLogging" : 1, "bHumanOnly" : true, "strThemType" : "Other",
+    "LootCTsUs" : null, "LootCTsThem" : "CTSOCDebugTankPRIThem", "CTTestUs" : null, "CTTestThem" : "TIsValidSocialTarget"
+  },
+  {
+    "strName" : "SOCDebugTankSEC", "strTitle" : "Танк SEC", "strDesc" : "[us] танки [them]'s StatSecurity.",
+    "strTargetPoint" : null, "fTargetPointRange" : 0.0, "strAnim" : "Angry", "strBubble" : "BblShoutThreat", "strColor" : "Dialogue",
+    "aInverse" : [    ],
+    "fDuration" : 0.0005, "bSocial" : false, "bRandomInverse" : true, "bOpener" : true, "bPause" : false,
+    "nLogging" : 1, "bHumanOnly" : true, "strThemType" : "Other",
+    "LootCTsUs" : null, "LootCTsThem" : "CTSOCDebugTankSECThem", "CTTestUs" : null, "CTTestThem" : "TIsValidSocialTarget"
+  },
+  {
+    "strName" : "SOCDebugTankSEL", "strTitle" : "Танк SEL", "strDesc" : "[us] танки [them]'s StatSelfRespect.",
+    "strTargetPoint" : null, "fTargetPointRange" : 0.0, "strAnim" : "Angry", "strBubble" : "BblShoutThreat", "strColor" : "Dialogue",
+    "aInverse" : [    ],
+    "fDuration" : 0.0005, "bSocial" : false, "bRandomInverse" : true, "bOpener" : true, "bPause" : false,
+    "nLogging" : 1, "bHumanOnly" : true, "strThemType" : "Other",
+    "LootCTsUs" : null, "LootCTsThem" : "CTSOCDebugTankSELThem", "CTTestUs" : null, "CTTestThem" : "TIsValidSocialTarget"
+  }
+]

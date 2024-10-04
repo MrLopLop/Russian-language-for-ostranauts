@@ -1,0 +1,22 @@
+[
+    {
+        "strName" : "ACTFixerEntryUs",
+        "strTitle" : "Фиксер",
+        "strMainText" : "Убедите Фиксера дать вам доступ к черному рынку."
+    },
+    {
+        "strName" : "ACTPortAuthorityEntryUs",
+        "strTitle" : "Портовая власть",
+        "strMainText" : "Убедите клерка отложить оплату за швартовку на этот раз."
+    },
+    {
+        "strName" : "ACTPoliceShakedownThem",
+        "strTitle" : "Облава полиции",
+        "strMainText" : "Убедите полицейских отпустить вас или хотя бы уменьшить штраф."
+    },
+    {
+        "strName" : "ACTSTKTemplateThem",
+        "strTitle" : "Попросить услугу",
+        "strMainText" : "Убедите их сделать вам одолжение."
+    }
+]

@@ -1,0 +1,160 @@
+[
+  {
+    "strName" : "Trials",
+    "strNameFriendly" : "Испытание",
+    "strDescription" : "Короткая входная лига, которая демонстрирует каждый тип трассы",
+    "strImgPath" : null,
+    "ctLeagueHost" : null,
+    "ctEntryRequirements" : null,
+    "strRequirementDescription" : "Не требуется лицензия",
+    "strEntryFeeLedgerDef" : "RacingBronzeEntryFee",
+    "strStartingLoot" : null,
+    "strPsPecParticipant" : "RandomPilotAvg",
+    "aRacePrize":[
+      {
+        "Loot" : "CONDRacingVenusBronze1stPrize",
+        "LedgerDef" : "RacingTutorialFirst"
+      },
+      {
+        "Loot" : "CONDRacingVenusBronze2ndPrize",
+        "LedgerDef" : "RacingTutorialSecond"
+      },
+      {
+        "Loot" : "CONDRacingVenusBronze3rdPrize",
+        "LedgerDef" : "RacingTutorialThird"
+      }
+    ],
+    
+    "aTracks"      : [
+      "TutorialPointToPoint",
+      "TutorialCircuit",
+      "TutorialOrientation"
+    ]
+  },
+  {
+    "strName" : "VenusBronze",
+    "strNameFriendly" : "Лига Венера Бронза",
+    "strDescription" : "Входная лига для каждого новичка-пилота гонок",
+    "strImgPath" : "leaguebronzelogo.png",
+    "ctLeagueHost" : null,
+    "ctEntryRequirements" : null,
+    "strRequirementDescription" : "Не требуется лицензия",
+    "strEntryFeeLedgerDef" : "RacingBronzeEntryFee",
+    "strStartingLoot" : null,
+    "strPsPecParticipant" : "RandomPilotAvg",
+    "aRacePrize":[
+      {
+        "Loot" : "CONDRacingVenusBronze1stPrize",
+        "LedgerDef" : "RacingBronzePrizeFirst"
+      },
+      {
+        "Loot" : "CONDRacingVenusBronze2ndPrize",
+        "LedgerDef" : "RacingBronzePrizeSecond"
+      },
+      {
+        "Loot" : "CONDRacingVenusBronze3rdPrize",
+        "LedgerDef" : "RacingBronzePrizeThird"
+      }
+    ],
+
+    "aTracks"      : [
+      "RisingStar",
+      "Ladder",
+      "ORing"
+    ]
+  },
+  {
+    "strName" : "VenusSilver",
+    "strNameFriendly" : "Лига Венера Серебро",
+    "strDescription" : "Входная лига для каждого новичка-пилота гонок",
+    "strImgPath" : "leaguesilverlogo.png",
+    "ctLeagueHost" : null,
+    "ctEntryRequirements" : "TIsRaceLicenseBronze",
+    "strRequirementDescription" : "Требуется бронзовая лицензия",
+    "strEntryFeeLedgerDef" : "RacingSilverEntryFee",
+    "strStartingLoot" : null,
+    "strPsPecParticipant" : "RandomPilotGood",
+    "aRacePrize":[
+      {
+        "Loot" : "CONDRacingVenusSilver1stPrize",
+        "LedgerDef" : "RacingSilverPrizeFirst"
+      },
+      {
+        "Loot" : "CONDRacingVenusSilver2ndPrize",
+        "LedgerDef" : "RacingSilverPrizeSecond"
+      },
+      {
+        "Loot" : "CONDRacingVenusSilver3rdPrize",
+        "LedgerDef" : "RacingSilverPrizeThird"
+      }
+    ],
+    "aTracks"      : [
+      "RisingStar",
+      "Fluid",
+      "Cue"
+    ]
+  },
+  {
+    "strName" : "VenusGold",
+    "strNameFriendly" : "Лига Венера Золото",
+    "strDescription" : "Золотой уровень лиги только для опытных пилотов гонок",
+    "strImgPath" : "leaguegoldlogo.png",
+    "ctLeagueHost" : null,
+    "ctEntryRequirements" : "TIsRaceLicenseSilver",
+    "strRequirementDescription" : "Требуется серебряная лицензия",
+    "strEntryFeeLedgerDef" : "RacingGoldEntryFee",
+    "strStartingLoot" : null,
+    "strPsPecParticipant" : "RandomPilotAce",
+    "aRacePrize":[
+      {
+        "Loot" : "CONDRacingVenusGold1stPrize",
+        "LedgerDef" : "RacingGoldPrizeFirst"
+      },
+      {
+        "Loot" : "CONDRacingVenusGold2ndPrize",
+        "LedgerDef" : "RacingGoldPrizeSecond"
+      },
+      {
+        "Loot" : "CONDRacingVenusGold3rdPrize",
+        "LedgerDef" : "RacingGoldPrizeThird"
+      }
+    ],
+    "aTracks"      : [
+      "Fluid",
+      "Ladder",
+      "Cue"
+    ]
+  },
+  {
+    "strName" : "GrandePremioEncantato",
+    "strNameFriendly" : "Грандиозный Приз Энкантадо",
+    "strDescription" : "Одна из самых престижных лиг гонок на данной системе",
+    "strImgPath" : "racing/encantado.png",
+    "ctLeagueHost" : null,
+    "ctEntryRequirements" : "TIsRaceLicenseDiamond",
+    "strRequirementDescription" : "Требуется алмазная лицензия",
+    "strEntryFeeLedgerDef" : "RacingGoldEntryFee",
+    "strStartingLoot" : null,
+    "strPsPecParticipant" : "RandomPilotAce",
+    "aRacePrize":[
+      {
+        "Loot" : null,
+        "LedgerDef" : "RacingGoldPrizeFirst"
+      },
+      {
+        "Loot" : null,
+        "LedgerDef" : "RacingGoldPrizeSecond"
+      },
+      {
+        "Loot" : null,
+        "LedgerDef" : "RacingGoldPrizeThird"
+      }
+    ],
+
+    "aTracks"      : [
+      "Fluid",
+      "Ladder",
+      "ORing"
+    ]
+  }
+]

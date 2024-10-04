@@ -1,0 +1,132 @@
+[
+    {
+      "strName" : "TipGameplayGasCursor",
+      "strBody"    : "Gameplay Tip:\n\nGas values only show at the cursor when they are at dangerous levels.\n\nPressing 'G' (default hotkey) toggles on gas values all the time.",
+      "strCategory" : "gameplay"
+    },
+    {
+      "strName" : "TipGameplayAtmoSafe",
+      "strBody"    : "Gameplay Tip:\n\nAtmosphere must have approximately 20kPa O2 to be safely breathable by humans, and a minimal amount of CO2.\n\nN2 is optional, but many vessels will maintain 80kPa N2 in the mix to match Earth-like atmosphere, and to minimize risk of fire.",
+      "strCategory" : "gameplay"
+    },
+    {
+        "strName" : "TipGameplayChargers",
+        "strBody"    : "Gameplay Tip:\n\nMost tools brands have an associated charger.\n\nBatteries recharge over time when left in the inventory of the powered charger.",
+        "strCategory" : "gameplay"
+    },
+    {
+        "strName" : "TipGameplaySinks",
+        "strBody"    : "Gameplay Tip:\n\nWater pouches can be refilled at sinks.\n\nSelect the sink whilst holding an empty pouch to get an option to dispense water.",
+        "strCategory" : "gameplay"
+    },
+    {
+        "strName" : "TipGameplayCombat1",
+        "strBody"    : "Gameplay Tip:\n\nEquipping weapons in your hand gives access to their unique attack moves.",
+        "strCategory" : "gameplay"
+    },
+    {
+        "strName" : "TipGameplayEmbassyKiosk",
+        "strBody"    : "Gameplay Tip:\n\nFor qualifying applicants (and the right price), embassy kiosks in the OKLG Commercial District offer legal status at represented System colonies.\n\nUse the transit kiosk to reach the other district, and look for a row of embassy kiosks.",
+        "strCategory" : "gameplay"
+    },
+    {
+        "strName" : "TipGameplayFactions",
+        "strBody"    : "Gameplay Tip:\n\nSome factions are naturally hostile to everyone.\n\nThe more negative your faction standings with someone, the more likely you are to get attacked!",
+        "strCategory" : "gameplay"
+    },
+    {
+        "strName" : "TipGameplayMedKiosk",
+        "strBody"    : "Gameplay Tip:\n\nThere is a Van Buren kiosk in the OKLG Commercial District offering medical services and treatments.\n\nUse the transit kiosk to reach the other district, and look for a red kiosk.",
+        "strCategory" : "gameplay"
+    },
+    {
+        "strName" : "TipGameplayMTTDeselect",
+        "strBody"    : "Gameplay Tip:\n\nTo deselect a selected item in the game world, left-click (default mapping) on the selected item.\n\nRight-clicking (default mapping) multiple times on an item will cycle the selection through all items in that tile.",
+        "strCategory" : "gameplay"
+    },
+    {
+        "strName" : "TipGameplayQABHotkeys",
+        "strBody"    : "Gameplay Tip:\n\n'Quick Action Buttons' (QAB) will appear at the bottom of the screen when you right-click any item in the game.\n\nYou can either click them with the mouse, or use their assigned hotkeys (1-4 by default) to execute them.",
+        "strCategory" : "gameplay"
+    },
+    {
+        "strName" : "TipGameplayReactorManual",
+        "strBody"    : "Gameplay Tip:\n\nLooking for a reactor manual? Check manual in the Esc menu or game main menu.\n\nAlso find it as an in-game book, or sometimes as 3-part lootable datafiles on Nav Station hard drives.",
+        "strCategory" : "gameplay"
+    },
+    {
+        "strName" : "TipGameplayZones",
+        "strBody"    : "Gameplay Tip:\n\nCreate zones on your ship to forbid NPC passage, sell items in a zone directly to traders, or organize storage hauling by categories.\n\nPressing 'N' (default hotkey) opens the zone management interface.",
+        "strCategory" : "gameplay"
+    },
+    {
+        "strName" : "TipGameplayClickDials",
+        "strBody"    : "Gameplay Tip:\n\nYou don't have to rotate dials with mouse movement. Simply L+Click any dial to rotate it once counterclockwise, or R+Click to rotate clockwise (default hotkeys).",
+        "strCategory" : "gameplay"
+    },
+    {
+        "strName" : "TipGameplayWearTearHotkey",
+        "strBody"    : "Gameplay Tip:\n\nPressing 'X' (default hotkey) toggles a damage tooltip at the cursor.\n\nThis allows you to quickly identify damaged and worn out parts, even if they are hidden under other items.",
+        "strCategory" : "gameplay"
+    },
+    {
+        "strName" : "TipGameplayWhenInDoubtPause",
+        "strBody"    : "Gameplay Tip:\n\nWhen in doubt, pause.\n\nThere are many details to consider in Ostranauts, and every decision matters. But time is in your hands, and you can pause (or slow time) to take a breath whenever you like.",
+        "strCategory" : "gameplay"
+    },
+    {
+        "strName" : "TipGameplayLegalStatusHousing",
+        "strBody"    : "Gameplay Tip:\n\nWant free parking for a spare ship? Obtaining legal status with a colony may unlock opportunities to lease housing and free private docking.",
+        "strCategory" : "gameplay"
+    },
+    {
+        "strName" : "TipGameplayGravityFalls",
+        "strBody"    : "Gameplay Tip:\n\nDon't leave tools or crewmates outside during high-G maneuvers or near a gravity well. High G-forces will essentially jettison loose external items.",
+        "strCategory" : "gameplay"
+    },
+    {
+        "strName" : "TipGameplayDatafilesOpen",
+        "strBody"    : "Gameplay Tip:\n\nMany datafiles offer additional information, images, or cross-links if you open them using a PDA, Terminal, or Nav Station.\n\nNav Station data can also be transferred to a new Nav Station this way.",
+        "strCategory" : "gameplay"
+    },
+    {
+        "strName" : "TipGameplayAtmosphericFlight",
+        "strBody"    : "Gameplay Tip:\n\nPiloting in atmosphere is vastly different from piloting in zero-G. Try adding aerodynamic walls (for lift and reduced drag) or electric rotors (which function better in high density gas).",
+        "strCategory" : "gameplay"
+    },
+    {
+        "strName" : "TipCommunityAskForHelp",
+        "strBody"    : "Community Tip:\n\nEven the best players ask for help sometimes.\n\nBlue Bottle Games's social channels are open for players new and old alike!",
+        "strCategory" : "community"
+    },
+    {
+        "strName" : "TipCommunityDevQuestions",
+        "strBody"    : "Community Tip:\n\nThe Blue Bottle Games devs love answering questions about the game and its lore!",
+        "strCategory" : "community"
+    },
+    {
+        "strName" : "TipCommunityNS",
+        "strBody"    : "Community Tip:\n\nOstranauts is made by the same developer (and set in the same universe) as NEO Scavenger!",
+        "strCategory" : "community"
+    },
+    {
+        "strName" : "TipLoreStartDate",
+        "strBody"    : "Lore Snippet:\n\nOstranauts takes place in 2079, after an ablation cascade rendered Earth's orbit too dangerous to traverse.",
+        "strCategory" : "lore"
+    },
+    {
+        "strName" : "TipLoreCassetteFuturism",
+        "strBody"    : "Lore Snippet:\n\nThe aesthetic of Ostranauts is sometimes called \"Cassette Futurism.\"\n\n(A term the devs only recently learned themselves!)",
+        "strCategory" : "lore"
+    },
+    {
+        "strName" : "TipLoreFixer1",
+        "strBody"    : "Lore Snippet:\n\nThere are rumours of a black market trader buying and selling ship parts for better prices than the port kiosks, somewhere on OKLG station.",
+        "strCategory" : "lore"
+    },
+    {
+        "strName" : "TipLoreFixer2",
+        "strBody"    : "Lore Snippet:\n\nHarbourmaster Adeyemi vehemently denies the existence of a black market trade on OKLG.\n\n\"I run a tight ship. The only rats here are the ones I keep as pets\".",
+        "strCategory" : "lore"
+    }
+]

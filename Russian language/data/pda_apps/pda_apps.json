@@ -1,0 +1,82 @@
+[
+    {
+        "strName" : "home", 
+        "strFriendlyName" : "Домой", 
+        "strIcon" : "pda_apps/IcoPDAHome"
+    },
+    {
+        "strName" : "inventory", 
+        "strFriendlyName" : "Инвентарь", 
+        "strIcon" : "pda_apps/IcoPDAInv"
+    },
+    {
+        "strName" : "zones", 
+        "strFriendlyName" : "Зоны", 
+        "strIcon" : "pda_apps/IcoPDAZones"
+    },
+    {
+        "strName" : "goals", 
+        "strFriendlyName" : "Цели", 
+        "strIcon" : "pda_apps/IcoPDAObjectives"
+    },
+    {
+        "strName" : "roster", 
+        "strFriendlyName" : "Ростер", 
+        "strIcon" : "pda_apps/IcoPDADuties"
+    },
+    {
+        "strName" : "socials", 
+        "strFriendlyName" : "Социальные", 
+        "strIcon" : "pda_apps/IcoPDASocial"
+    },
+    {
+        "strName" : "gigs", 
+        "strFriendlyName" : "Выступления", 
+        "strIcon" : "pda_apps/IcoPDAGigNexus"
+    },
+    {
+        "strName" : "ferry", 
+        "strFriendlyName" : "P.A.S.S", 
+        "strIcon" : "pda_apps/IcoPDAPASS"
+    },
+    {
+        "strName" : "files", 
+        "strFriendlyName" : "Файлы", 
+        "strIcon" : "pda_apps/IcoPDAStorage"
+    },
+    {
+        "strName" : "navmap", 
+        "strFriendlyName" : "Карта", 
+        "strIcon" : "pda_apps/IcoPDANAV"
+    },
+    {
+        "strName" : "navlink", 
+        "strFriendlyName" : "Ссылки", 
+        "strIcon" : "pda_apps/IcoPDANAVLink"
+    },
+    {
+        "strName" : "tasks", 
+        "strFriendlyName" : "Задания", 
+        "strIcon" : "pda_apps/IcoPDARoster"
+    },
+    {
+        "strName" : "power", 
+        "strFriendlyName" : "Визуализация энергии", 
+        "strIcon" : "pda_apps/IcoPDAPower"
+    },
+    {
+        "strName" : "build", 
+        "strFriendlyName" : "Установка", 
+        "strIcon" : "pda_apps/IcoBuildMenu"
+    },
+    {
+        "strName" : "orders", 
+        "strFriendlyName" : "Заказы", 
+        "strIcon" : "pda_apps/IcoInteractionLarge"
+    },
+    {
+        "strName" : "exit", 
+        "strFriendlyName" : "Закрыть", 
+        "strIcon" : "pda_apps/IcoPDAExit1"
+    }
+  ]
