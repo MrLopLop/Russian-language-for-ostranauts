@@ -1,7 +1,0 @@
-[
-    { "strName" : "CTEVTScareBigBasic", "strCondName" : "", "fChance" : 1.0, "fCount" : 1.0, "aReqs" : [  ], "aForbids" : [ "IsAgliophobic", "IsApathetic", "IsBrave", "IsComedian", "IsCraven", "IsOptimist", "IsPessimist", "IsQuitter", "IsSelfish", "IsSelfless" ], "aTriggers" : [ ], "bAND" : true },
-    { "strName" : "TIsNotBustedCooldown", "strCondName" : "", "fChance" : 1.0, "fCount" : 1.0, "aReqs" : [ ], "aForbids" : [ "IsBustedCooldown" ], "aTriggers" : [ ], "bAND" : true },
-    { "strName" : "TIsNotClobberCooldown", "strCondName" : "", "fChance" : 1.0, "fCount" : 1.0, "aReqs" : [ ], "aForbids" : [ "IsClobberCooldown" ], "aTriggers" : [ "TIsPlayerAwake" ], "bAND" : true },
-    { "strName" : "TIsNotCrashCooldown", "strCondName" : "", "fChance" : 1.0, "fCount" : 1.0, "aReqs" : [ ], "aForbids" : [ "IsCrashCooldown" ], "aTriggers" : [ ], "bAND" : true },
-    { "strName" : "TIsNotVoidCooldown", "strCondName" : "", "fChance" : 1.0, "fCount" : 1.0, "aReqs" : [ ], "aForbids" : [ "IsVoidCooldown" ], "aTriggers" : [ ], "bAND" : true }
-]
