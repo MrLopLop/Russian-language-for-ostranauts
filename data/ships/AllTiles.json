@@ -1,0 +1,1978 @@
+
+[
+  {
+    "strName" : "AllTiles",
+    "strRegID" : "E-WDCB",
+    "nCurrentWaypoint" : -1,
+    "fTimeEngaged"     : 0.3301088,
+    "fWearManeuver"    : 0.0,
+    "fWearAccrued"     : 0.0,
+    "aItems"           : [
+      {
+        "strName" : "ItmFloorRYOF01",
+        "fX"      : -11.0,
+        "fY"      : 6.0,
+        "fRotation" : 0.0,
+        "strID"     : "d55eced8-e00a-495e-9725-8af5de01a655",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmFloorRYOF02",
+        "fX"      : -10.0,
+        "fY"      : 6.0,
+        "fRotation" : 0.0,
+        "strID"     : "00f41eb8-e797-43f5-afde-34dd3ed80cb2",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmFloorRYOF03",
+        "fX"      : -9.0,
+        "fY"      : 6.0,
+        "fRotation" : 0.0,
+        "strID"     : "97558aea-86bf-4d36-a338-7e7738aacf6a",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmFloorRYOF04",
+        "fX"      : -8.0,
+        "fY"      : 6.0,
+        "fRotation" : 0.0,
+        "strID"     : "710735f3-bbc1-4c33-9381-9ab474c1a074",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmFloorRYOF05",
+        "fX"      : -7.0,
+        "fY"      : 6.0,
+        "fRotation" : 0.0,
+        "strID"     : "670b4150-bf47-4af9-9762-09ea05717905",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallRYOB01",
+        "fX"      : -11.0,
+        "fY"      : 4.0,
+        "fRotation" : 0.0,
+        "strID"     : "6babd984-da7c-448b-ab91-91943c6abfaf",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallRYOB01",
+        "fX"      : -10.0,
+        "fY"      : 4.0,
+        "fRotation" : 0.0,
+        "strID"     : "e6d12462-bebb-4380-aad0-845a62dbd582",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallRYOB01",
+        "fX"      : -9.0,
+        "fY"      : 4.0,
+        "fRotation" : 0.0,
+        "strID"     : "51789172-605f-475a-8f54-4268eb5e0132",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallRYOB01",
+        "fX"      : -8.0,
+        "fY"      : 4.0,
+        "fRotation" : 0.0,
+        "strID"     : "22bdcd3e-b7d8-45e3-a93e-49ae77665de5",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallRYOB01",
+        "fX"      : -7.0,
+        "fY"      : 4.0,
+        "fRotation" : 0.0,
+        "strID"     : "902c1e9e-e57e-46a5-bb99-1931a94dc368",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallRYOB01",
+        "fX"      : -7.0,
+        "fY"      : 3.0,
+        "fRotation" : 0.0,
+        "strID"     : "ebd4629c-604d-402a-abff-75371cd52a26",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallRYOB01",
+        "fX"      : -7.0,
+        "fY"      : 2.0,
+        "fRotation" : 0.0,
+        "strID"     : "32edd0f4-43d2-4956-8aef-d881f6f0463a",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallRYOB01",
+        "fX"      : -7.0,
+        "fY"      : 1.0,
+        "fRotation" : 0.0,
+        "strID"     : "2a435035-5dda-4a98-98f5-cdb7c75e18a1",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallRYOB01",
+        "fX"      : -8.0,
+        "fY"      : 1.0,
+        "fRotation" : 0.0,
+        "strID"     : "b56040f2-80eb-4429-bb14-e3b38f81e299",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallRYOB01",
+        "fX"      : -9.0,
+        "fY"      : 1.0,
+        "fRotation" : 0.0,
+        "strID"     : "ae4da8ee-bb67-4fe3-9d31-50b44794e741",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallRYOB01",
+        "fX"      : -10.0,
+        "fY"      : 1.0,
+        "fRotation" : 0.0,
+        "strID"     : "5f9534f6-e9f6-4bf7-b16e-4f44cecd27f2",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallRYOB01",
+        "fX"      : -11.0,
+        "fY"      : 1.0,
+        "fRotation" : 0.0,
+        "strID"     : "cf43d008-ca48-4074-9d5c-a0af8463989d",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallRYOB01",
+        "fX"      : -11.0,
+        "fY"      : 2.0,
+        "fRotation" : 0.0,
+        "strID"     : "63ab92c4-0786-4f0c-8cb9-d6b78fc62887",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallRYOB01",
+        "fX"      : -11.0,
+        "fY"      : 3.0,
+        "fRotation" : 0.0,
+        "strID"     : "5f657a27-6337-4321-8d18-9e9077830aa1",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallRYOB01",
+        "fX"      : -9.0,
+        "fY"      : 3.0,
+        "fRotation" : 0.0,
+        "strID"     : "e142a87c-fd89-4115-8e59-09d3b18f979d",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallRYOB01",
+        "fX"      : -9.0,
+        "fY"      : 2.0,
+        "fRotation" : 0.0,
+        "strID"     : "c578dd58-e1cd-442b-bffc-4d0562074c75",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallRYOB01",
+        "fX"      : -11.0,
+        "fY"      : 0.0,
+        "fRotation" : 0.0,
+        "strID"     : "fcf180a3-29fc-4bca-9f56-9d27c9644188",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallRYOB01",
+        "fX"      : -11.0,
+        "fY"      : -1.0,
+        "fRotation" : 0.0,
+        "strID"     : "6b993011-f11d-49d0-9e24-beba036f5f9c",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallRYOB01",
+        "fX"      : -10.0,
+        "fY"      : -1.0,
+        "fRotation" : 0.0,
+        "strID"     : "4aeba7c9-99cb-4f3d-a2cb-456b07f16034",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallRYOB01",
+        "fX"      : -9.0,
+        "fY"      : -1.0,
+        "fRotation" : 0.0,
+        "strID"     : "32c08b3b-3c73-4023-9a09-9ae54a37428f",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallRYOB01",
+        "fX"      : -8.0,
+        "fY"      : -1.0,
+        "fRotation" : 0.0,
+        "strID"     : "265cd26a-f04f-4f45-8c88-96bd8d1868f9",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallRYOB01",
+        "fX"      : -7.0,
+        "fY"      : -1.0,
+        "fRotation" : 0.0,
+        "strID"     : "6499c3ef-665d-4aaa-bb52-63bee0e76eed",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallRYOB01",
+        "fX"      : -7.0,
+        "fY"      : 0.0,
+        "fRotation" : 0.0,
+        "strID"     : "8043a771-9850-44b5-ba58-e754835efaf0",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallRYOB01",
+        "fX"      : -9.0,
+        "fY"      : 0.0,
+        "fRotation" : 0.0,
+        "strID"     : "05377a84-c69f-409c-985a-eb4019463dbb",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallRYOB01",
+        "fX"      : -10.0,
+        "fY"      : 2.0,
+        "fRotation" : 0.0,
+        "strID"     : "7e592988-165a-47e7-957c-6c8394f7ef6a",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmFloorMSSLFWhite01",
+        "fX"      : -5.0,
+        "fY"      : 6.0,
+        "fRotation" : 0.0,
+        "strID"     : "7b835060-393c-4ef2-a0be-14c17b2867c4",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmFloorMSSLFWhite02",
+        "fX"      : -4.0,
+        "fY"      : 6.0,
+        "fRotation" : 0.0,
+        "strID"     : "e48da062-5b0d-4a84-95a1-bb421bd45c72",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmFloorMSSLFWhite03",
+        "fX"      : -3.0,
+        "fY"      : 6.0,
+        "fRotation" : 0.0,
+        "strID"     : "3a68f6f3-9731-4719-bb53-c74dd1369ea6",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmFloorMSSLFWhite04",
+        "fX"      : -2.0,
+        "fY"      : 6.0,
+        "fRotation" : 0.0,
+        "strID"     : "bfbc5ce4-f15d-4422-89bb-97178baa4168",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmFloorMSSLFWhite05",
+        "fX"      : -1.0,
+        "fY"      : 6.0,
+        "fRotation" : 0.0,
+        "strID"     : "b09eaf48-9749-4f26-8fe6-0aa8b63df5b7",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmFloorMSSOW01",
+        "fX"      : -5.0,
+        "fY"      : 5.0,
+        "fRotation" : 0.0,
+        "strID"     : "48706991-3fb4-4e52-9ad7-e12730bec143",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmFloorMSSOW02",
+        "fX"      : -4.0,
+        "fY"      : 5.0,
+        "fRotation" : 0.0,
+        "strID"     : "58014931-f80c-48e1-bca3-8cab42db0888",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmFloorMSSOW03",
+        "fX"      : -3.0,
+        "fY"      : 5.0,
+        "fRotation" : 0.0,
+        "strID"     : "32924380-78cb-4e01-9a7a-bb5ab4e6aa82",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmFloorMSSOW04",
+        "fX"      : -2.0,
+        "fY"      : 5.0,
+        "fRotation" : 0.0,
+        "strID"     : "9672197a-1ed5-4217-ae03-e89e6a3db349",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmFloorMSSOW05",
+        "fX"      : -1.0,
+        "fY"      : 5.0,
+        "fRotation" : 0.0,
+        "strID"     : "e068c9ce-43c2-4de3-8213-7f43f2dbc5ae",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallMSSLFWhite",
+        "fX"      : -5.0,
+        "fY"      : 3.0,
+        "fRotation" : 0.0,
+        "strID"     : "2faed50c-b46d-4ffc-859d-fcb6f562f797",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallMSSLFWhite",
+        "fX"      : -5.0,
+        "fY"      : 2.0,
+        "fRotation" : 0.0,
+        "strID"     : "e4895f4d-fa65-4aa9-8611-268e437f080e",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallMSSLFWhite",
+        "fX"      : -5.0,
+        "fY"      : 1.0,
+        "fRotation" : 0.0,
+        "strID"     : "023ecbba-c3c5-492e-a2f0-428f1684c34d",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallMSSLFWhite",
+        "fX"      : -5.0,
+        "fY"      : 0.0,
+        "fRotation" : 0.0,
+        "strID"     : "8026b5c0-dd24-4f65-abfe-c6349c30cdbb",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallMSSLFWhite",
+        "fX"      : -5.0,
+        "fY"      : -1.0,
+        "fRotation" : 0.0,
+        "strID"     : "2fc18fff-bea6-43de-91fa-548d05ae525d",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallMSSLFWhite",
+        "fX"      : -2.0,
+        "fY"      : 0.0,
+        "fRotation" : 0.0,
+        "strID"     : "4e4c79c3-208e-4287-a4dd-a715e952b389",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallMSSLFWhite",
+        "fX"      : -3.0,
+        "fY"      : -1.0,
+        "fRotation" : 0.0,
+        "strID"     : "5aa78795-e867-4186-9f3d-e8bb5a2ae981",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmFloorTSDO01",
+        "fX"      : 1.0,
+        "fY"      : 6.0,
+        "fRotation" : 0.0,
+        "strID"     : "ee7681a5-6a94-4a24-ab42-59ef5e8c480a",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallMSSLFWhite",
+        "fX"      : -1.0,
+        "fY"      : -1.0,
+        "fRotation" : 0.0,
+        "strID"     : "7e537e7d-535b-4fa9-89ce-47165e8477a9",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallMSSLFWhite",
+        "fX"      : -1.0,
+        "fY"      : 0.0,
+        "fRotation" : 0.0,
+        "strID"     : "7249024b-36ba-496b-8974-29168a771f24",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallMSSLFWhite",
+        "fX"      : -1.0,
+        "fY"      : 1.0,
+        "fRotation" : 0.0,
+        "strID"     : "6b5fcd3c-0fab-4294-8177-0fb8f9fcc471",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallMSSLFWhite",
+        "fX"      : -1.0,
+        "fY"      : 2.0,
+        "fRotation" : 0.0,
+        "strID"     : "5ae8f88b-1545-4227-bb55-6b000f1f65cd",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallMSSLFWhite",
+        "fX"      : -1.0,
+        "fY"      : 3.0,
+        "fRotation" : 0.0,
+        "strID"     : "42b9d5a8-f270-4646-95c0-13a85d230d08",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallMSSLFWhite",
+        "fX"      : -2.0,
+        "fY"      : 3.0,
+        "fRotation" : 0.0,
+        "strID"     : "e8374d32-37f9-4dfa-afaa-554d1320e396",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallMSSLFWhite",
+        "fX"      : -3.0,
+        "fY"      : 3.0,
+        "fRotation" : 0.0,
+        "strID"     : "4e168009-a28b-4d95-85dd-26c241bf348c",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallMSSLFWhite",
+        "fX"      : -4.0,
+        "fY"      : 3.0,
+        "fRotation" : 0.0,
+        "strID"     : "0cac649e-dbe0-4a2d-963f-ecdf78a89db8",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallMSSLFWhite",
+        "fX"      : -4.0,
+        "fY"      : 1.0,
+        "fRotation" : 0.0,
+        "strID"     : "d2f3f4d3-ae56-4bc0-9ca8-a7470e7adb13",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallMSSLFWhite",
+        "fX"      : -3.0,
+        "fY"      : 1.0,
+        "fRotation" : 0.0,
+        "strID"     : "9b57dcbe-2b1e-4dc3-8b76-78f67a5f3c9c",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallMSSLFWhite",
+        "fX"      : -4.0,
+        "fY"      : 0.0,
+        "fRotation" : 0.0,
+        "strID"     : "80e22d99-359b-4407-af26-ae96bc271f04",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallMSSLFWhite",
+        "fX"      : -3.0,
+        "fY"      : 2.0,
+        "fRotation" : 0.0,
+        "strID"     : "8c599c27-ea64-40ed-a5ad-079303556a48",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallMSSLFWhite",
+        "fX"      : -3.0,
+        "fY"      : 0.0,
+        "fRotation" : 0.0,
+        "strID"     : "e196dd8f-a2d4-47b7-a322-50fe98f25cf6",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallMSSLFWhite",
+        "fX"      : -5.0,
+        "fY"      : -2.0,
+        "fRotation" : 0.0,
+        "strID"     : "2068bc82-feb9-45c3-8723-b9802da9ae1c",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallMSSLFWhite",
+        "fX"      : -4.0,
+        "fY"      : -2.0,
+        "fRotation" : 0.0,
+        "strID"     : "854017db-aaeb-466b-b32d-018cb6f2c055",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallMSSLFWhite",
+        "fX"      : -3.0,
+        "fY"      : -2.0,
+        "fRotation" : 0.0,
+        "strID"     : "549dd67a-2d9c-4df2-b17e-3baf1e5d99ff",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallMSSLFWhite",
+        "fX"      : -2.0,
+        "fY"      : -2.0,
+        "fRotation" : 0.0,
+        "strID"     : "fd9baf51-5a96-406d-ae50-fd4d7d1e67e8",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallMSSLFWhite",
+        "fX"      : -1.0,
+        "fY"      : -2.0,
+        "fRotation" : 0.0,
+        "strID"     : "9eb7976b-5392-4b5f-9e1f-06756f0aa83e",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmFloorTSDO02",
+        "fX"      : 2.0,
+        "fY"      : 6.0,
+        "fRotation" : 0.0,
+        "strID"     : "ee5f3ee6-bfbd-4dcb-88fd-79c217b821ee",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmFloorTSDO03",
+        "fX"      : 3.0,
+        "fY"      : 6.0,
+        "fRotation" : 0.0,
+        "strID"     : "c7987b93-4e0c-4132-9b6b-9216923727f9",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmFloorTSDO04",
+        "fX"      : 4.0,
+        "fY"      : 6.0,
+        "fRotation" : 0.0,
+        "strID"     : "286f82ba-7cd4-4775-a0a4-597cccd1733f",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmFloorTSDO05",
+        "fX"      : 5.0,
+        "fY"      : 6.0,
+        "fRotation" : 0.0,
+        "strID"     : "70b1f53d-7bf8-4db7-bd83-eb3a9a3dfc42",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmFloorTSDO46_01",
+        "fX"      : 1.0,
+        "fY"      : 5.0,
+        "fRotation" : 0.0,
+        "strID"     : "4581f0f9-a1b0-4003-b08a-96a4b2c22bc7",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmFloorTSDO46_02",
+        "fX"      : 2.0,
+        "fY"      : 5.0,
+        "fRotation" : 0.0,
+        "strID"     : "57bd0112-546c-46b5-997d-e5af73fe3dbc",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmFloorTSDO46_03",
+        "fX"      : 3.0,
+        "fY"      : 5.0,
+        "fRotation" : 0.0,
+        "strID"     : "b49925fd-1c0a-421b-8cf1-26b5b1d960ed",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmFloorTSDO46_04",
+        "fX"      : 4.0,
+        "fY"      : 5.0,
+        "fRotation" : 0.0,
+        "strID"     : "e3649fd6-ec47-4d18-8774-b2e66e20f383",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmFloorTSDO46_05",
+        "fX"      : 5.0,
+        "fY"      : 5.0,
+        "fRotation" : 0.0,
+        "strID"     : "8f4c8577-0f05-4070-941a-45ce9f1158bb",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallTSDO01",
+        "fX"      : 1.0,
+        "fY"      : 3.0,
+        "fRotation" : 0.0,
+        "strID"     : "94184e92-0e41-483d-bb08-6174a0435e5d",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallTSDO01",
+        "fX"      : 1.0,
+        "fY"      : 2.0,
+        "fRotation" : 0.0,
+        "strID"     : "979bdbb5-9608-4e5a-b997-f408c1d18be5",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallTSDO01",
+        "fX"      : 1.0,
+        "fY"      : 1.0,
+        "fRotation" : 0.0,
+        "strID"     : "28d18b65-0196-4e1a-9672-3906fe78ca4d",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallTSDO01",
+        "fX"      : 1.0,
+        "fY"      : 0.0,
+        "fRotation" : 0.0,
+        "strID"     : "af4a43e2-d73f-4a3f-bc40-09deca6b82c0",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallTSDO01",
+        "fX"      : 1.0,
+        "fY"      : -1.0,
+        "fRotation" : 0.0,
+        "strID"     : "e5e44858-6acc-45aa-9210-daeb46e4a211",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallTSDO01",
+        "fX"      : 1.0,
+        "fY"      : -2.0,
+        "fRotation" : 0.0,
+        "strID"     : "e8a61bbc-fa55-4422-a178-89c76e2557df",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallTSDO01",
+        "fX"      : 2.0,
+        "fY"      : -2.0,
+        "fRotation" : 0.0,
+        "strID"     : "4e2a8c14-a192-4655-95a5-cc8485de7162",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallTSDO01",
+        "fX"      : 3.0,
+        "fY"      : -2.0,
+        "fRotation" : 0.0,
+        "strID"     : "55fb9581-ca5e-4cb2-b7b4-ff0a046bb357",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallTSDO01",
+        "fX"      : 4.0,
+        "fY"      : -2.0,
+        "fRotation" : 0.0,
+        "strID"     : "e2e979ef-3c95-4df3-9107-27131647a199",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallTSDO01",
+        "fX"      : 5.0,
+        "fY"      : -2.0,
+        "fRotation" : 0.0,
+        "strID"     : "815eb7e0-ffb1-48cb-8942-da870d7c04c8",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallTSDO01",
+        "fX"      : 5.0,
+        "fY"      : -1.0,
+        "fRotation" : 0.0,
+        "strID"     : "5534a4c9-0c49-4ee0-8316-53bf4e384f8a",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallTSDO01",
+        "fX"      : 5.0,
+        "fY"      : 0.0,
+        "fRotation" : 0.0,
+        "strID"     : "ba757070-b5e3-44c3-824c-39c77e640838",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallTSDO01",
+        "fX"      : 5.0,
+        "fY"      : 1.0,
+        "fRotation" : 0.0,
+        "strID"     : "07e844ef-c27a-4227-a022-42ac80c52a3f",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallTSDO01",
+        "fX"      : 5.0,
+        "fY"      : 2.0,
+        "fRotation" : 0.0,
+        "strID"     : "303240c9-4209-4f67-8ac6-2c0bad6dc95f",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallTSDO01",
+        "fX"      : 5.0,
+        "fY"      : 3.0,
+        "fRotation" : 0.0,
+        "strID"     : "f04e9c46-f14a-4e04-a8b4-1c8bbb17268d",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallTSDO01",
+        "fX"      : 4.0,
+        "fY"      : 3.0,
+        "fRotation" : 0.0,
+        "strID"     : "adb6da00-86bd-4db1-a4e1-91fc2ea6793f",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallTSDO01",
+        "fX"      : 3.0,
+        "fY"      : 3.0,
+        "fRotation" : 0.0,
+        "strID"     : "460b7d70-0d73-41b1-9247-0fba55e92c10",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallTSDO01",
+        "fX"      : 2.0,
+        "fY"      : 3.0,
+        "fRotation" : 0.0,
+        "strID"     : "0bbf4640-69a1-453f-9361-5257dc87c178",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallTSDO01",
+        "fX"      : 3.0,
+        "fY"      : 2.0,
+        "fRotation" : 0.0,
+        "strID"     : "2922ce9a-e04a-44dd-aa44-e27b12cde14d",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallTSDO01",
+        "fX"      : 3.0,
+        "fY"      : 1.0,
+        "fRotation" : 0.0,
+        "strID"     : "8da7bd08-e7ee-439b-933a-0363bff9313f",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallTSDO01",
+        "fX"      : 3.0,
+        "fY"      : 0.0,
+        "fRotation" : 0.0,
+        "strID"     : "1761cd29-fa72-474f-a53c-e64f3c95f02c",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallTSDO01",
+        "fX"      : 3.0,
+        "fY"      : -1.0,
+        "fRotation" : 0.0,
+        "strID"     : "2965f207-f6b2-4176-bc9c-3c4b50ad8e3d",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallTSDO01",
+        "fX"      : 2.0,
+        "fY"      : 0.0,
+        "fRotation" : 0.0,
+        "strID"     : "a3239472-8ab5-4c5b-a616-9dc990afe293",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallTSDO01",
+        "fX"      : 4.0,
+        "fY"      : 0.0,
+        "fRotation" : 0.0,
+        "strID"     : "09bcc891-0a92-49a1-8135-a99a9221f45b",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallTSDO01",
+        "fX"      : 2.0,
+        "fY"      : 1.0,
+        "fRotation" : 0.0,
+        "strID"     : "37bafd7c-1234-406b-a63b-0bbddb9faac7",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallTSDO44",
+        "fX"      : 1.0,
+        "fY"      : -4.0,
+        "fRotation" : 0.0,
+        "strID"     : "76dd9200-693a-4258-bce8-1de3287b8a7b",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallTSDO44",
+        "fX"      : 1.0,
+        "fY"      : -5.0,
+        "fRotation" : 0.0,
+        "strID"     : "a63307ae-bad4-47ea-abdf-cdf891e01ef6",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallTSDO44",
+        "fX"      : 1.0,
+        "fY"      : -6.0,
+        "fRotation" : 0.0,
+        "strID"     : "1de5a3bf-3a97-43f2-87ad-3adf5bc8cb02",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallTSDO44",
+        "fX"      : 1.0,
+        "fY"      : -7.0,
+        "fRotation" : 0.0,
+        "strID"     : "f531793e-7a12-4e90-8f06-63934fbaa759",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallTSDO44",
+        "fX"      : 2.0,
+        "fY"      : -4.0,
+        "fRotation" : 0.0,
+        "strID"     : "8334afb4-af60-4fe8-8fb2-11eac8a5feec",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallTSDO44",
+        "fX"      : 3.0,
+        "fY"      : -4.0,
+        "fRotation" : 0.0,
+        "strID"     : "8412cded-261c-4c22-a9af-0703fc14a772",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallTSDO44",
+        "fX"      : 4.0,
+        "fY"      : -4.0,
+        "fRotation" : 0.0,
+        "strID"     : "12ae75de-9be7-4f2e-a75e-05ad6ec810d9",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallTSDO44",
+        "fX"      : 5.0,
+        "fY"      : -4.0,
+        "fRotation" : 0.0,
+        "strID"     : "a09dc12b-8179-481f-9b3e-7d073252c774",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallTSDO44",
+        "fX"      : 5.0,
+        "fY"      : -5.0,
+        "fRotation" : 0.0,
+        "strID"     : "b0c38e86-ff6b-48c3-9d5e-5f3dca8e6c27",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallTSDO44",
+        "fX"      : 5.0,
+        "fY"      : -6.0,
+        "fRotation" : 0.0,
+        "strID"     : "253efd36-4042-4f12-9390-1f19ddb2960f",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallTSDO44",
+        "fX"      : 5.0,
+        "fY"      : -7.0,
+        "fRotation" : 0.0,
+        "strID"     : "b0900351-e79e-442f-a093-46e0898d374e",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallTSDO44",
+        "fX"      : 5.0,
+        "fY"      : -8.0,
+        "fRotation" : 0.0,
+        "strID"     : "98227fc8-cc98-4cf3-8b31-4b8735656523",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallTSDO44",
+        "fX"      : 5.0,
+        "fY"      : -9.0,
+        "fRotation" : 0.0,
+        "strID"     : "122b4d66-2284-42bf-84ff-86b8011dbe13",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallTSDO44",
+        "fX"      : 4.0,
+        "fY"      : -9.0,
+        "fRotation" : 0.0,
+        "strID"     : "958fba3b-ca4c-4cc0-99fd-eb260f636c40",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallTSDO44",
+        "fX"      : 3.0,
+        "fY"      : -9.0,
+        "fRotation" : 0.0,
+        "strID"     : "8406ac05-21e7-44eb-9a5e-b9dcd419b254",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallTSDO44",
+        "fX"      : 2.0,
+        "fY"      : -9.0,
+        "fRotation" : 0.0,
+        "strID"     : "cb224261-c105-41a9-bc71-6ebc5f472411",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallTSDO44",
+        "fX"      : 1.0,
+        "fY"      : -9.0,
+        "fRotation" : 0.0,
+        "strID"     : "85154e97-23d6-41e6-86b0-5a8d78e73651",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallTSDO44",
+        "fX"      : 1.0,
+        "fY"      : -8.0,
+        "fRotation" : 0.0,
+        "strID"     : "cbbd02b1-107b-45f6-9fc6-c44013bfb207",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallTSDO44",
+        "fX"      : 2.0,
+        "fY"      : -7.0,
+        "fRotation" : 0.0,
+        "strID"     : "78339409-f55f-4c46-a92d-e7a749dd9b57",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallTSDO44",
+        "fX"      : 3.0,
+        "fY"      : -7.0,
+        "fRotation" : 0.0,
+        "strID"     : "3aa57e59-f737-4054-8a53-dd831f66815b",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallTSDO44",
+        "fX"      : 4.0,
+        "fY"      : -7.0,
+        "fRotation" : 0.0,
+        "strID"     : "38156fde-0967-4bba-b84e-56ad632c2b72",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallTSDO44",
+        "fX"      : 3.0,
+        "fY"      : -5.0,
+        "fRotation" : 0.0,
+        "strID"     : "b1d14300-148a-4497-ba7d-15d4f963fd66",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallTSDO44",
+        "fX"      : 3.0,
+        "fY"      : -6.0,
+        "fRotation" : 0.0,
+        "strID"     : "8d1d55a8-f6d8-42c4-bdb5-52151a3e62b3",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallTSDO44",
+        "fX"      : 3.0,
+        "fY"      : -8.0,
+        "fRotation" : 0.0,
+        "strID"     : "a2d8c160-d760-48ff-a5be-8918472bffae",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallTSDO44",
+        "fX"      : 2.0,
+        "fY"      : -6.0,
+        "fRotation" : 0.0,
+        "strID"     : "703fbab7-2891-4834-94d8-b450c31eba86",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmFloorVHF01",
+        "fX"      : 7.0,
+        "fY"      : 6.0,
+        "fRotation" : 0.0,
+        "strID"     : "a3ada5d3-aaf3-4c5f-bf87-af0062c7cb06",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmFloorVHF02",
+        "fX"      : 8.0,
+        "fY"      : 6.0,
+        "fRotation" : 0.0,
+        "strID"     : "44fc0b6e-af7e-468d-8378-5f3023c1e1cb",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmFloorVHF03",
+        "fX"      : 9.0,
+        "fY"      : 6.0,
+        "fRotation" : 0.0,
+        "strID"     : "4f698238-ff6c-4a38-b68a-8cf2950d3dfb",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmFloorVHF04",
+        "fX"      : 10.0,
+        "fY"      : 6.0,
+        "fRotation" : 0.0,
+        "strID"     : "8177e63b-74b8-4f2e-a8b3-2bfee0ab597b",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmFloorVHF05",
+        "fX"      : 11.0,
+        "fY"      : 6.0,
+        "fRotation" : 0.0,
+        "strID"     : "8b2748bc-5468-49f7-9ed1-f50a1274af7f",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallVHRB",
+        "fX"      : 7.0,
+        "fY"      : 3.0,
+        "fRotation" : 0.0,
+        "strID"     : "bfc35058-d869-4b2f-a40f-a0662d4a4d17",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallVHRB",
+        "fX"      : 7.0,
+        "fY"      : 2.0,
+        "fRotation" : 0.0,
+        "strID"     : "a55a26a6-fd5f-4049-a1f6-9a5e23fcd8f6",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallVHRB",
+        "fX"      : 7.0,
+        "fY"      : 1.0,
+        "fRotation" : 0.0,
+        "strID"     : "fd71fd6e-1de9-40a0-9f57-2ad03b66e85b",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallVHRB",
+        "fX"      : 7.0,
+        "fY"      : 0.0,
+        "fRotation" : 0.0,
+        "strID"     : "bb0981b4-5083-44d7-9aea-051a7d0b9fcf",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallVHRB",
+        "fX"      : 7.0,
+        "fY"      : -1.0,
+        "fRotation" : 0.0,
+        "strID"     : "662de806-f75e-4de8-aa98-a818a01e5b8d",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallVHRB",
+        "fX"      : 7.0,
+        "fY"      : -2.0,
+        "fRotation" : 0.0,
+        "strID"     : "6d4503fb-bfaf-40cd-852d-96ff9fb331cb",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallVHRB",
+        "fX"      : 8.0,
+        "fY"      : -2.0,
+        "fRotation" : 0.0,
+        "strID"     : "b815ad3f-bde1-41db-b45f-9ec51cb05456",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallVHRB",
+        "fX"      : 9.0,
+        "fY"      : -2.0,
+        "fRotation" : 0.0,
+        "strID"     : "4dafb8f6-5e02-4b6d-bc9f-820f42dc4524",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallVHRB",
+        "fX"      : 10.0,
+        "fY"      : -2.0,
+        "fRotation" : 0.0,
+        "strID"     : "fb25bc93-0042-4b41-93e6-91a696cc7203",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallVHRB",
+        "fX"      : 11.0,
+        "fY"      : -2.0,
+        "fRotation" : 0.0,
+        "strID"     : "a427bc83-f225-4b00-ac32-2a06c1bd36b2",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallVHRB",
+        "fX"      : 11.0,
+        "fY"      : -1.0,
+        "fRotation" : 0.0,
+        "strID"     : "402de51e-0635-48f0-a5f9-0b57756dac75",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallVHRB",
+        "fX"      : 11.0,
+        "fY"      : 0.0,
+        "fRotation" : 0.0,
+        "strID"     : "9e4f3f35-4dfc-4eff-993c-502fa5ff6835",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallVHRB",
+        "fX"      : 11.0,
+        "fY"      : 1.0,
+        "fRotation" : 0.0,
+        "strID"     : "ac63a105-c524-4b66-988a-43d250875da9",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallVHRB",
+        "fX"      : 11.0,
+        "fY"      : 2.0,
+        "fRotation" : 0.0,
+        "strID"     : "3c064e53-d5b0-4f21-b079-6fb3894def57",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallVHRB",
+        "fX"      : 11.0,
+        "fY"      : 3.0,
+        "fRotation" : 0.0,
+        "strID"     : "2a3462df-5495-4fde-8067-84c99fe1e512",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallVHRB",
+        "fX"      : 10.0,
+        "fY"      : 3.0,
+        "fRotation" : 0.0,
+        "strID"     : "6ddd79b5-b6ac-4da9-ba12-f487949ae2fa",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallVHRB",
+        "fX"      : 9.0,
+        "fY"      : 3.0,
+        "fRotation" : 0.0,
+        "strID"     : "20d67e55-4030-40db-996d-78998736425b",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallVHRB",
+        "fX"      : 8.0,
+        "fY"      : 3.0,
+        "fRotation" : 0.0,
+        "strID"     : "fa83d11a-f8ab-44e5-ae40-229f6a4e25b1",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallVHRB",
+        "fX"      : 8.0,
+        "fY"      : 0.0,
+        "fRotation" : 0.0,
+        "strID"     : "43f48d8b-fab9-43e0-8121-099195040943",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallVHRB",
+        "fX"      : 9.0,
+        "fY"      : 0.0,
+        "fRotation" : 0.0,
+        "strID"     : "641ef2f4-df6a-4163-839c-ef0cf182dfe8",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallVHRB",
+        "fX"      : 10.0,
+        "fY"      : 0.0,
+        "fRotation" : 0.0,
+        "strID"     : "62aacd8b-a5b0-4218-b707-2ac53b679a0e",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallVHRB",
+        "fX"      : 9.0,
+        "fY"      : 2.0,
+        "fRotation" : 0.0,
+        "strID"     : "7a1d2ca7-0dfc-4cf9-9dd3-38a2712c01f2",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallVHRB",
+        "fX"      : 9.0,
+        "fY"      : 1.0,
+        "fRotation" : 0.0,
+        "strID"     : "f95c5795-5fb0-489f-ba73-dacf512dae76",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallVHRB",
+        "fX"      : 9.0,
+        "fY"      : -1.0,
+        "fRotation" : 0.0,
+        "strID"     : "37812082-c0cd-46c5-8448-d7b9905db822",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "ItmWallVHRB",
+        "fX"      : 8.0,
+        "fY"      : 1.0,
+        "fRotation" : 0.0,
+        "strID"     : "fedbe5cc-6b7e-4890-b276-8e3a46bc8e48",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "Compartment",
+        "fX"      : -12.0,
+        "fY"      : 7.0,
+        "fRotation" : 0.0,
+        "strID"     : "f3bee97b-b1fa-4469-ba26-dae9f7295309",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "Compartment",
+        "fX"      : -10.0,
+        "fY"      : 3.0,
+        "fRotation" : 0.0,
+        "strID"     : "e421039f-7b37-41a2-a3b6-67135101cd06",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "Compartment",
+        "fX"      : -8.0,
+        "fY"      : 3.0,
+        "fRotation" : 0.0,
+        "strID"     : "851fabfa-42f8-4831-8c79-db1f095833a1",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "Compartment",
+        "fX"      : -4.0,
+        "fY"      : 2.0,
+        "fRotation" : 0.0,
+        "strID"     : "1ce3a774-9c3b-4582-8720-f46aef9e74bc",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "Compartment",
+        "fX"      : -2.0,
+        "fY"      : 2.0,
+        "fRotation" : 0.0,
+        "strID"     : "60bbebf8-24a8-4225-aa91-c96795f10863",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "Compartment",
+        "fX"      : 2.0,
+        "fY"      : 2.0,
+        "fRotation" : 0.0,
+        "strID"     : "6ec3f57f-3785-4a12-b7c7-1fdb4d0f0627",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "Compartment",
+        "fX"      : 4.0,
+        "fY"      : 2.0,
+        "fRotation" : 0.0,
+        "strID"     : "23e29981-a858-4428-b88c-9085814fbfda",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "Compartment",
+        "fX"      : 8.0,
+        "fY"      : 2.0,
+        "fRotation" : 0.0,
+        "strID"     : "234c1414-ce57-41de-8f8a-4994c7d8da88",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "Compartment",
+        "fX"      : 10.0,
+        "fY"      : 2.0,
+        "fRotation" : 0.0,
+        "strID"     : "383395ae-30cd-4811-a798-5b37f45e35d9",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "Compartment",
+        "fX"      : -10.0,
+        "fY"      : 0.0,
+        "fRotation" : 0.0,
+        "strID"     : "6d28e128-6349-44ec-aa33-1c3b31e77b24",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "Compartment",
+        "fX"      : -8.0,
+        "fY"      : 0.0,
+        "fRotation" : 0.0,
+        "strID"     : "fa2f7ded-6866-4b6e-89d8-3cea7e071b86",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "Compartment",
+        "fX"      : -4.0,
+        "fY"      : -1.0,
+        "fRotation" : 0.0,
+        "strID"     : "410a15fb-ba4c-440d-a47b-94942efd36f5",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "Compartment",
+        "fX"      : -2.0,
+        "fY"      : -1.0,
+        "fRotation" : 0.0,
+        "strID"     : "8fccb6dd-2ad1-470c-aaf5-d7b7877212d4",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "Compartment",
+        "fX"      : 2.0,
+        "fY"      : -1.0,
+        "fRotation" : 0.0,
+        "strID"     : "8c9fcb36-dd26-4d9c-9791-b2888a3bcea5",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "Compartment",
+        "fX"      : 4.0,
+        "fY"      : -1.0,
+        "fRotation" : 0.0,
+        "strID"     : "7aca2baf-ace1-4786-935b-bab4ee94339b",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "Compartment",
+        "fX"      : 8.0,
+        "fY"      : -1.0,
+        "fRotation" : 0.0,
+        "strID"     : "7adc3a84-6773-4bbb-b2b3-189c9437160b",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "Compartment",
+        "fX"      : 10.0,
+        "fY"      : -1.0,
+        "fRotation" : 0.0,
+        "strID"     : "bcef1bd6-fe01-4f02-9e35-0ed15cd5b274",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "Compartment",
+        "fX"      : 2.0,
+        "fY"      : -5.0,
+        "fRotation" : 0.0,
+        "strID"     : "c19cd0a7-ca89-45c8-9408-349c81f3a73e",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "Compartment",
+        "fX"      : 4.0,
+        "fY"      : -5.0,
+        "fRotation" : 0.0,
+        "strID"     : "43ed0b99-e2ab-485d-b608-56e5b553f17e",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "Compartment",
+        "fX"      : 2.0,
+        "fY"      : -8.0,
+        "fRotation" : 0.0,
+        "strID"     : "5d50fc9f-7b7c-4271-9809-c3795d5733c7",
+        "bForceLoad" : false
+      },
+      {
+        "strName" : "Compartment",
+        "fX"      : 4.0,
+        "fY"      : -8.0,
+        "fRotation" : 0.0,
+        "strID"     : "422ba0c2-8f40-4e63-8f05-23669dc0875c",
+        "bForceLoad" : false
+      }
+    ],
+    "vShipPos"         : {
+      "x" : -12.0,
+      "y" : 7.0
+    },
+    "objSS"            : {
+      "boPORShip" : "Sol",
+      "vPosx"     : -1.20211225746361E-07,
+      "vPosy"     : -1.75372654219953E-07,
+      "vBOOffsetx" : 0.0,
+      "vBOOffsety" : 0.0,
+      "vVelX"      : -7.2831279575668E-07,
+      "vVelY"      : -1.0625143142929E-06,
+      "vAccIn"     : {
+        "x" : 0.0,
+        "y" : 0.0
+      },
+      "vAccRCS"    : {
+        "x" : 0.0,
+        "y" : 0.0
+      },
+      "vAccEx"     : {
+        "x" : 0.0,
+        "y" : 0.0
+      },
+      "fRot"       : 0.0,
+      "fW"         : 0.0,
+      "fA"         : 0.0,
+      "bBOLocked"  : false,
+      "bIsBO"      : false,
+      "bIsRegion"  : false,
+      "bIsNoFees"  : false,
+      "size"       : 440
+    },
+    "aRooms"           : [
+      {
+        "strID" : "f3bee97b-b1fa-4469-ba26-dae9f7295309",
+        "bVoid" : true,
+        "aTiles" : [
+          0,
+          1,
+          25,
+          2,
+          26,
+          50,
+          3,
+          27,
+          51,
+          75,
+          4,
+          28,
+          52,
+          100,
+          5,
+          29,
+          53,
+          125,
+          6,
+          30,
+          54,
+          150,
+          7,
+          31,
+          55,
+          175,
+          8,
+          32,
+          56,
+          200,
+          9,
+          33,
+          57,
+          81,
+          225,
+          10,
+          34,
+          58,
+          82,
+          106,
+          226,
+          250,
+          11,
+          35,
+          59,
+          83,
+          131,
+          227,
+          251,
+          275,
+          12,
+          36,
+          60,
+          84,
+          156,
+          228,
+          252,
+          276,
+          300,
+          13,
+          37,
+          61,
+          85,
+          181,
+          229,
+          253,
+          277,
+          301,
+          325,
+          14,
+          38,
+          62,
+          86,
+          206,
+          230,
+          254,
+          278,
+          302,
+          326,
+          350,
+          15,
+          39,
+          63,
+          87,
+          231,
+          255,
+          279,
+          303,
+          327,
+          351,
+          375,
+          16,
+          40,
+          64,
+          88,
+          112,
+          256,
+          280,
+          304,
+          328,
+          352,
+          376,
+          400,
+          17,
+          41,
+          65,
+          89,
+          137,
+          257,
+          281,
+          305,
+          329,
+          353,
+          377,
+          401,
+          425,
+          18,
+          42,
+          66,
+          90,
+          162,
+          258,
+          282,
+          306,
+          330,
+          354,
+          378,
+          402,
+          426,
+          19,
+          43,
+          67,
+          91,
+          187,
+          259,
+          283,
+          307,
+          331,
+          355,
+          379,
+          403,
+          427,
+          20,
+          44,
+          68,
+          92,
+          212,
+          260,
+          284,
+          308,
+          332,
+          356,
+          380,
+          404,
+          428,
+          21,
+          45,
+          69,
+          93,
+          237,
+          261,
+          285,
+          309,
+          333,
+          357,
+          381,
+          405,
+          429,
+          22,
+          46,
+          70,
+          94,
+          118,
+          262,
+          286,
+          310,
+          334,
+          358,
+          382,
+          406,
+          430,
+          23,
+          47,
+          71,
+          95,
+          143,
+          263,
+          287,
+          311,
+          335,
+          359,
+          383,
+          407,
+          431,
+          24,
+          48,
+          72,
+          96,
+          168,
+          264,
+          312,
+          336,
+          360,
+          384,
+          408,
+          432,
+          49,
+          73,
+          97,
+          193,
+          265,
+          337,
+          361,
+          385,
+          409,
+          433,
+          74,
+          98,
+          218,
+          266,
+          362,
+          386,
+          410,
+          434,
+          99,
+          243,
+          267,
+          387,
+          411,
+          435,
+          124,
+          268,
+          412,
+          436,
+          149,
+          269,
+          293,
+          437,
+          174,
+          270,
+          294,
+          318,
+          438,
+          199,
+          271,
+          295,
+          319,
+          343,
+          439,
+          224,
+          272,
+          296,
+          320,
+          344,
+          368,
+          440,
+          249,
+          273,
+          297,
+          321,
+          345,
+          369,
+          393,
+          441,
+          274,
+          298,
+          322,
+          346,
+          370,
+          394,
+          418,
+          442,
+          299,
+          323,
+          347,
+          371,
+          395,
+          419,
+          443,
+          324,
+          348,
+          372,
+          396,
+          420,
+          444,
+          349,
+          373,
+          397,
+          421,
+          445,
+          374,
+          398,
+          422,
+          446,
+          399,
+          423,
+          447,
+          424,
+          448,
+          449
+        ],
+        "roomSpec" : "Blank",
+        "roomValue" : 550.0
+      },
+      {
+        "strID" : "e421039f-7b37-41a2-a3b6-67135101cd06",
+        "bVoid" : true,
+        "aTiles" : [
+          102
+        ],
+        "roomSpec" : "Blank",
+        "roomValue" : 0.0
+      },
+      {
+        "strID" : "851fabfa-42f8-4831-8c79-db1f095833a1",
+        "bVoid" : true,
+        "aTiles" : [
+          104,
+          129
+        ],
+        "roomSpec" : "Blank",
+        "roomValue" : 0.0
+      },
+      {
+        "strID" : "1ce3a774-9c3b-4582-8720-f46aef9e74bc",
+        "bVoid" : true,
+        "aTiles" : [
+          133
+        ],
+        "roomSpec" : "Blank",
+        "roomValue" : 0.0
+      },
+      {
+        "strID" : "60bbebf8-24a8-4225-aa91-c96795f10863",
+        "bVoid" : true,
+        "aTiles" : [
+          135,
+          160
+        ],
+        "roomSpec" : "Blank",
+        "roomValue" : 0.0
+      },
+      {
+        "strID" : "6ec3f57f-3785-4a12-b7c7-1fdb4d0f0627",
+        "bVoid" : true,
+        "aTiles" : [
+          139
+        ],
+        "roomSpec" : "Blank",
+        "roomValue" : 0.0
+      },
+      {
+        "strID" : "23e29981-a858-4428-b88c-9085814fbfda",
+        "bVoid" : true,
+        "aTiles" : [
+          141,
+          166
+        ],
+        "roomSpec" : "Blank",
+        "roomValue" : 0.0
+      },
+      {
+        "strID" : "234c1414-ce57-41de-8f8a-4994c7d8da88",
+        "bVoid" : true,
+        "aTiles" : [
+          145
+        ],
+        "roomSpec" : "Blank",
+        "roomValue" : 0.0
+      },
+      {
+        "strID" : "383395ae-30cd-4811-a798-5b37f45e35d9",
+        "bVoid" : true,
+        "aTiles" : [
+          147,
+          172
+        ],
+        "roomSpec" : "Blank",
+        "roomValue" : 0.0
+      },
+      {
+        "strID" : "6d28e128-6349-44ec-aa33-1c3b31e77b24",
+        "bVoid" : true,
+        "aTiles" : [
+          177
+        ],
+        "roomSpec" : "Blank",
+        "roomValue" : 0.0
+      },
+      {
+        "strID" : "fa2f7ded-6866-4b6e-89d8-3cea7e071b86",
+        "bVoid" : true,
+        "aTiles" : [
+          179
+        ],
+        "roomSpec" : "Blank",
+        "roomValue" : 0.0
+      },
+      {
+        "strID" : "410a15fb-ba4c-440d-a47b-94942efd36f5",
+        "bVoid" : true,
+        "aTiles" : [
+          208
+        ],
+        "roomSpec" : "Blank",
+        "roomValue" : 0.0
+      },
+      {
+        "strID" : "8fccb6dd-2ad1-470c-aaf5-d7b7877212d4",
+        "bVoid" : true,
+        "aTiles" : [
+          210
+        ],
+        "roomSpec" : "Blank",
+        "roomValue" : 0.0
+      },
+      {
+        "strID" : "8c9fcb36-dd26-4d9c-9791-b2888a3bcea5",
+        "bVoid" : true,
+        "aTiles" : [
+          214
+        ],
+        "roomSpec" : "Blank",
+        "roomValue" : 0.0
+      },
+      {
+        "strID" : "7aca2baf-ace1-4786-935b-bab4ee94339b",
+        "bVoid" : true,
+        "aTiles" : [
+          216
+        ],
+        "roomSpec" : "Blank",
+        "roomValue" : 0.0
+      },
+      {
+        "strID" : "7adc3a84-6773-4bbb-b2b3-189c9437160b",
+        "bVoid" : true,
+        "aTiles" : [
+          220
+        ],
+        "roomSpec" : "Blank",
+        "roomValue" : 0.0
+      },
+      {
+        "strID" : "bcef1bd6-fe01-4f02-9e35-0ed15cd5b274",
+        "bVoid" : true,
+        "aTiles" : [
+          222
+        ],
+        "roomSpec" : "Blank",
+        "roomValue" : 0.0
+      },
+      {
+        "strID" : "c19cd0a7-ca89-45c8-9408-349c81f3a73e",
+        "bVoid" : true,
+        "aTiles" : [
+          314
+        ],
+        "roomSpec" : "Blank",
+        "roomValue" : 0.0
+      },
+      {
+        "strID" : "43ed0b99-e2ab-485d-b608-56e5b553f17e",
+        "bVoid" : true,
+        "aTiles" : [
+          316,
+          341
+        ],
+        "roomSpec" : "Blank",
+        "roomValue" : 0.0
+      },
+      {
+        "strID" : "5d50fc9f-7b7c-4271-9809-c3795d5733c7",
+        "bVoid" : true,
+        "aTiles" : [
+          389
+        ],
+        "roomSpec" : "Blank",
+        "roomValue" : 0.0
+      },
+      {
+        "strID" : "422ba0c2-8f40-4e63-8f05-23669dc0875c",
+        "bVoid" : true,
+        "aTiles" : [
+          391
+        ],
+        "roomSpec" : "Blank",
+        "roomValue" : 0.0
+      }
+    ],
+    "DMGStatus"        : 0,
+    "fLastVisit"       : 0.0,
+    "fAIDockingTimer"  : 0.0,
+    "fAIPauseTimer"    : 0.0,
+    "bPrefill"         : false,
+    "bNoCollisions"    : false,
+    "dLastScanTime"    : 0.0,
+    "bLocalAuthority"  : false,
+    "bAIShip"          : false,
+    "make"             : "",
+    "model"            : "",
+    "year"             : "",
+    "origin"           : "$TEMPLATE",
+    "description"      : "",
+    "designation"      : "",
+    "publicName"       : "$TEMPLATE",
+    "dimensions"       : "8.00m x 5.76m",
+    "fShallowMass"     : 3320.75,
+    "fShallowRCSRemass" : 0.0,
+    "fShallowRCSRemassMax" : 0.0,
+    "fShallowFusionRemain" : 0.0,
+    "fBreakInMultiplier"   : 0.0,
+    "nRCSCount"            : 0.0,
+    "nRCSDistroCount"      : 0,
+    "nDockCount"           : 0,
+    "bFusionTorch"         : false,
+    "bXPDRAntenna"         : false,
+    "bShipHidden"          : false,
+    "nO2PumpCount"         : 0
+  }
+]

@@ -1,0 +1,323 @@
+[
+  {
+    "strName" : "TXTParallaxBlank",
+    "aCOs"    : [
+      "blank=1.0x1"
+    ],
+    "aLoots"  : [
+    ],
+    "strType" : "text"
+  },
+  {
+    "strName" : "TXTParallaxDeepSpace",
+    "aCOs"    : [
+      "Starfield_Transparent01=1.0x1"
+    ],
+    "aLoots"  : [
+    ],
+    "strType" : "text"
+  },
+  {
+    "strName" : "TXTParallaxOKLGBoneyard",
+    "aCOs"    : [
+      "Starfield_Transparent01=1.0x1",
+      "PlxDebrisSm03=0.35x1|PlxDebrisSm04=0.35x1|blank=1.0x1",
+      "PlxWreck04=0.35x1|PlxWreck05=0.35x1|PlxWreck06=1.0x1",
+      "PlxDebrisSm03=0.35x1|PlxDebrisSm04=0.35x1|blank=1.0x1",
+      "PlxDebris05=1.0x1",
+      "PlxDebris05=1.0x1",
+      "PlxDebrisMed04=0.5x1|PlxDebrisMed05=0.5x1"
+    ],
+    "aLoots"  : [
+    ],
+    "strType" : "text"
+  },
+  {
+    "strName" : "TXTParallaxMercuryAtmosphere",
+    "aCOs"    : [
+      "PlxAtmosphereMercury_Transparent01=1.0x1",
+      "PlxCloud02=0.35x1|PlxCloud03=0.35x1|blank=1.0x1",
+      "PlxEarthDebris01=1.0x1"
+    ],
+    "aLoots"  : [
+    ],
+    "strType" : "text"
+  },
+  {
+    "strName" : "TXTParallaxMercuryGrav",
+    "aCOs"    : [
+      "Starfield_Transparent01=1.0x1",
+      "PlxPlanet_Mercury01=1.0x1"
+    ],
+    "aLoots"  : [
+    ],
+    "strType" : "text"
+  },
+  {
+    "strName" : "TXTParallaxVenusAtmosphere",
+    "aCOs"    : [
+      "VenusAtmosphere_Transparent01=1.0x1",
+      "PlxVenusCloud03=0.35x1|PlxVenusCloud02=0.35x1|blank=1.0x1",
+      "PlxVenusCloud01=0.35x1|PlxVenusCloud02=0.35x1|PlxVenusCloud03=1.0x1",
+      "PlxVenusCloud01=0.35x1|PlxVenusCloud03=0.35x1|blank=1.0x1",
+      "PlxVenusCloud01=1.0x1",
+      "PlxVenusCloud02=1.0x1",
+      "PlxVenusCloud03=0.5x1|PlxVenusCloud02=0.5x1"
+    ],
+    "aLoots"  : [
+    ],
+    "strType" : "text"
+  },
+  {
+    "strName" : "TXTParallaxVenusGrav",
+    "aCOs"    : [
+      "Starfield_Transparent01=1.0x1",
+      "PlxPlanet_Venus01=1.0x1"
+    ],
+    "aLoots"  : [
+    ],
+    "strType" : "text"
+  },
+  {
+    "strName" : "TXTParallaxEarthAtmosphere",
+    "aCOs"    : [
+      "PlxAtmosphereEarth_Transparent01=1.0x1",
+      "PlxEarthCloud03=0.35x1|PlxEarthCloud02=0.35x1|blank=1.0x1",
+      "PlxDebrisSm03=0.35x1|PlxDebrisSm04=0.35x1|blank=1.0x1",
+      "PlxDebris05=1.0x1",
+      "PlxDebris05=1.0x1",
+      "PlxDebrisMed04=0.5x1|PlxDebrisMed05=0.5x1",
+      "PlxEarthDebris01=1.0x1",
+      "PlxEarthDebris01=0.5x1|blank=0.5x1"
+    ],
+    "aLoots"  : [
+    ],
+    "strType" : "text"
+  },
+  {
+    "strName" : "TXTParallaxEarthGrav",
+    "aCOs"    : [
+      "Starfield_Transparent01=1.0x1",
+      "PlxPlanet_Earth01=1.0x1"
+    ],
+    "aLoots"  : [
+    ],
+    "strType" : "text"
+  },
+  {
+    "strName" : "TXTParallaxMarsAtmosphere",
+    "aCOs"    : [
+      "PlxAtmosphereMars_Transparent01=1.0x1",
+      "PlxCloud01=0.55x1|PlxCloud02=0.35x1|blank=1.0x1",
+      "PlxCloud01=0.55x1|PlxCloud02=0.35x1|PlxCloud03=1.0x1",
+      "PlxCloud01=0.55x1|PlxCloud02=0.35x1|blank=1.0x1",
+      "PlxCloud03=0.5x1|PlxCloud01=0.5x1"
+    ],
+    "aLoots"  : [
+    ],
+    "strType" : "text"
+  },
+  {
+    "strName" : "TXTParallaxMarsGrav",
+    "aCOs"    : [
+      "Starfield_Transparent01=1.0x1",
+      "PlxPlanet_Mars01=1.0x1"
+    ],
+    "aLoots"  : [
+    ],
+    "strType" : "text"
+  },
+  {
+    "strName" : "TXTParallaxJupiterAtmosphere",
+    "aCOs"    : [
+      "PlxAtmosphereJupiter_Transparent01=1.0x1",
+      "PlxCloud01=0.55x1|PlxCloud02=0.35x1|blank=1.0x1",
+      "PlxCloud01=0.55x1|PlxCloud02=0.35x1|PlxCloud03=1.0x1",
+      "PlxCloud01=0.55x1|PlxCloud02=0.35x1|blank=1.0x1",
+      "PlxCloud01=1.0x1",
+      "PlxCloud02=1.0x1",
+      "PlxCloud03=0.5x1|PlxCloud01=0.5x1"
+    ],
+    "aLoots"  : [
+    ],
+    "strType" : "text"
+  },
+  {
+    "strName" : "TXTParallaxJupiterGrav",
+    "aCOs"    : [
+      "Starfield_Transparent01=1.0x1",
+      "PlxPlanet_Jupiter01=1.0x1"
+    ],
+    "aLoots"  : [
+    ],
+    "strType" : "text"
+  },
+    {
+      "strName" : "TXTParallaxEuropaGrav",
+      "aCOs"    : [
+        "Starfield_Transparent01=1.0x1",
+        "PlxMoon_Europa01=1.0x1"
+      ],
+      "aLoots"  : [
+      ],
+      "strType" : "text"
+    },
+    {
+      "strName" : "TXTParallaxGanymedeGrav",
+      "aCOs"    : [
+        "Starfield_Transparent01=1.0x1",
+        "PlxMoon_Ganymede01=1.0x1"
+      ],
+      "aLoots"  : [
+      ],
+      "strType" : "text"
+    },
+  {
+    "strName" : "TXTParallaxSaturnAtmosphere",
+    "aCOs"    : [
+      "PlxAtmosphereSaturn_Transparent01=1.0x1",
+      "PlxCloud01=0.55x1|PlxCloud02=0.35x1|blank=1.0x1",
+      "PlxCloud01=0.55x1|PlxCloud02=0.35x1|PlxCloud03=1.0x1",
+      "PlxCloud01=0.55x1|PlxCloud02=0.35x1|blank=1.0x1",
+      "PlxCloud01=1.0x1",
+      "PlxCloud02=1.0x1",
+      "PlxCloud03=0.5x1|PlxCloud01=0.5x1"
+    ],
+    "aLoots"  : [
+    ],
+    "strType" : "text"
+  },
+  {
+    "strName" : "TXTParallaxSaturnGrav",
+    "aCOs"    : [
+      "Starfield_Transparent01=1.0x1",
+      "PlxPlanet_Saturn01=1.0x1"
+    ],
+    "aLoots"  : [
+    ],
+    "strType" : "text"
+  },
+    {
+      "strName" : "TXTParallaxTitanGrav",
+      "aCOs"    : [
+        "Starfield_Transparent01=1.0x1",
+        "PlxMoon_Titan01=1.0x1"
+      ],
+      "aLoots"  : [
+      ],
+      "strType" : "text"
+    },
+  {
+    "strName" : "TXTParallaxUranusAtmosphere",
+    "aCOs"    : [
+      "PlxAtmosphereUranus_Transparent01=1.0x1",
+      "PlxCloud01=0.35x1|PlxCloud02=0.35x1|blank=1.0x1",
+      "PlxNeptuneCloud01=0.35x1|PlxNeptuneCloud02=0.35x1|PlxNeptuneCloud03=1.0x1",
+      "PlxCloud01=0.35x1|PlxCloud03=0.35x1|blank=1.0x1",
+      "PlxCloud01=0.5x1|PlxNeptuneCloud01=0.5x1",
+      "PlxCloud02=0.5x1|PlxNeptuneCloud02=0.5x1",
+      "PlxCloud03=0.25x1|PlxCloud02=0.25x1|PlxNeptuneCloud03=0.25x1|PlxNeptuneCloud02=0.25x1"
+    ],
+    "aLoots"  : [
+    ],
+    "strType" : "text"
+  },
+  {
+    "strName" : "TXTParallaxUranusGrav",
+    "aCOs"    : [
+      "Starfield_Transparent01=1.0x1",
+      "PlxPlanet_Uranus01=1.0x1"
+    ],
+    "aLoots"  : [
+    ],
+    "strType" : "text"
+  },
+  {
+    "strName" : "TXTParallaxNeptuneAtmosphere",
+    "aCOs"    : [
+      "PlxAtmosphereNeptune_Transparent01=1.0x1",
+      "PlxCloud01=0.35x1|PlxCloud02=0.35x1|blank=1.0x1",
+      "PlxNeptuneCloud01=0.35x1|PlxNeptuneCloud02=0.35x1|PlxNeptuneCloud03=1.0x1",
+      "PlxCloud01=0.35x1|PlxCloud03=0.35x1|blank=1.0x1",
+      "PlxCloud01=0.5x1|PlxNeptuneCloud01=0.5x1",
+      "PlxCloud02=0.5x1|PlxNeptuneCloud02=0.5x1",
+      "PlxCloud03=0.25x1|PlxCloud02=0.25x1|PlxNeptuneCloud03=0.25x1|PlxNeptuneCloud02=0.25x1"
+    ],
+    "aLoots"  : [
+    ],
+    "strType" : "text"
+  },
+  {
+    "strName" : "TXTParallaxNeptuneGrav",
+    "aCOs"    : [
+      "Starfield_Transparent01=1.0x1",
+      "PlxPlanet_Neptune01=1.0x1"
+    ],
+    "aLoots"  : [
+    ],
+    "strType" : "text"
+  },
+  {
+    "strName" : "TXTParallaxJupiterPlanet",
+    "aCOs"    : [
+      "Starfield_Transparent02_Jupiter=1.0x1"
+    ],
+    "aLoots"  : [
+    ],
+    "strType" : "text"
+  },
+  {
+    "strName" : "TXTParallaxMarsPlanet",
+    "aCOs"    : [
+      "Starfield_Transparent02_Mars=1.0x1"
+    ],
+    "aLoots"  : [
+    ],
+    "strType" : "text"
+  },
+  {
+    "strName" : "TXTParallaxMercuryPlanet",
+    "aCOs"    : [
+      "Starfield_Transparent02_Mercury=1.0x1"
+    ],
+    "aLoots"  : [
+    ],
+    "strType" : "text"
+  },
+  {
+    "strName" : "TXTParallaxNeptunePlanet",
+    "aCOs"    : [
+      "Starfield_Transparent02_Neptune=1.0x1"
+    ],
+    "aLoots"  : [
+    ],
+    "strType" : "text"
+  },
+  {
+    "strName" : "TXTParallaxMSaturnPlanet",
+    "aCOs"    : [
+      "Starfield_Transparent02_Saturn=1.0x1"
+    ],
+    "aLoots"  : [
+    ],
+    "strType" : "text"
+  },
+  {
+    "strName" : "TXTParallaxUranusPlanet",
+    "aCOs"    : [
+      "Starfield_Transparent02_Uranus=1.0x1"
+    ],
+    "aLoots"  : [
+    ],
+    "strType" : "text"
+  },
+  {
+    "strName" : "TXTParallaxVenusPlanet",
+    "aCOs"    : [
+      "Starfield_Transparent02_Venus=1.0x1"
+    ],
+    "aLoots"  : [
+    ],
+    "strType" : "text"
+  }
+]

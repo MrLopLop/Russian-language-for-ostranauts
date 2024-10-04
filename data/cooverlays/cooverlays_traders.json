@@ -1,0 +1,266 @@
+[
+    {
+        "strName" : "ItmKioskEmbassy01VNCA",
+        "strNameShort" : "Kiosk: VNCA Embassy",
+        "strNameFriendly" : "Embassy Services: Newcal, Venus",
+        "strCOBase"    : "ItmKioskEmbassy01VENC",
+        "strCondLoot"    : "CNDOLKioskEmbassyVNCA",
+        "aInteractionsReplace" : [
+            "ENCEmbassyServicesVENCKiosk", "ENCEmbassyServicesVNCAKiosk",
+            "ENCEmbassyServicesVENCKioskTut", "ENCEmbassyServicesVNCAKioskTut"
+        ]
+    },
+    {
+        "strName" : "ItmKioskEmbassy01OKLG",
+        "strNameShort" : "Kiosk: OKLG Embassy",
+        "strNameFriendly" : "Embassy Services: K-Leg, 1036-Ganymed",
+        "strCOBase"    : "ItmKioskEmbassy01VENC",
+        "strCondLoot"    : "CNDOLKioskEmbassyOKLG",
+        "aInteractionsReplace" : [
+            "ENCEmbassyServicesVENCKiosk", "ENCEmbassyServicesOKLGKiosk",
+            "ENCEmbassyServicesVENCKioskTut", "ENCEmbassyServicesOKLGKioskTut"
+        ]
+    },
+    {
+        "strName" : "ItmKioskResBroker01OKLG",
+        "strNameShort" : "Kiosk",
+        "strNameFriendly" : "Real Estate Kiosk (OKLG)",
+        "strCOBase"    : "ItmKioskResBroker01VENC",
+        "strCondLoot"    : "CNDOLKioskHousing01",
+        "mapGUIPropMaps"  : [
+            "Panel A", "ResBroker",
+            "Trader", "TraderResBrokerOKLG"
+          ]
+    },
+    {
+        "strName" : "ItmKioskResBroker01VNCA",
+        "strNameShort" : "Kiosk",
+        "strNameFriendly" : "Real Estate Kiosk (VNCA)",
+        "strCOBase"    : "ItmKioskResBroker01VENC",
+        "strCondLoot"    : "CNDOLKioskHousing01",
+        "mapGUIPropMaps"  : [
+            "Panel A", "ResBroker",
+            "Trader", "TraderResBrokerVNCA"
+          ]
+    },    
+    {
+        "strName" : "ItmKioskVENCShipBroker01",
+        "strNameShort" : "Kiosk",
+        "strNameFriendly" : "Ship Broker Kiosk (VENC)",
+        "strCOBase"    : "ItmKioskOKLGShipBroker01",
+        "strCondLoot"    : "CNDOLKioskShipBroker01",
+        "mapGUIPropMaps"  : [
+            "Panel A", "ShipBroker",
+            "Panel Right", "ShipXPDRBroker",
+            "Panel Left", "OgisoShipRating",
+            "Trader", "TraderVENCShipBroker"
+          ]
+    },
+    {
+        "strName" : "ItmKioskVNCAShipBroker01",
+        "strNameShort" : "Kiosk",
+        "strNameFriendly" : "Ship Broker Kiosk (VNCA)",
+        "strCOBase"    : "ItmKioskOKLGShipBroker01",
+        "strCondLoot"    : "CNDOLKioskShipBroker01",
+        "mapGUIPropMaps"  : [
+            "Panel A", "ShipBroker",
+            "Panel Right", "ShipXPDRBroker",
+            "Panel Left", "OgisoShipRating",
+            "Trader", "TraderVNCAShipBroker"
+          ]
+    },
+    {
+        "strName" : "ItmKioskVORBShipBroker01",
+        "strNameShort" : "Kiosk",
+        "strNameFriendly" : "Ship Broker Kiosk (VORB)",
+        "strCOBase"    : "ItmKioskOKLGShipBroker01",
+        "strCondLoot"    : "CNDOLKioskShipBroker01",
+        "mapGUIPropMaps"  : [
+            "Panel A", "ShipBroker",
+            "Panel Right", "ShipXPDRBroker",
+            "Panel Left", "OgisoShipRating",
+            "Trader", "TraderVORBShipBroker"
+          ]
+    },
+    {
+        "strName" : "ItmKioskTestudo01",
+        "strNameShort" : "Kiosk",
+        "strNameFriendly" : "Testudo Kiosk (VNCA)",
+        "strDesc" : "A kiosk operated by Testudo Corp. offering a dizzying array of diverse consumer products running the gamut of branded offerings produced by the omnipresent ubercorp.",
+        "strImg" : "ItmKioskTestudo01",
+        "strPortraitImg" : "ItmKioskTestudo01",
+        "strImgNorm"  : "ItmKioskHealth01n",
+        "strCOBase"    : "ItmKioskSupplies01",
+        "strCondLoot"    : "CNDOLKioskTestudo01",
+        "mapGUIPropMaps"  : [
+            "Panel A", "Trade",
+            "Trade", "Trade",
+            "Trader", "TraderSanDiegoTSDO"
+          ]
+    },
+    {
+        "strName" : "ItmKioskSanDiegoMed01",
+        "strNameShort" : "Kiosk",
+        "strNameFriendly" : "Medical Kiosk (VNCA)",
+        "strCOBase"    : "ItmKioskHealth01",
+        "strCondLoot"    : "CNDOLKioskSanDiegoMed01",
+        "mapGUIPropMaps"  : [
+            "Panel A", "Trade",
+            "Trade", "Trade",
+            "Trader", "TraderSanDiegoMed"
+          ]
+    },
+    {
+        "strName" : "ReservedTerminalSanDiegoBingham",
+        "strNameShort" : "Terminal",
+        "strNameFriendly" : "Terminal (Bingham)",
+        "strCOBase"    : "ReservedTerminalOKLGPortAuthority",
+        "strCondLoot"    : "CNDOLReservedTerminalSanDiegoBingham",
+        "mapModeSwitches"    : [
+        ]
+    },
+    {
+        "strName" : "ReservedTerminalSanDiegoPolaris",
+        "strNameShort" : "Terminal",
+        "strNameFriendly" : "Terminal (Polaris)",
+        "strCOBase"    : "ReservedTerminalOKLGPortAuthority",
+        "strCondLoot"    : "CNDOLReservedTerminalSanDiegoPolaris"
+    },
+    {
+        "strName" : "ReservedTerminalSanDiegoRenbao",
+        "strNameShort" : "Terminal",
+        "strNameFriendly" : "Terminal (Renbao)",
+        "strCOBase"    : "ReservedTerminalOKLGPortAuthority",
+        "strCondLoot"    : "CNDOLReservedTerminalSanDiegoRenbao",
+        "mapModeSwitches"    : [
+        ]
+    },
+    {
+        "strName" : "ReservedTerminalSanDiegoGEC",
+        "strNameShort" : "Terminal",
+        "strNameFriendly" : "Terminal (GEC)",
+        "strCOBase"    : "ReservedTerminalOKLGPortAuthority",
+        "strCondLoot"    : "CNDOLReservedTerminalSanDiegoGEC",
+        "mapModeSwitches"    : [
+        ]
+    },
+    {
+        "strName" : "ReservedTerminalSanDiegoClothes",
+        "strNameShort" : "Terminal",
+        "strNameFriendly" : "Terminal (Clothes)",
+        "strCOBase"    : "ReservedTerminalOKLGPortAuthority",
+        "strCondLoot"    : "CNDOLReservedTerminalSanDiegoClothes",
+        "mapModeSwitches"    : [
+        ]
+    },
+    {
+        "strName" : "ReservedTerminalSanDiegoShoes",
+        "strNameShort" : "Terminal",
+        "strNameFriendly" : "Terminal (Shoes)",
+        "strCOBase"    : "ReservedTerminalOKLGPortAuthority",
+        "strCondLoot"    : "CNDOLReservedTerminalSanDiegoShoes",
+        "mapModeSwitches"    : [
+        ]
+    },
+    {
+        "strName" : "ReservedTerminalSanDiegoCollectiveElectric",
+        "strNameShort" : "Terminal",
+        "strNameFriendly" : "Terminal (CollectiveElectric)",
+        "strCOBase"    : "ReservedTerminalOKLGPortAuthority",
+        "strCondLoot"    : "CNDOLReservedTerminalSanDiegoCollectiveElectric",
+        "mapModeSwitches"    : [
+        ]
+    },
+    {
+        "strName" : "ReservedTerminalSanDiegoMiura",
+        "strNameShort" : "Terminal",
+        "strNameFriendly" : "Terminal (Miura)",
+        "strCOBase"    : "ReservedTerminalOKLGPortAuthority",
+        "strCondLoot"    : "CNDOLReservedTerminalSanDiegoMiura",
+        "mapModeSwitches"    : [
+        ]
+    },
+    {
+        "strName" : "ReservedTerminalSanDiegoRakow",
+        "strNameShort" : "Terminal",
+        "strNameFriendly" : "Terminal (Rakow)",
+        "strCOBase"    : "ReservedTerminalOKLGPortAuthority",
+        "strCondLoot"    : "CNDOLReservedTerminalSanDiegoRakow",
+        "mapModeSwitches"    : [
+        ]
+    },
+    {
+        "strName" : "ReservedTerminalSanDiegoKang",
+        "strNameShort" : "Terminal",
+        "strNameFriendly" : "Terminal (Kang)",
+        "strCOBase"    : "ReservedTerminalOKLGPortAuthority",
+        "strCondLoot"    : "CNDOLReservedTerminalSanDiegoKang",
+        "mapModeSwitches"    : [
+        ]
+    },
+    {
+        "strName" : "ReservedTerminalSanDiegoSulaiman",
+        "strNameShort" : "Terminal",
+        "strNameFriendly" : "Terminal (Sulaiman)",
+        "strCOBase"    : "ReservedTerminalOKLGPortAuthority",
+        "strCondLoot"    : "CNDOLReservedTerminalSanDiegoSulaiman",
+        "mapModeSwitches"    : [
+        ]
+    },
+    {
+        "strName" : "ReservedTerminalSanDiegoWeber",
+        "strNameShort" : "Terminal",
+        "strNameFriendly" : "Terminal (Weber)",
+        "strCOBase"    : "ReservedTerminalOKLGPortAuthority",
+        "strCondLoot"    : "CNDOLReservedTerminalSanDiegoWeber",
+        "mapModeSwitches"    : [
+        ]
+    },
+    {
+        "strName" : "ReservedTerminalSanDiegoHorang",
+        "strNameShort" : "Terminal",
+        "strNameFriendly" : "Terminal (Horang)",
+        "strCOBase"    : "ReservedTerminalOKLGPortAuthority",
+        "strCondLoot"    : "CNDOLReservedTerminalSanDiegoHorang",
+        "mapModeSwitches"    : [
+        ]
+    },
+    {
+        "strName" : "ReservedTerminalSanDiegoHalvorson",
+        "strNameShort" : "Terminal",
+        "strNameFriendly" : "Terminal (Halvorson)",
+        "strCOBase"    : "ReservedTerminalOKLGPortAuthority",
+        "strCondLoot"    : "CNDOLReservedTerminalSanDiegoHalvorson",
+        "mapModeSwitches"    : [
+        ]
+    },
+    {
+        "strName" : "ReservedTerminalSanDiegoBlackWing",
+        "strNameShort" : "Terminal",
+        "strNameFriendly" : "Terminal (BlackWing)",
+        "strCOBase"    : "ReservedTerminalOKLGPortAuthority",
+        "strCondLoot"    : "CNDOLReservedTerminalSanDiegoBlackWing",
+        "mapModeSwitches"    : [
+        ]
+    },
+    {
+        "strName" : "ReservedTerminalSanDiegoFutureFoods",
+        "strNameShort" : "Terminal",
+        "strNameFriendly" : "Terminal (FutureFoods)",
+        "strCOBase"    : "ReservedTerminalOKLGPortAuthority",
+        "strCondLoot"    : "CNDOLReservedTerminalSanDiegoFutureFoods",
+        "mapModeSwitches"    : [
+        ]
+    },
+    {
+        "strName" : "ReservedTerminalSanDiegoGott",
+        "strNameShort" : "Terminal",
+        "strNameFriendly" : "Terminal (Gott)",
+        "strCOBase"    : "ReservedTerminalOKLGPortAuthority",
+        "strCondLoot"    : "CNDOLReservedTerminalSanDiegoGott",
+        "mapModeSwitches"    : [
+        ]
+    }
+
+    
+]
