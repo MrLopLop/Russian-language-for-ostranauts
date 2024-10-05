@@ -1,132 +1,132 @@
 [
     {
-      "strName" : "TipGameplayGasCursor",
-      "strBody"    : "Gameplay Tip:\n\nGas values only show at the cursor when they are at dangerous levels.\n\nPressing 'G' (default hotkey) toggles on gas values all the time.",
-      "strCategory" : "gameplay"
+        "strName": "TipGameplayGasCursor",
+        "strBody": "Совет по игровому процессу:\n\nЗначения газа отображаются только на курсоре, когда они находятся на опасных уровнях.\n\nНажатие 'G' (горячая клавиша по умолчанию) включает отображение значений газа постоянно.",
+        "strCategory": "gameplay"
     },
     {
-      "strName" : "TipGameplayAtmoSafe",
-      "strBody"    : "Gameplay Tip:\n\nAtmosphere must have approximately 20kPa O2 to be safely breathable by humans, and a minimal amount of CO2.\n\nN2 is optional, but many vessels will maintain 80kPa N2 in the mix to match Earth-like atmosphere, and to minimize risk of fire.",
-      "strCategory" : "gameplay"
+        "strName": "TipGameplayAtmoSafe",
+        "strBody": "Совет по игровому процессу:\n\nАтмосфера должна содержать примерно 20 кПа O2, чтобы быть безопасной для дыхания людьми, и минимальное количество CO2.\n\nN2 является необязательным, но многие судна поддерживают 80 кПа N2 в смеси, чтобы соответствовать атмосфере, похожей на земную, и минимизировать риск пожара.",
+        "strCategory": "gameplay"
     },
     {
-        "strName" : "TipGameplayChargers",
-        "strBody"    : "Gameplay Tip:\n\nMost tools brands have an associated charger.\n\nBatteries recharge over time when left in the inventory of the powered charger.",
-        "strCategory" : "gameplay"
+        "strName": "TipGameplayChargers",
+        "strBody": "Совет по игровому процессу:\n\nУ большинства брендов инструментов есть соответствующий зарядный устройство.\n\nБатареи перезаряжаются со временем, когда находятся в инвентаре активного зарядного устройства.",
+        "strCategory": "gameplay"
     },
     {
-        "strName" : "TipGameplaySinks",
-        "strBody"    : "Gameplay Tip:\n\nWater pouches can be refilled at sinks.\n\nSelect the sink whilst holding an empty pouch to get an option to dispense water.",
-        "strCategory" : "gameplay"
+        "strName": "TipGameplaySinks",
+        "strBody": "Совет по игровому процессу:\n\nВодные сумки можно пополнить в раковинах.\n\nВыберите раковину, держа пустую сумку, чтобы получить возможность налить воду.",
+        "strCategory": "gameplay"
     },
     {
-        "strName" : "TipGameplayCombat1",
-        "strBody"    : "Gameplay Tip:\n\nEquipping weapons in your hand gives access to their unique attack moves.",
-        "strCategory" : "gameplay"
+        "strName": "TipGameplayCombat1",
+        "strBody": "Совет по игровому процессу:\n\nЭкипировка оружия в руке дает доступ к их уникальным атакам.",
+        "strCategory": "gameplay"
     },
     {
-        "strName" : "TipGameplayEmbassyKiosk",
-        "strBody"    : "Gameplay Tip:\n\nFor qualifying applicants (and the right price), embassy kiosks in the OKLG Commercial District offer legal status at represented System colonies.\n\nUse the transit kiosk to reach the other district, and look for a row of embassy kiosks.",
-        "strCategory" : "gameplay"
+        "strName": "TipGameplayEmbassyKiosk",
+        "strBody": "Совет по игровому процессу:\n\nДля подходящих заявителей (и за правильную цену) киоски посольств в коммерческом районе OKLG предлагают юридический статус в представленных колониях Системы.\n\nИспользуйте транзитный киоск, чтобы добраться до другого района, и ищите ряд киосков посольств.",
+        "strCategory": "gameplay"
     },
     {
-        "strName" : "TipGameplayFactions",
-        "strBody"    : "Gameplay Tip:\n\nSome factions are naturally hostile to everyone.\n\nThe more negative your faction standings with someone, the more likely you are to get attacked!",
-        "strCategory" : "gameplay"
+        "strName": "TipGameplayFactions",
+        "strBody": "Совет по игровому процессу:\n\nНекоторые фракции изначально враждебны ко всем.\n\nЧем более негативные ваши отношения с фракцией, тем более вероятно, что на вас нападут!",
+        "strCategory": "gameplay"
     },
     {
-        "strName" : "TipGameplayMedKiosk",
-        "strBody"    : "Gameplay Tip:\n\nThere is a Van Buren kiosk in the OKLG Commercial District offering medical services and treatments.\n\nUse the transit kiosk to reach the other district, and look for a red kiosk.",
-        "strCategory" : "gameplay"
+        "strName": "TipGameplayMedKiosk",
+        "strBody": "Совет по игровому процессу:\n\nВ коммерческом районе OKLG есть киоск Van Buren, предлагающий медицинские услуги и лечения.\n\nИспользуйте транзитный киоск, чтобы добраться до другого района, и ищите красный киоск.",
+        "strCategory": "gameplay"
     },
     {
-        "strName" : "TipGameplayMTTDeselect",
-        "strBody"    : "Gameplay Tip:\n\nTo deselect a selected item in the game world, left-click (default mapping) on the selected item.\n\nRight-clicking (default mapping) multiple times on an item will cycle the selection through all items in that tile.",
-        "strCategory" : "gameplay"
+        "strName": "TipGameplayMTTDeselect",
+        "strBody": "Совет по игровому процессу:\n\nЧтобы отменить выбор предмета в игровом мире, щелкните левой кнопкой мыши (по умолчанию) на выбранном предмете.\n\nЩелчок правой кнопкой мыши (по умолчанию) несколько раз по предмету будет переключать выбор между всеми предметами на этой плитке.",
+        "strCategory": "gameplay"
     },
     {
-        "strName" : "TipGameplayQABHotkeys",
-        "strBody"    : "Gameplay Tip:\n\n'Quick Action Buttons' (QAB) will appear at the bottom of the screen when you right-click any item in the game.\n\nYou can either click them with the mouse, or use their assigned hotkeys (1-4 by default) to execute them.",
-        "strCategory" : "gameplay"
+        "strName": "TipGameplayQABHotkeys",
+        "strBody": "Совет по игровому процессу:\n\n'Кнопки быстрого действия' (QAB) появятся внизу экрана, когда вы щелкнете правой кнопкой мыши на любом предмете в игре.\n\nВы можете либо щелкнуть по ним мышью, либо использовать их назначенные горячие клавиши (по умолчанию 1-4) для их выполнения.",
+        "strCategory": "gameplay"
     },
     {
-        "strName" : "TipGameplayReactorManual",
-        "strBody"    : "Gameplay Tip:\n\nLooking for a reactor manual? Check manual in the Esc menu or game main menu.\n\nAlso find it as an in-game book, or sometimes as 3-part lootable datafiles on Nav Station hard drives.",
-        "strCategory" : "gameplay"
+        "strName": "TipGameplayReactorManual",
+        "strBody": "Совет по игровому процессу:\n\nИщете руководство по реакторам? Проверьте руководство в меню Esc или главном меню игры.\n\nТакже его можно найти как игровую книгу или иногда как 3-частичные добываемые файлы данных на жестких дисках навигационной станции.",
+        "strCategory": "gameplay"
     },
     {
-        "strName" : "TipGameplayZones",
-        "strBody"    : "Gameplay Tip:\n\nCreate zones on your ship to forbid NPC passage, sell items in a zone directly to traders, or organize storage hauling by categories.\n\nPressing 'N' (default hotkey) opens the zone management interface.",
-        "strCategory" : "gameplay"
+        "strName": "TipGameplayZones",
+        "strBody": "Совет по игровому процессу:\n\nСоздавайте зоны на своем корабле, чтобы запретить NPC проходить, продавать предметы в зоне непосредственно торговцам или организовать хранение по категориям.\n\nНажатие 'N' (горячая клавиша по умолчанию) откроет интерфейс управления зонами.",
+        "strCategory": "gameplay"
     },
     {
-        "strName" : "TipGameplayClickDials",
-        "strBody"    : "Gameplay Tip:\n\nYou don't have to rotate dials with mouse movement. Simply L+Click any dial to rotate it once counterclockwise, or R+Click to rotate clockwise (default hotkeys).",
-        "strCategory" : "gameplay"
+        "strName": "TipGameplayClickDials",
+        "strBody": "Совет по игровому процессу:\n\nВам не нужно вращать циферблаты движением мыши. Просто нажмите L+Click на любом циферблате, чтобы повернуть его один раз против часовой стрелки, или R+Click, чтобы повернуть по часовой стрелке (горячие клавиши по умолчанию).",
+        "strCategory": "gameplay"
     },
     {
-        "strName" : "TipGameplayWearTearHotkey",
-        "strBody"    : "Gameplay Tip:\n\nPressing 'X' (default hotkey) toggles a damage tooltip at the cursor.\n\nThis allows you to quickly identify damaged and worn out parts, even if they are hidden under other items.",
-        "strCategory" : "gameplay"
+        "strName": "TipGameplayWearTearHotkey",
+        "strBody": "Совет по игровому процессу:\n\nНажатие 'X' (горячая клавиша по умолчанию) включает отображение информации о повреждениях на курсоре.\n\nЭто позволяет быстро идентифицировать поврежденные и изношенные детали, даже если они скрыты под другими предметами.",
+        "strCategory": "gameplay"
     },
     {
-        "strName" : "TipGameplayWhenInDoubtPause",
-        "strBody"    : "Gameplay Tip:\n\nWhen in doubt, pause.\n\nThere are many details to consider in Ostranauts, and every decision matters. But time is in your hands, and you can pause (or slow time) to take a breath whenever you like.",
-        "strCategory" : "gameplay"
+        "strName": "TipGameplayWhenInDoubtPause",
+        "strBody": "Совет по игровому процессу:\n\nКогда в сомнении, ставьте на паузу.\n\nВ Ostranauts много деталей, которые нужно учитывать, и каждое решение имеет значение. Но время в ваших руках, и вы можете приостановить (или замедлить время), чтобы сделать паузу, когда захотите.",
+        "strCategory": "gameplay"
     },
     {
-        "strName" : "TipGameplayLegalStatusHousing",
-        "strBody"    : "Gameplay Tip:\n\nWant free parking for a spare ship? Obtaining legal status with a colony may unlock opportunities to lease housing and free private docking.",
-        "strCategory" : "gameplay"
+        "strName": "TipGameplayLegalStatusHousing",
+        "strBody": "Совет по игровому процессу:\n\nХотите бесплатную парковку для запасного корабля? Получение юридического статуса в колонии может открыть возможности для аренды жилья и бесплатной частной стоянки.",
+        "strCategory": "gameplay"
     },
     {
-        "strName" : "TipGameplayGravityFalls",
-        "strBody"    : "Gameplay Tip:\n\nDon't leave tools or crewmates outside during high-G maneuvers or near a gravity well. High G-forces will essentially jettison loose external items.",
-        "strCategory" : "gameplay"
+        "strName": "TipGameplayGravityFalls",
+        "strBody": "Совет по игровому процессу:\n\nНе оставляйте инструменты или членов экипажа на улице во время маневров с высоким ускорением или рядом с гравитационным колодцем. Высокие силы G фактически выбросят свободные внешние предметы.",
+        "strCategory": "gameplay"
     },
     {
-        "strName" : "TipGameplayDatafilesOpen",
-        "strBody"    : "Gameplay Tip:\n\nMany datafiles offer additional information, images, or cross-links if you open them using a PDA, Terminal, or Nav Station.\n\nNav Station data can also be transferred to a new Nav Station this way.",
-        "strCategory" : "gameplay"
+        "strName": "TipGameplayDatafilesOpen",
+        "strBody": "Совет по игровому процессу:\n\nМногие файлы данных предлагают дополнительную информацию, изображения или перекрестные ссылки, если вы откроете их с помощью PDA, терминала или навигационной станции.\n\nДанные навигационной станции также могут быть переданы на новую навигационную станцию таким образом.",
+        "strCategory": "gameplay"
     },
     {
-        "strName" : "TipGameplayAtmosphericFlight",
-        "strBody"    : "Gameplay Tip:\n\nPiloting in atmosphere is vastly different from piloting in zero-G. Try adding aerodynamic walls (for lift and reduced drag) or electric rotors (which function better in high density gas).",
-        "strCategory" : "gameplay"
+        "strName": "TipGameplayAtmosphericFlight",
+        "strBody": "Совет по игровому процессу:\n\nУправление в атмосфере значительно отличается от управления в нулевой гравитации. Попробуйте добавить аэродинамические стены (для подъемной силы и уменьшения сопротивления) или электрические роторы (которые лучше работают в газах с высокой плотностью).",
+        "strCategory": "gameplay"
     },
     {
-        "strName" : "TipCommunityAskForHelp",
-        "strBody"    : "Community Tip:\n\nEven the best players ask for help sometimes.\n\nBlue Bottle Games's social channels are open for players new and old alike!",
-        "strCategory" : "community"
+        "strName": "TipCommunityAskForHelp",
+        "strBody": "Совет сообщества:\n\nДаже лучшие игроки иногда просят о помощи.\n\nСоциальные каналы Blue Bottle Games открыты для игроков как новых, так и старых!",
+        "strCategory": "community"
     },
     {
-        "strName" : "TipCommunityDevQuestions",
-        "strBody"    : "Community Tip:\n\nThe Blue Bottle Games devs love answering questions about the game and its lore!",
-        "strCategory" : "community"
+        "strName": "TipCommunityDevQuestions",
+        "strBody": "Совет сообщества:\n\nРазработчики Blue Bottle Games любят отвечать на вопросы об игре и ее лоре!",
+        "strCategory": "community"
     },
     {
-        "strName" : "TipCommunityNS",
-        "strBody"    : "Community Tip:\n\nOstranauts is made by the same developer (and set in the same universe) as NEO Scavenger!",
-        "strCategory" : "community"
+        "strName": "TipCommunityNS",
+        "strBody": "Совет сообщества:\n\nOstranauts создана тем же разработчиком (и происходит в той же вселенной), что и NEO Scavenger!",
+        "strCategory": "community"
     },
     {
-        "strName" : "TipLoreStartDate",
-        "strBody"    : "Lore Snippet:\n\nOstranauts takes place in 2079, after an ablation cascade rendered Earth's orbit too dangerous to traverse.",
-        "strCategory" : "lore"
+        "strName": "TipLoreStartDate",
+        "strBody": "Фрагмент лора:\n\nOstranauts происходит в 2079 году, после того как каскад абляции сделал орбиту Земли слишком опасной для пересечения.",
+        "strCategory": "lore"
     },
     {
-        "strName" : "TipLoreCassetteFuturism",
-        "strBody"    : "Lore Snippet:\n\nThe aesthetic of Ostranauts is sometimes called \"Cassette Futurism.\"\n\n(A term the devs only recently learned themselves!)",
-        "strCategory" : "lore"
+        "strName": "TipLoreCassetteFuturism",
+        "strBody": "Фрагмент лора:\n\nЭстетика Ostranauts иногда называется \"Кассетным футуризмом.\"\n\n(Термин, который разработчики узнали только недавно!)",
+        "strCategory": "lore"
     },
     {
-        "strName" : "TipLoreFixer1",
-        "strBody"    : "Lore Snippet:\n\nThere are rumours of a black market trader buying and selling ship parts for better prices than the port kiosks, somewhere on OKLG station.",
-        "strCategory" : "lore"
+        "strName": "TipLoreFixer1",
+        "strBody": "Фрагмент лора:\n\nСуществуют слухи о черном рынке, где трейдер покупает и продает детали кораблей по лучшим ценам, чем в киосках порта, где-то на станции OKLG.",
+        "strCategory": "lore"
     },
     {
-        "strName" : "TipLoreFixer2",
-        "strBody"    : "Lore Snippet:\n\nHarbourmaster Adeyemi vehemently denies the existence of a black market trade on OKLG.\n\n\"I run a tight ship. The only rats here are the ones I keep as pets\".",
-        "strCategory" : "lore"
+        "strName": "TipLoreFixer2",
+        "strBody": "Фрагмент лора:\n\nГаваньщик Адеями решительно отрицает существование черного рынка на станции OKLG.\n\n\"Я управляю строгим кораблем. Единственные крысы здесь - это те, кого я держу в качестве домашних животных\".",
+        "strCategory": "lore"
     }
 ]
