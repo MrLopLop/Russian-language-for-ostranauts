@@ -126,7 +126,7 @@
   {
     "strName": "ItmFusionReactorCore01Batt",
     "strNameShort": "Ядро Реактора",
-    "strNameFriendly": "IC Fusion Reactor Core: Sulaiman \"X(X) TW\" (Режим Батареи)",
+    "strNameFriendly": "IC Термоядерный реактор Core: Sulaiman \"X(X) TW\" (Режим Батареи)",
     "strDesc": "Реактор инерциального сжатия. Принимает топливо в форме He3 и D2O. Рабочий реактор способен производить огромное количество энергии и может использоваться как часть \"torch drive\" для межпланетных путешествий.",
     "strItemDef": "ItmFusionReactorCore01On",
     "strType": "Item",
@@ -194,8 +194,8 @@
   },
   {
     "strName": "ItmFusionReactorCore01Ignition",
-    "strNameShort": "Реакторный Ядро",
-    "strNameFriendly": "IC Fusion Reactor Core: Sulaiman \"X(X) TW\" (Работающий)",
+    "strNameShort": "Реакторное Ядро",
+    "strNameFriendly": "IC Термоядерный реактор Core: Sulaiman \"X(X) TW\" (Работающий)",
     "strDesc": "Инертный термоядерный реактор. Использует топливо в виде He3 и D2O. Функционирующий реактор способен производить огромное количество энергии и может использоваться как часть \"прожектора\" для межпланетных путешествий.",
     "strItemDef": "ItmFusionReactorCore01On",
     "strType"    : "Item",
@@ -265,8 +265,8 @@
   },
   {
     "strName": "ItmFusionReactorCore01Off",
-    "strNameShort": "Реакторный ядро",
-    "strNameFriendly": "IC Fusion Reactor Core: Сулейман \"X(X) TW\" (Отключен)",
+    "strNameShort": "Реакторное ядро",
+    "strNameFriendly": "IC Термоядерный реактор Core: Сулейман \"X(X) TW\" (Отключен)",
     "strDesc": "Реактор инерционного удержания термоядерного синтеза. Использует топливо в виде He3 и D2O. Функционирующий реактор способен производить огромное количество энергии и может использоваться как часть \"плазменного двигателя\" для межпланетных путешествий.",
     "strItemDef": "ItmFusionReactorCore01Off",
     "strType"    : "Item",
@@ -328,8 +328,8 @@
   },
   {
     "strName": "ItmFusionReactorCore01Loose",
-    "strNameShort": "Реакторный ядро",
-    "strNameFriendly": "IC Fusion Reactor Core: Сулейман \"X(X) TW\" (Неплотно)",
+    "strNameShort": "Реакторное ядро",
+    "strNameFriendly": "IC Термоядерный реактор Core: Сулейман \"X(X) TW\" (Неплотно)",
     "strDesc": "Частичная оболочка ядра реактора инерционного удержания термоядерного синтеза (1 из 4). Функционирующий реактор использует топливо в виде He3 и D2O и способен производить огромное количество энергии. Может использоваться как часть \"плазменного двигателя\" для межпланетных путешествий.",
     "strItemDef": "ItmFusionReactorCore01Loose",
     "strType"    : "Item",
