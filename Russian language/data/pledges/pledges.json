@@ -1,6 +1,7 @@
 [
   {
     "strName" : "AIEquipHelmet",
+    "strNameFriendly" : "Equip helmet",
     "strType" : "repeat",
     "strIATrigger" : "EquipHelmetNotCarried",
     "aIAEnd" : ["PLGEquipHelmetFinished"],
@@ -9,6 +10,7 @@
   },
   {
     "strName" : "AIEquipSpaceSuitAndHelmet",
+    "strNameFriendly" : "Equip suit and helmet",
     "strType" : "wearsuit",
     "strIATrigger" : "PLGAIWearSuitTriggered",
     "aIAEnd" : ["PLGAIWearSuitAndHelmetFinished"],
@@ -17,6 +19,7 @@
   },
   {
     "strName" : "AIEquipSuit",
+    "strNameFriendly" : "Equip suit",
     "strType" : "repeat",
     "strIATrigger" : "EquipSuitNotCarried",
     "aIAEnd" : ["PLGEquipSuitFinished"],
@@ -25,6 +28,7 @@
   },
   {
     "strName" : "AISurviveCO2",
+    "strNameFriendly" : "Survive CO2",
     "strType" : "surviveco2",
     "strIATrigger" : "PLGAISurviveCO2",
     "aIAEnd" : null,
@@ -35,6 +39,7 @@
   {
     "strName" : "AISurviveO2",
     "strType" : "surviveo2",
+    "strNameFriendly" : "Survive O2",
     "strIATrigger" : "PLGAISurviveO2",
     "aIAEnd" : null,
     "strThemID" : null,
@@ -43,6 +48,7 @@
   },
   {
     "strName" : "AICombat",
+    "strNameFriendly" : "Combat",
     "strType" : "combat",
     "strIATrigger" : "PLGCombatTrigger",
     "aIAEnd" : [ 
@@ -53,6 +59,7 @@
   },
   {
     "strName" : "AIStandUp",
+    "strNameFriendly" : "Stand up",
     "strType" : "repeat",
     "strIATrigger" : "ACTStandUp",
     "aIAEnd" : null,
@@ -61,6 +68,7 @@
   },
   {
     "strName" : "AICombatJoin",
+    "strNameFriendly" : "Combat join",
     "strType" : "combat",
     "strIATrigger" : "PLGCombatTrigger",
     "aIAEnd" : null,
@@ -69,6 +77,7 @@
   },
   {
     "strName" : "AIRobotDroneDecoyDo",
+    "strNameFriendly" : "Drone decoy",
     "strType" : "repeat",
     "strIATrigger" : "PLGAIRobotDroneDecoyDo",
     "aIAEnd" : ["PLGAIRobotDroneDecoyEnd"],
@@ -78,6 +87,7 @@
   },
   {
     "strName" : "AICrimeArrestOKLGLEODo",
+    "strNameFriendly" : "Arrest",
     "strType" : "repeat",
     "strIATrigger" : "PLGAICrimeOKLGLEOArrestDo",
     "aIAEnd" : ["PLGAICrimeOKLGLEOArrestEnd"],
@@ -87,6 +97,7 @@
   },
   {
     "strName" : "AICrimeAttackOKLGLEO",
+    "strNameFriendly" : "Attack",
     "strType" : "crime",
     "strIATrigger" : "PLGAICrimeOKLGLEOThreat",
     "aIAEnd" : null,
@@ -96,6 +107,7 @@
   },
   {
     "strName" : "AICrimeArrestVenusLEODo",
+    "strNameFriendly" : "Attack",
     "strType" : "repeat",
     "strIATrigger" : "PLGAICrimeVenusLEOArrestDo",
     "aIAEnd" : [
@@ -108,6 +120,7 @@
   },
   {
     "strName" : "AICrimeAttackVenusLEO",
+    "strNameFriendly" : "Attack",
     "strType" : "crime",
     "strIATrigger" : "PLGAICrimeVenusLEOThreat",
     "aIAEnd" : null,
@@ -117,6 +130,7 @@
   },
   {
     "strName" : "AIRobberyStart",
+    "strNameFriendly" : "Rob",
     "strType" : "repeat",
     "strIATrigger" : "PLGAIRobbery",
     "aIAEnd" : null,
@@ -125,6 +139,7 @@
   },
   {
     "strName" : "AIRobberyDo",
+    "strNameFriendly" : "Rob",
     "strType" : "repeat",
     "strIATrigger" : "PLGAIRobberyDo",
     "aIAEnd" : [
@@ -135,6 +150,7 @@
   },
   {
     "strName" : "AIShipRobberyStart",
+    "strNameFriendly" : "Rob",
     "strType" : "repeat",
     "strIATrigger" : "PLGAIShipRobbery",
     "aIAEnd" : null,
@@ -144,6 +160,7 @@
   },
   {
     "strName" : "AIShipRobberyDo",
+    "strNameFriendly" : "Rob",
     "strType" : "repeat",
     "strIATrigger" : "PLGAIRobberyDo",
     "aIAEnd" : [
@@ -156,6 +173,7 @@
   },
   {
     "strName" : "AIMaintenanceTechWorkOKLGPatch",
+    "strNameFriendly" : "MaintenanceTech patch",
     "strType" : "repeat",
     "strIATrigger" : "PLGAIMaintenanceTechWorkPatchDo",
     "aIAEnd" : null,
@@ -166,6 +184,7 @@
   },
   {
     "strName" : "AIEat",
+    "strNameFriendly" : "Eat",
     "strType" : "eat",
     "strIATrigger" : "PLGAIEat",
     "aIAEnd" : null,
@@ -174,6 +193,7 @@
   },
   {
     "strName" : "AIDrink",
+    "strNameFriendly" : "Drink",
     "strType" : "drink",
     "strIATrigger" : "PLGAIDrink",
     "aIAEnd" : null,
@@ -182,6 +202,7 @@
   },
   {
     "strName" : "AICrimeArrestOKLGLEOStart",
+    "strNameFriendly" : "Crime arrest",
     "strType" : "crime",
     "strIATrigger" : "PLGAICrimeOKLGLEOArrest",
     "aIAEnd" : null,
@@ -191,6 +212,7 @@
   },
   {
     "strName" : "AICrimeArrestOKLGLEOStolenShipStart",
+    "strNameFriendly" : "Crime arrest",
     "strType" : "crime",
     "strIATrigger" : "PLGAICrimeOKLGLEOArrestStolenShip",
     "aIAEnd" : null,
@@ -200,6 +222,7 @@
   },
   {
     "strName" : "AICrimeArrestVenusLEOStart",
+    "strNameFriendly" : "Crime arrest",
     "strType" : "crime",
     "strIATrigger" : "PLGAICrimeVenusLEOArrest",
     "aIAEnd" : null,
@@ -209,6 +232,7 @@
   },
   {
     "strName" : "AICrimeArrestVenusLEOStolenShipStart",
+    "strNameFriendly" : "Crime arrest",
     "strType" : "crime",
     "strIATrigger" : "PLGAICrimeVenusLEOArrestStolenShip",
     "aIAEnd" : null,
@@ -218,6 +242,7 @@
   },
   {
     "strName" : "AIRobotDroneDecoyStart",
+    "strNameFriendly" : "Drone decoy",
     "strType" : "repeat",
     "strIATrigger" : "PLGAIRobotDroneDecoy",
     "aIAEnd" : [ ],
@@ -229,6 +254,7 @@
 
   {
     "strName" : "AIMaintenanceTechWorkRetrieveDead",
+    "strNameFriendly" : "MaintenanceTech retrieve",
     "strType" : "repeat",
     "strIATrigger" : "PLGAIMaintenanceTechWorkRetrieveDead",
     "aIAEnd" : [ ],
@@ -239,6 +265,7 @@
   },
   {
     "strName" : "AIMaintenanceTechWorkRetrieveDeadDo",
+    "strNameFriendly" : "MaintenanceTech retrieve",
     "strType" : "repeat",
     "strIATrigger" : "PLGAIMaintenanceTechWorkRetrieveDeadDo",
     "aIAEnd" : [ "PLGAIMaintenanceTechWorkRetrieveDeadDoEnd" ],
@@ -248,6 +275,7 @@
   },
   {
     "strName" : "AIMaintenanceTechWorkRetrieveDeadDeliver",
+    "strNameFriendly" : "MaintenanceTech deliver",
     "strType" : "repeat",
     "strIATrigger" : "PLGAIMaintenanceTechWorkRetrieveDeadDoDeliverBodyShim",
     "aIAEnd" : [ "PLGAIMaintenanceTechWorkRetrieveDeadDoDeliverBodyEnd" ],
@@ -258,6 +286,7 @@
   
   {
     "strName" : "AIMaintenanceTechWorkRepair",
+    "strNameFriendly" : "MaintenanceTech repair",
     "strType" : "repeat",
     "strIATrigger" : "PLGAIMaintenanceTechWorkRepairDo",
     "aIAEnd" : [ ],
@@ -268,6 +297,7 @@
   },
   {
     "strName" : "AIMaintenanceTechWorkReplaceCan",
+    "strNameFriendly" : "MaintenanceTech replace",
     "strType" : "repeat",
     "strIATrigger" : "PLGAIMaintenanceTechWorkReplaceCanDo",
     "aIAEnd" : [ ],
@@ -278,6 +308,7 @@
   },
   {
     "strName" : "AIMaintenanceTechWorkRest",
+    "strNameFriendly" : "MaintenanceTech rest",
     "strType" : "repeat",
     "strIATrigger" : "PLGAIMaintenanceTechWorkRestDo",
     "aIAEnd" : null,
@@ -287,6 +318,7 @@
   },
   {
     "strName" : "AIMaintenanceTechWorkOKLGRestorePriority",
+    "strNameFriendly" : "MaintenanceTech restore",
     "strType" : "repeat",
     "strIATrigger" : "PLGAIMaintenanceTechWorkRestorePriorityDo",
     "aIAEnd" : null,
@@ -297,6 +329,7 @@
   },
   {
     "strName" : "AIMaintenanceTechWorkOKLGRestorePriority2",
+    "strNameFriendly" : "MaintenanceTech restore",
     "strType" : "repeat",
     "strIATrigger" : "PLGAIMaintenanceTechWorkRestorePriority2Do",
     "aIAEnd" : null,
@@ -307,6 +340,7 @@
   },
   {
     "strName" : "AIMaintenanceTechWorkOKLGRestore",
+    "strNameFriendly" : "MaintenanceTech restore",
     "strType" : "repeat",
     "strIATrigger" : "PLGAIMaintenanceTechWorkRestoreDo",
     "aIAEnd" : null,
@@ -318,6 +352,7 @@
   
   {
     "strName" : "AIFactionFight",
+    "strNameFriendly" : "Faction fight",
     "strType" : "faction",
     "strIATrigger" : "PLGAIFaction",
     "aIAEnd" : null,
@@ -326,6 +361,7 @@
   },
   {
     "strName" : "AIFreeUpSpace",
+    "strNameFriendly" : "Free up space",
     "strType" : "repeat",
     "strIATrigger" : "PLGAIFreeUpSpace",
     "aIAEnd" : ["PLGAIFreeUpSpaceDone"],
@@ -334,6 +370,7 @@
   },
   {
     "strName" : "AIReply",
+    "strNameFriendly" : "Reply",
     "strType" : "reply",
     "strIATrigger" : "Blank",
     "aIAEnd" : null,
@@ -342,6 +379,7 @@
   },
   {
     "strName" : "AIReportCrimeOKLGArrest",
+    "strNameFriendly" : "Report crime",
     "strType" : "repeat",
     "strIATrigger" : "PLGAIReportCrimeOKLGArrest",
     "aIAEnd" : ["PLGAIReportCrimeOKLGArrestDone"],
@@ -350,6 +388,7 @@
   },
   {
     "strName" : "AIReportCrimeOKLGThreat",
+    "strNameFriendly" : "Report crime",
     "strType" : "repeat",
     "strIATrigger" : "PLGAIReportCrimeOKLGThreat",
     "aIAEnd" : ["PLGAIReportCrimeOKLGThreatDone"],
@@ -358,6 +397,7 @@
   },
   {
     "strName" : "AIReportCrimeVenusArrest",
+    "strNameFriendly" : "Report crime",
     "strType" : "repeat",
     "strIATrigger" : "PLGAIReportCrimeVenusArrest",
     "aIAEnd" : ["PLGAIReportCrimeVenusArrestDone"],
@@ -366,6 +406,7 @@
   },
   {
     "strName" : "AIReportCrimeVenusThreat",
+    "strNameFriendly" : "Report crime",
     "strType" : "repeat",
     "strIATrigger" : "PLGAIReportCrimeVenusThreat",
     "aIAEnd" : ["PLGAIReportCrimeVenusThreatDone"],
@@ -374,6 +415,7 @@
   },
   {
     "strName" : "AIReportCrimeVenusTrespass",
+    "strNameFriendly" : "Report crime",
     "strType" : "repeat",
     "strIATrigger" : "PLGAIReportCrimeVenusTrespass",
     "aIAEnd" : ["PLGAIReportCrimeVenusTrespassNPCDone","PLGAIReportCrimeVenusTrespassDone"],
@@ -406,6 +448,7 @@
   },
   {
     "strName" : "Patrol",
+    "strNameFriendly" : "Patrol",
     "strType" : "patrol",
     "strIATrigger" : "PLGPatrolCommand",
     "aIAEnd" : [],
@@ -415,6 +458,7 @@
   },
   {
     "strName" : "DisembarkCommand",
+    "strNameFriendly" : "Disembark",
     "strType" : "disembark",
     "strIATrigger" : "PLGDisembarkCommand",
     "aIAEnd" : ["PLGDisembarkCommandFinish"],
@@ -424,6 +468,7 @@
   },
   {
     "strName" : "DisembarkAndUndock",
+    "strNameFriendly" : "Disembark and undock",
     "strType" : "disembark",
     "strIATrigger" : "PLGDisembarkCommand",
     "aIAEnd" : ["PLGDisembarkFinishNextUndock"],
@@ -433,6 +478,7 @@
   },
   {
     "strName" : "UndockStart",
+    "strNameFriendly" : "Undock",
     "strType" : "repeat",
     "strIATrigger" : "PLGUseNav",
     "aIAEnd" : [ "PLGUseNavEnd" ],
@@ -441,6 +487,7 @@
   },
   {
     "strName" : "AutoClose",
+    "strNameFriendly" : "Close",
     "strType" : "repeat",
     "strIATrigger" : "PLGAutoClose",
     "aIAEnd" : null,
@@ -449,6 +496,7 @@
   },
   {
     "strName" : "EmbarkCommand",
+    "strNameFriendly" : "Embark",
     "strType" : "embark",
     "strIATrigger" : "PLGEmbarkCommand",
     "aIAEnd" : ["PLGEmbarkCommandFinish"],
@@ -458,6 +506,7 @@
   },
   {
     "strName" : "FollowCommand",
+    "strNameFriendly" : "Follow",
     "strType" : "follow",
     "strIATrigger" : "PLGFollowCommand",
     "aIAEnd" : ["PLGFollowCommandFinish"],
@@ -467,6 +516,7 @@
   },
   {
     "strName" : "PoliceShakedown",
+    "strNameFriendly" : "Shakedown",
     "strType" : "repeat",
     "strIATrigger" : "SOCPoliceIntroduction",
     "aIAEnd" : ["PLGPoliceShakedownFinish"],
@@ -476,6 +526,7 @@
   },
   {
     "strName" : "StandTable",
+    "strNameFriendly" : "Stand",
     "strType" : "repeat",
     "strIATrigger" : "PLGStandTable",
     "aIAEnd" : null,
@@ -484,6 +535,7 @@
   },
   {
     "strName" : "StandTerminal",
+    "strNameFriendly" : "Stand",
     "strType" : "repeat",
     "strIATrigger" : "PLGStandTerminal",
     "aIAEnd" : null,
@@ -492,6 +544,7 @@
   },  
   {
     "strName" : "StandKiosk",
+    "strNameFriendly" : "Stand",
     "strType" : "repeat",
     "strIATrigger" : "PLGStandKiosk",
     "aIAEnd" : null,
@@ -501,6 +554,7 @@
 
       {
         "strName" : "StandTerminalBingham",
+        "strNameFriendly" : "Stand",
         "strType" : "repeat",
         "strIATrigger" : "PLGStandTerminalBingham",
         "aIAEnd" : null,
@@ -517,6 +571,7 @@
       },
       {
         "strName" : "StandTerminalRenbao",
+        "strNameFriendly" : "Stand",
         "strType" : "repeat",
         "strIATrigger" : "PLGStandTerminalRenbao",
         "aIAEnd" : null,
@@ -525,6 +580,7 @@
       },
       {
         "strName" : "StandTerminalGEC",
+        "strNameFriendly" : "Stand",
         "strType" : "repeat",
         "strIATrigger" : "PLGStandTerminalGEC",
         "aIAEnd" : null,
@@ -533,6 +589,7 @@
       },
       {
         "strName" : "StandTerminalClothes",
+        "strNameFriendly" : "Stand",
         "strType" : "repeat",
         "strIATrigger" : "PLGStandTerminalClothes",
         "aIAEnd" : null,
@@ -541,6 +598,7 @@
       },
       {
         "strName" : "StandTerminalShoes",
+        "strNameFriendly" : "Stand",
         "strType" : "repeat",
         "strIATrigger" : "PLGStandTerminalShoes",
         "aIAEnd" : null,
@@ -549,6 +607,7 @@
       },
       {
         "strName" : "StandTerminalCollectiveElectric",
+        "strNameFriendly" : "Stand",
         "strType" : "repeat",
         "strIATrigger" : "PLGStandTerminalCollectiveElectric",
         "aIAEnd" : null,
@@ -557,6 +616,7 @@
       },
       {
         "strName" : "StandTerminalRakow",
+        "strNameFriendly" : "Stand",
         "strType" : "repeat",
         "strIATrigger" : "PLGStandTerminalRakow",
         "aIAEnd" : null,
@@ -565,6 +625,7 @@
       },
       {
         "strName" : "StandTerminalKang",
+        "strNameFriendly" : "Stand",
         "strType" : "repeat",
         "strIATrigger" : "PLGStandTerminalKang",
         "aIAEnd" : null,
@@ -573,6 +634,7 @@
       },
       {
         "strName" : "StandTerminalSulaiman",
+        "strNameFriendly" : "Stand",
         "strType" : "repeat",
         "strIATrigger" : "PLGStandTerminalSulaiman",
         "aIAEnd" : null,
@@ -581,6 +643,7 @@
       },
       {
         "strName" : "StandTerminalWeber",
+        "strNameFriendly" : "Stand",
         "strType" : "repeat",
         "strIATrigger" : "PLGStandTerminalWeber",
         "aIAEnd" : null,
@@ -589,6 +652,7 @@
       },
       {
         "strName" : "StandTerminalHorang",
+        "strNameFriendly" : "Stand",
         "strType" : "repeat",
         "strIATrigger" : "PLGStandTerminalHorang",
         "aIAEnd" : null,
@@ -597,6 +661,7 @@
       },
       {
         "strName" : "StandTerminalHalvorson",
+        "strNameFriendly" : "Stand",
         "strType" : "repeat",
         "strIATrigger" : "PLGStandTerminalHalvorson",
         "aIAEnd" : null,
@@ -605,6 +670,7 @@
       },
       {
         "strName" : "StandTerminalBlackWing",
+        "strNameFriendly" : "Stand",
         "strType" : "repeat",
         "strIATrigger" : "PLGStandTerminalBlackWing",
         "aIAEnd" : null,
@@ -613,6 +679,7 @@
       },
       {
         "strName" : "StandTerminalFutureFoods",
+        "strNameFriendly" : "Stand",
         "strType" : "repeat",
         "strIATrigger" : "PLGStandTerminalFutureFoods",
         "aIAEnd" : null,
@@ -621,6 +688,7 @@
       },
       {
         "strName" : "StandTerminalGott",
+        "strNameFriendly" : "Stand",
         "strType" : "repeat",
         "strIATrigger" : "PLGStandTerminalGott",
         "aIAEnd" : null,

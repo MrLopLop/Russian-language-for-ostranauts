@@ -2012,10 +2012,10 @@
   { "strName" : "CONDPneumonitis3Per", "aCOs" : [ "CoughingBlood=1.0x1", "Dyspnea=1.0x1", "StatPain=1.0x10",  "-StatDefense=1.0x0.125","Feverish=0.75x1" ], "aLoots" : [], "strType" : "condition" },
   { "strName" : "CONDPronePer", "aCOs" : [ "ThreshStatGrav=1.0x0.75", "-StatDefense=1.0x0.1", "-ThreshStatSecurity=1.0x0.25", "StatMovSpeedPenalty=1.0x0.75" ], "aLoots" : [ ], "strType" : "condition" },
   { "strName" : "CONDRecoveringPer", "aCOs" : [ "StatSecurity=1.0x8", "-StatThreat=1.0x8" ], "aLoots" : [], "strType" : "condition" },
-  { "strName" : "CONDRefreshedPer", "aCOs" : [ "StatFatigueCoeff=1.0x0.05", "ThreshStatSecurity=1.0x0.05", "ThreshStatPrivacy=1.0x0.05", "ThreshStatAltruism=1.0x0.05", "-StatAltruism=1.0x5", "-StatSecurity=1.0x5", "-StatPrivacy=1.0x5", "-StatMovSpeedPenalty=1.0x0.02", "-StatWorkSpeedPenalty=1.0x0.02" ], "aLoots" : [ ], "strType" : "condition" },
-  { "strName" : "CONDRefreshed2Per", "aCOs" : [ "StatFatigueCoeff=1.0x0.1", "ThreshStatSecurity=1.0x0.1", "ThreshStatPrivacy=1.0x0.1", "ThreshStatAltruism=1.0x0.1", "-StatAltruism=1.0x10", "-StatSecurity=1.0x10", "-StatPrivacy=1.0x10", "-StatMovSpeedPenalty=1.0x0.05", "-StatWorkSpeedPenalty=1.0x0.05" ], "aLoots" : [ ], "strType" : "condition" },
-  { "strName" : "CONDRefreshed3Per", "aCOs" : [ "StatFatigueCoeff=1.0x0.2", "ThreshStatSecurity=1.0x0.2", "ThreshStatPrivacy=1.0x0.2", "ThreshStatAltruism=1.0x0.2", "-StatAltruism=1.0x10", "-StatSecurity=1.0x10", "-StatPrivacy=1.0x10", "-StatMovSpeedPenalty=1.0x0.1", "-StatWorkSpeedPenalty=1.0x0.1", "StatInstallRateAPPS=1.0x0.5", "StatInstallRateCTRL=1.0x0.5", "StatInstallRateFURN=1.0x0.5", "StatInstallRateHULL=1.0x0.5", "StatInstallRateHVAC=1.0x0.5", "StatInstallRateMISC=1.0x0.5", "StatInstallRatePOWR=1.0x0.5", "StatInstallRateSENS=1.0x0.5", "StatInstallRateSoftware=1.0x0.5", "StatInstallRateSUIT=1.0x0.5", "StatInstallRateWPNS=1.0x0.5" ], "aLoots" : [ ], "strType" : "condition" },
-  { "strName" : "CONDRefreshed4Per", "aCOs" : [ "StatFatigueCoeff=1.0x0.25", "ThreshStatSecurity=1.0x0.25", "ThreshStatPrivacy=1.0x0.25", "ThreshStatAltruism=1.0x0.25", "-StatAltruism=1.0x10", "-StatSecurity=1.0x10", "-StatPrivacy=1.0x10", "-StatMovSpeedPenalty=1.0x0.2", "-StatWorkSpeedPenalty=1.0x0.2", "StatInstallRateAPPS=1.0x1", "StatInstallRateCTRL=1.0x1", "StatInstallRateFURN=1.0x1", "StatInstallRateHULL=1.0x1", "StatInstallRateHVAC=1.0x1", "StatInstallRateMISC=1.0x1", "StatInstallRatePOWR=1.0x1", "StatInstallRateSENS=1.0x1", "StatInstallRateSoftware=1.0x1", "StatInstallRateSUIT=1.0x1", "StatInstallRateWPNS=1.0x1" ], "aLoots" : [ ], "strType" : "condition" },
+  { "strName" : "CONDRefreshedPer", "aCOs" : [ "StatFatigueHealRate=1.0x0.05", "ThreshStatSecurity=1.0x0.05", "ThreshStatPrivacy=1.0x0.05", "ThreshStatAltruism=1.0x0.05", "-StatAltruism=1.0x5", "-StatSecurity=1.0x5", "-StatPrivacy=1.0x5", "-StatMovSpeedPenalty=1.0x0.02", "-StatWorkSpeedPenalty=1.0x0.02" ], "aLoots" : [ ], "strType" : "condition" },
+  { "strName" : "CONDRefreshed2Per", "aCOs" : [ "StatFatigueHealRate=1.0x0.1", "ThreshStatSecurity=1.0x0.1", "ThreshStatPrivacy=1.0x0.1", "ThreshStatAltruism=1.0x0.1", "-StatAltruism=1.0x10", "-StatSecurity=1.0x10", "-StatPrivacy=1.0x10", "-StatMovSpeedPenalty=1.0x0.05", "-StatWorkSpeedPenalty=1.0x0.05" ], "aLoots" : [ ], "strType" : "condition" },
+  { "strName" : "CONDRefreshed3Per", "aCOs" : [ "StatFatigueHealRate=1.0x0.2", "ThreshStatSecurity=1.0x0.2", "ThreshStatPrivacy=1.0x0.2", "ThreshStatAltruism=1.0x0.2", "-StatAltruism=1.0x10", "-StatSecurity=1.0x10", "-StatPrivacy=1.0x10", "-StatMovSpeedPenalty=1.0x0.1", "-StatWorkSpeedPenalty=1.0x0.1", "StatInstallRateAPPS=1.0x0.5", "StatInstallRateCTRL=1.0x0.5", "StatInstallRateFURN=1.0x0.5", "StatInstallRateHULL=1.0x0.5", "StatInstallRateHVAC=1.0x0.5", "StatInstallRateMISC=1.0x0.5", "StatInstallRatePOWR=1.0x0.5", "StatInstallRateSENS=1.0x0.5", "StatInstallRateSoftware=1.0x0.5", "StatInstallRateSUIT=1.0x0.5", "StatInstallRateWPNS=1.0x0.5" ], "aLoots" : [ ], "strType" : "condition" },
+  { "strName" : "CONDRefreshed4Per", "aCOs" : [ "StatFatigueHealRate=1.0x0.25", "ThreshStatSecurity=1.0x0.25", "ThreshStatPrivacy=1.0x0.25", "ThreshStatAltruism=1.0x0.25", "-StatAltruism=1.0x10", "-StatSecurity=1.0x10", "-StatPrivacy=1.0x10", "-StatMovSpeedPenalty=1.0x0.2", "-StatWorkSpeedPenalty=1.0x0.2", "StatInstallRateAPPS=1.0x1", "StatInstallRateCTRL=1.0x1", "StatInstallRateFURN=1.0x1", "StatInstallRateHULL=1.0x1", "StatInstallRateHVAC=1.0x1", "StatInstallRateMISC=1.0x1", "StatInstallRatePOWR=1.0x1", "StatInstallRateSENS=1.0x1", "StatInstallRateSoftware=1.0x1", "StatInstallRateSUIT=1.0x1", "StatInstallRateWPNS=1.0x1" ], "aLoots" : [ ], "strType" : "condition" },
   { "strName" : "CONDRousedPer", "aCOs" : [ "ThreshStatSleepComfort=1.0x0.8" ], "aLoots" : [], "strType" : "condition" },
   { "strName" : "CONDSedativePer", "aCOs" : [ "-ThreshStatSleep=1.0x0.8", "StatSleepComfort=1.0x10" ], "aLoots" : [ ], "strType" : "condition" },
   { "strName" : "CONDSittingPer", "aCOs" : [ "ThreshStatSecurity=1.0x0.1", "-ThreshStatAchievement=1.0x0.1", "StatFatigueHealRate=1.0x0.3", "ThreshStatGrav=1.0x0.125" ], "aLoots" : [ ], "strType" : "condition" },
@@ -6745,6 +6745,7 @@
       "Bleeding=1.0x1",
       "BleedingInternal=1.0x1",
       "DcBodyTemp09=1.0x1",
+      "Blisters=1.0x1",
       "BurnsSevere=1.0x1",
       "Caffeine2=1.0x1",
       "Caffeine3=1.0x1",
@@ -7536,12 +7537,12 @@
   {
     "strName" : "CTACTPlayGame",
     "aCOs"    : [
-      "TDnAchievement=0.25x1-2",
-      "TUpContact=0.25x1-2",
-      "TUpEsteem=0.25x1-2",
-      "TDnAutonomy=1.0x1-3",
-      "TDnPrivacy=1.0x1-2",
-      "TDnSecurity=1.0x1-2"
+      "TDnAchievement=0.25x0.5-1",
+      "TUpContact=0.25x0.5-1",
+      "TUpEsteem=0.25x0.5-1",
+      "TDnAutonomy=1.0x0.5-1.5",
+      "TDnPrivacy=1.0x0.5-1",
+      "TDnSecurity=1.0x0.5-1"
     ],
     "aLoots"  : [
     ],
@@ -10830,6 +10831,24 @@
     "aLoots"  : [
     ],
     "strType" : "trigger"
+  },
+  {
+    "strName" : "GasPrices",
+    "aCOs"    : [
+      "CH4=1x2.2",
+      "CO2=1x1.3",
+      "He2=1x4.8",
+      "He3=1x7.73",
+      "H2=1x2.43",
+      "H2O=1x5.6",
+      "H2SO4=1x3.1",
+      "O2=1x13.2",
+      "N2=1x4.10",
+      "NH3=1x3.40"
+    ],
+    "aLoots"  : [
+    ],
+    "strType" : "condition"
   },
   {
     "strName" : "Itm[us]",

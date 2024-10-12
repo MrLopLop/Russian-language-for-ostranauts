@@ -6960,6 +6960,52 @@
   "PSpecTestThem": null
 },
 {
+  "strName" : "SOCFollowCommandStopSelf",
+  "strTitle" : "Перестать следовать",
+  "strDesc" : "[us] перестал следовать.",
+  "strTargetPoint" : "talk",
+  "strActionGroup" : "Talk",
+  "fTargetPointRange" : 0,
+  "strAnim"           : "Use",
+  "strBubble"         : "BblTalk",
+  "strColor"			: "Dialogue",
+  "bSocial" : true,
+  "bRandomInverse" : true,
+  "aInverse"          : [
+    "SOCFollowCommandStopSelfAllow"
+  ],
+  "fDuration"         : 0.00001,
+  "strThemType"       : "Self",
+  "nLogging"         : 0,
+  "bHumanOnly"     : true,
+  "nMoveType" : 6,
+  "LootCTsUs"       : null,
+  "LootCTsThem"     : null,
+  "CTTestUs"        : "TIsFollowCommand"
+},
+{
+  "strName" : "SOCFollowCommandStopSelfAllow",
+  "strTitle" : "Согласитесь прекратить следовать",
+  "strDesc" : "[us] перестал следовать.",
+  "strTargetPoint" : "talk",
+  "strActionGroup" : "Talk",
+  "fTargetPointRange" : 0,
+  "strAnim"           : "Use",
+  "strBubble"         : "BblAffirmative",
+  "strColor"			: "Dialogue",
+  "bSocial" : true,
+  "bRandomInverse" : true,
+  "aInverse"          : [
+  ],
+  "fDuration"         : 0.00001,
+  "strThemType"       : "Self",
+  "strRaiseUI"        : null,
+  "nLogging"         : 1,
+  "LootCTsUs"       : "CTSOCFollowCommandStopAllow",
+  "LootCTsThem"     : null,
+  "CTTestUs"           : "TIsHumanAwake"
+},
+{
   "strName": "SOCPoliceShakedownSuckUp",
   "strTitle": "Подхалимничать им",
   "strDesc": "[us] благодарит офицера за то, что он так усерден, и предполагает, что AyoSec - это единственное, что удерживает систему OKLG от падения в хаос.",

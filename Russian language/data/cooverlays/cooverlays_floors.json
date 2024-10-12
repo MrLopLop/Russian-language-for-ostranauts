@@ -2002,25 +2002,6 @@
             ]
         },
         {
-            "strName" : "ItmFloorCAYL09Patch",
-            "strNameFriendly" : "Плитка I-A (Patched): Caylon \"DuraFlor Int\"",
-            "strImg" : "tiles/FloorGrate12/ItmFloorGrate12IAPatch",
-            "strImgNorm" : "tiles/FloorGrate01/ItmFloorGrate01Patchn",
-            "strPortraitImg" : "tiles/FloorGrate12/ItmFloorGrate12IAPatch",
-            "strCOBase"    : "ItmFloorGrate01Patch",
-            "strCondLoot"    : "CNDOLFloorCAYL09A",
-            "strDmgColor"   : "DamageTintBrownMSSLF",
-            "mapModeSwitches"    : [
-                "ItmFloorGrate01", "ItmFloorCAYL09A",
-                "ItmFloorGrate01Patch", "ItmFloorCAYL09APatch",
-                "ItmFloorGrate01Dmg", "ItmFloorCAYL09ADmg",
-                "ItmFloorGrate01Loose", "ItmFloorCAYL09ALoose"
-            ],
-            "aDestSwaps"    : [
-                "StatDamage", "ACTFloorPlastic01Dmg"
-            ]
-        },
-        {
             "strName" : "ItmFloorCAYL09ALoose",
             "strNameFriendly" : "Плитка I-A (Loose): Caylon \"DuraFlor Int\"",
             "strImg" : "tiles/FloorGrate12/ItmFloorGrate12IALoose",

@@ -224,6 +224,7 @@
       "IsDataRobotCracker","B43-B-G0N3","[us] — это программное обеспечение для взлома ОС дронов Beydat.","2","2","Neutral",
       "IsDebugCondRuleFixed","CondRule Fixed","[us] исправлены дубликаты их CondRule.","0","0","Neutral",
       "IsDebugHaulerBangFixed","Hauler Bang Fixed","[us] — это грузовик, у которого исправлена ошибка станции.","0","0","Neutral",
+      "IsDebugMovWorkPenaltyFixed","Штраф за перемещение работы исправлен","Этот сохраненный файл получил исправление для неправильных штрафов за перемещение/работу с 0.14.0.15 и ранее","0","0","Neutral",
       "IsDecor","Decor","[us] является декоративным предметом.","2","2","Goodish",
       "IsDecorPoster","Poster","[us] — это декоративный постер.","0","0","Neutral",
       "IsDecorPoster00","Poster 00","[us] — это декоративный постер 00.","0","0","Neutral",
