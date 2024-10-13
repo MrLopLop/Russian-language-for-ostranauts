@@ -12,3 +12,4 @@ https://bluebottlegames.com/games/ostranauts
 
 2: Скопируйте содержимое архива в папу Mods
 
+# licence: CC-BY-NC-SA v3.0
