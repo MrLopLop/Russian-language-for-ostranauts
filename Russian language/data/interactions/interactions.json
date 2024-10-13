@@ -1000,9 +1000,9 @@
   },
   {
     "strName" : "ACTDispenseLiquid",
-    "strTitle" : "Выдача жидкости",
-    "strDesc" : "[us] собирается выдать жидкость из [them].",
-    "strTooltip" : "Выдает жидкость в переносной водонепроницаемый контейнер.",
+    "strTitle" : "Набрать",
+    "strDesc" : "[us] собирается набрать жидкость из [them].",
+    "strTooltip" : "Набрать жидкость в переносной водонепроницаемый контейнер.",
     "strActionGroup" : "Use",
     "strTargetPoint" : "use",
     "fTargetPointRange" : 1,

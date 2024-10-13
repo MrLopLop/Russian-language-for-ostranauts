@@ -3,7 +3,8 @@
     "strName": "Russian language",
     "strAuthor": "Mr_Lop_Lop https://github.com/MrLopLop",
     "strModURL": "https://github.com/MrLopLop/Russian-language-for-ostranauts",
-    "strGameVersion": "0.8.0.0",
+    "license" : "CC-BY-NC-SA v3.0",
+    "strGameVersion": "0.14.0.17",
     "strModVersion": "0.1A",
     "strNotes": "Машинный перевод на русский язык"
   }
