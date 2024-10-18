@@ -340,7 +340,7 @@
     "strName": "FerryKiosk",
     "dictGUIPropMap": [
       "strGUIPrefab", "Ferry",
-      "strFriendlyName", "Киоск парома",
+      "strFriendlyName", "Киоск такси",
       "strGUIPrefabRight", null,
       "strGUIPrefabLeft", null,
       "strGUIPrefabUp", null,

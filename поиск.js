@@ -40,6 +40,11 @@ const checkJsonFile = async (filePath) => {
             if (item.strNameShort !== undefined) {
                 logEntry["strNameShort"] = item.strNameShort;
             }
+
+            if (item.strName !== undefined) {
+                logEntry["strName"] = item.strName
+            }
+
             if (item.strNameFriendly !== undefined) {
                 logEntry["strNameFriendly"] = item.strNameFriendly;
             }
@@ -51,6 +56,9 @@ const checkJsonFile = async (filePath) => {
             }
             if (item.strDesc !== undefined) {
                 logEntry["strDesc"] = item.strDesc;
+            }
+            if (item.strTooltip !== undefined) {
+                logEntry["strTooltip"] = item.strTooltip;
             }
 
             if (Object.keys(logEntry).length > 0) {

@@ -546,7 +546,7 @@
 {
     "strName": "SHIPLeoLicenseDivert",
     "strTitle": "LEO лицензия в порядке",
-    "strDesc": "Разрешение на спасательные операции вашего транспондера, похоже, в полном порядке. Хорошего дня, гражданин.",
+    "strDesc": "Разрешение на утилизационные операции вашего транспондера, похоже, в полном порядке. Хорошего дня, гражданин.",
     "strActionGroup": "Ship",
     "strColor": "StatusRed",
     "bSocial": true,
@@ -1381,7 +1381,7 @@
   {
     "strName": "SHIPComingAllow",
     "strTitle": "Корабль подлетит",
-    "strDesc": "[them] летит к нам",
+    "strDesc": "[them] летим к вам",
     "strActionGroup": "Ship",
     "strColor": "SocialStatusGreen",
     "aInverse": [],

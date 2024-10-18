@@ -5751,7 +5751,7 @@
 {
     "strName": "ACTUninstallTEMPAllow",
     "strTitle": "Демонтировать TEMP",
-    "strDesc": "[us] Демонтировать [them].",
+    "strDesc": "[us] Демонтирует [them].",
     "strActionGroup": "Work",
     "strTargetPoint": null,
     "fTargetPointRange": 1,

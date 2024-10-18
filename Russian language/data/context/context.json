@@ -7,7 +7,7 @@
     {
         "strName" : "ACTPortAuthorityEntryUs",
         "strTitle" : "Портовая власть",
-        "strMainText" : "Убедите клерка отложить оплату за швартовку на этот раз."
+        "strMainText" : "Убедите клерка отложить оплату за стыковку на этот раз."
     },
     {
         "strName" : "ACTPoliceShakedownThem",
